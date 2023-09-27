@@ -5,6 +5,13 @@
     "id": 457243826,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Christian religious building",
+        "created": "2020-06-03T20:24:49.574Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "dmellgard"
+      },
+      {
         "id": 88082817,
         "value": "* Bell tower shape?: Campanario (bell wall)",
         "purpose": "tagging",
@@ -34,6 +41,13 @@
     "type": "Annotation",
     "id": 457243840,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Christian religious building",
+        "created": "2020-06-03T20:25:56.094Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "dmellgard"
+      },
       {
         "id": 88082826,
         "value": "* Ruined or intact?: Intact",
@@ -96,6 +110,13 @@
     "type": "Annotation",
     "id": 457243418,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-03T20:01:53.511Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "dmellgard"
+      },
       {
         "id": 88448870,
         "value": "* Outer-most (low) wall, Outer ward wall or Inner ward wall?: Outermost (low) wall",
@@ -175,6 +196,13 @@
     "id": 457243598,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-03T20:11:54.760Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "dmellgard"
+      },
+      {
         "id": 88448865,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -252,6 +280,13 @@
     "type": "Annotation",
     "id": 457243621,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-06-03T20:13:00.521Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "dmellgard"
+      },
       {
         "id": 88448887,
         "value": "* Tower Shape?: Rectangular",
@@ -331,6 +366,13 @@
     "id": 457243634,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-06-03T20:13:42.453Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "dmellgard"
+      },
+      {
         "id": 88448895,
         "value": "* Tower Shape?: Rectangular",
         "purpose": "tagging",
@@ -409,6 +451,13 @@
     "id": 457243706,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Bodies of water",
+        "created": "2020-06-03T20:19:10.814Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "dmellgard"
+      },
+      {
         "id": 88448879,
         "value": "* River, Ocean or Pond?: River",
         "purpose": "tagging",
@@ -430,6 +479,13 @@
     "type": "Annotation",
     "id": 457243878,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Container",
+        "created": "2020-06-03T20:27:35.467Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "dmellgard"
+      },
       {
         "id": 88373132,
         "value": "* Number of rocks or trees in the container?: 10",
@@ -460,6 +516,13 @@
     "type": "Annotation",
     "id": 457244219,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-06-03T20:46:20.113Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "dmellgard"
+      },
       {
         "id": 88082763,
         "value": "* Tower Shape?: Rectangular",
@@ -539,6 +602,13 @@
     "id": 457244237,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T20:47:05.583Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "dmellgard"
+      },
+      {
         "id": 88082732,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -575,7 +645,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 457243901,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Path",
+        "created": "2020-06-03T20:29:08.641Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "dmellgard"
+      }
+    ],
     "target": {
       "source": "mirando_do_douro2.jpg",
       "selector": {
@@ -588,7 +666,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 457243910,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Path",
+        "created": "2020-06-03T20:30:07.669Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "dmellgard"
+      }
+    ],
     "target": {
       "source": "mirando_do_douro2.jpg",
       "selector": {
@@ -602,6 +688,13 @@
     "type": "Annotation",
     "id": 457243921,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-03T20:30:49.861Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "dmellgard"
+      },
       {
         "id": 88372976,
         "value": "* Roof structure type: House",
@@ -649,6 +742,13 @@
     "id": 457244247,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T20:47:29.876Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "dmellgard"
+      },
+      {
         "id": 88082729,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -686,6 +786,13 @@
     "type": "Annotation",
     "id": 457244250,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T20:47:38.446Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "dmellgard"
+      },
       {
         "id": 88082725,
         "value": "* Ruined or intact?: Intact",
@@ -725,6 +832,13 @@
     "id": 458474799,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-06T17:47:28.340Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88448823,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -763,6 +877,13 @@
     "id": 457243944,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T20:31:40.329Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "dmellgard"
+      },
+      {
         "id": 88082746,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -800,6 +921,13 @@
     "type": "Annotation",
     "id": 458474834,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-06T17:50:26.184Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88372974,
         "value": "* Roof structure type: House",
@@ -847,6 +975,13 @@
     "id": 457243948,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T20:31:54.358Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "dmellgard"
+      },
+      {
         "id": 88082755,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -885,6 +1020,13 @@
     "id": 458476395,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-06T18:03:42.659Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88448820,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -922,6 +1064,13 @@
     "type": "Annotation",
     "id": 457244095,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Keep",
+        "created": "2020-06-03T20:39:58.132Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "dmellgard"
+      },
       {
         "id": 88177737,
         "value": "* Ruined or intact?: Intact",
@@ -1009,6 +1158,13 @@
     "id": 457244106,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Keep",
+        "created": "2020-06-03T20:40:56.755Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "dmellgard"
+      },
+      {
         "id": 88177725,
         "value": "Arrow slits (Individual): null",
         "purpose": "tagging",
@@ -1095,6 +1251,13 @@
     "id": 458476467,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-06T18:05:13.866Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88448817,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1133,6 +1296,13 @@
     "id": 457244137,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-03T20:42:29.176Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "dmellgard"
+      },
+      {
         "id": 88373018,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -1162,6 +1332,13 @@
     "type": "Annotation",
     "id": 458476487,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-06T18:06:14.879Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88448814,
         "value": "* Ruined or intact?: Intact",
@@ -1200,6 +1377,13 @@
     "type": "Annotation",
     "id": 457244158,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-03T20:43:56.938Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "dmellgard"
+      },
       {
         "id": 88448878,
         "value": "* Ruined or intact?: Intact",
@@ -1295,6 +1479,13 @@
     "id": 458476544,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-06T18:08:01.307Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88372990,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -1340,6 +1531,13 @@
     "type": "Annotation",
     "id": 457244205,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-06-03T20:45:44.926Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "dmellgard"
+      },
       {
         "id": 88082771,
         "value": "* Tower Shape?: Rectangular",
@@ -1419,6 +1617,13 @@
     "id": 458476573,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-06T18:08:50.333Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88448811,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1456,6 +1661,13 @@
     "type": "Annotation",
     "id": 457243856,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Christian religious building",
+        "created": "2020-06-03T20:26:42.982Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "dmellgard"
+      },
       {
         "id": 88082824,
         "value": "* Ruined or intact?: Intact",
@@ -1519,6 +1731,13 @@
     "id": 458476615,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-06T18:10:26.774Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88448808,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -1556,6 +1775,13 @@
     "type": "Annotation",
     "id": 458476874,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Christian religious building",
+        "created": "2020-06-06T18:19:31.476Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88082832,
         "value": "* Ruined or intact?: Intact",
@@ -1619,6 +1845,13 @@
     "id": 458477407,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-06-06T18:35:36.160Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88082837,
         "value": "* Singular or sample from a group?: Sample from a group",
         "purpose": "tagging",
@@ -1640,6 +1873,13 @@
     "type": "Annotation",
     "id": 458477423,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-06-06T18:36:18.766Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88082839,
         "value": "* Singular or sample from a group?: Sample from a group",
@@ -1663,6 +1903,13 @@
     "id": 458477434,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-06-06T18:36:58.320Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88448875,
         "value": "* Singular or sample from a group?: Sample from a group",
         "purpose": "tagging",
@@ -1684,6 +1931,13 @@
     "type": "Annotation",
     "id": 458477446,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-06-06T18:37:50.653Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88448874,
         "value": "* Singular or sample from a group?: Sample from a group",
@@ -1707,6 +1961,13 @@
     "id": 458477462,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-06-06T18:38:30.354Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88082841,
         "value": "* Singular or sample from a group?: Sample from a group",
         "purpose": "tagging",
@@ -1728,6 +1989,13 @@
     "type": "Annotation",
     "id": 458477498,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-06-06T18:40:02.361Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88082844,
         "value": "* Singular or sample from a group?: Sample from a group",
@@ -1751,6 +2019,13 @@
     "id": 458477533,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-06-06T18:41:08.600Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88448872,
         "value": "* Singular or sample from a group?: Sample from a group",
         "purpose": "tagging",
@@ -1772,6 +2047,13 @@
     "type": "Annotation",
     "id": 458477590,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Container",
+        "created": "2020-06-06T18:45:51.096Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88373126,
         "value": "* Number of rocks or trees in the container?: 17",
@@ -1803,6 +2085,13 @@
     "id": 458477695,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-06-06T18:55:20.059Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88448871,
         "value": "* Singular or sample from a group?: Sample from a group",
         "purpose": "tagging",
@@ -1824,6 +2113,13 @@
     "type": "Annotation",
     "id": 458477700,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-06-06T18:56:45.959Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88082848,
         "value": "* Singular or sample from a group?: Sample from a group",
@@ -1847,6 +2143,13 @@
     "id": 458477715,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-06-06T18:58:13.306Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88082851,
         "value": "* Singular or sample from a group?: Sample from a group",
         "purpose": "tagging",
@@ -1868,6 +2171,13 @@
     "type": "Annotation",
     "id": 458477810,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Container",
+        "created": "2020-06-06T19:03:27.461Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88373124,
         "value": "* Number of rocks or trees in the container?: 11",
@@ -1897,7 +2207,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 458725328,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Path",
+        "created": "2020-06-08T13:36:09.247Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      }
+    ],
     "target": {
       "source": "mirando_do_douro2.jpg",
       "selector": {
@@ -1910,7 +2228,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 458725386,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Path",
+        "created": "2020-06-08T13:38:24.182Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      }
+    ],
     "target": {
       "source": "mirando_do_douro2.jpg",
       "selector": {
@@ -1924,6 +2250,13 @@
     "type": "Annotation",
     "id": 458725625,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-08T13:44:58.939Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88110249,
         "value": "* Ruined or intact?: Ruined",
@@ -2002,6 +2335,13 @@
     "type": "Annotation",
     "id": 458725757,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-08T13:50:18.062Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88110259,
         "value": "* Ruined or intact?: Intact",
@@ -2097,6 +2437,13 @@
     "id": 458725963,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-06-08T13:56:14.705Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88110267,
         "value": "* Tower Shape?: Polygonal",
         "purpose": "tagging",
@@ -2174,6 +2521,13 @@
     "type": "Annotation",
     "id": 458726030,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-06-08T13:58:35.493Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88110276,
         "value": "* Tower Shape?: Polygonal",
@@ -2253,6 +2607,13 @@
     "id": 458726076,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-06-08T14:01:01.404Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88448860,
         "value": "* Tower Shape?: Polygonal",
         "purpose": "tagging",
@@ -2330,6 +2691,13 @@
     "type": "Annotation",
     "id": 458726101,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-08T14:02:27.893Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88110290,
         "value": "Window (Grilled): null",
@@ -2433,6 +2801,13 @@
     "id": 458728363,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-06-08T14:39:18.186Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88110299,
         "value": "* Tower Shape?: Rectangular",
         "purpose": "tagging",
@@ -2511,6 +2886,13 @@
     "id": 458728473,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-06-08T14:42:12.570Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88110307,
         "value": "* Tower Shape?: Rectangular",
         "purpose": "tagging",
@@ -2588,6 +2970,13 @@
     "type": "Annotation",
     "id": 458728661,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-08T14:45:23.829Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88110317,
         "value": "* Outer-most (low) wall, Outer ward wall or Inner ward wall?: Outermost (low) wall",
@@ -2683,6 +3072,13 @@
     "id": 458956795,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-08T21:48:18.564Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88170662,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2776,6 +3172,13 @@
     "type": "Annotation",
     "id": 458956858,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-08T21:51:31.298Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88170657,
         "value": "* Ruined or intact?: Intact",
@@ -2871,6 +3274,13 @@
     "id": 459267849,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-08T22:49:26.675Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88448852,
         "value": "* Ruined or intact?: Ruined",
         "purpose": "tagging",
@@ -2948,6 +3358,13 @@
     "type": "Annotation",
     "id": 459267861,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-08T22:49:55.113Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88170674,
         "value": "* Ruined or intact?: Ruined",
@@ -3027,6 +3444,13 @@
     "id": 459267884,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-08T22:52:01.086Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88170684,
         "value": "* Curved wall or straight?: Straight",
         "purpose": "tagging",
@@ -3104,6 +3528,13 @@
     "type": "Annotation",
     "id": 459267898,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-08T22:53:38.811Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88170692,
         "value": "* Outer-most (low) wall, Outer ward wall or Inner ward wall?: Outermost (low) wall",
@@ -3183,6 +3614,13 @@
     "id": 459267910,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-08T22:54:54.550Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88170701,
         "value": "* Ruined or intact?: Ruined",
         "purpose": "tagging",
@@ -3260,6 +3698,13 @@
     "type": "Annotation",
     "id": 459267924,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-08T22:56:39.821Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88170710,
         "value": "Embrasures: null",
@@ -3347,6 +3792,13 @@
     "id": 459267983,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-08T23:01:27.112Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88170718,
         "value": "* Ruined or intact?: Ruined",
         "purpose": "tagging",
@@ -3424,6 +3876,13 @@
     "type": "Annotation",
     "id": 459267994,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-08T23:03:13.658Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88170728,
         "value": "Embrasures: null",
@@ -3511,6 +3970,13 @@
     "id": 459268028,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-08T23:05:12.511Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88170738,
         "value": "Embrasures: null",
         "purpose": "tagging",
@@ -3597,6 +4063,13 @@
     "id": 459268058,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-08T23:06:47.069Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88170747,
         "value": "* Ruined or intact?: Ruined",
         "purpose": "tagging",
@@ -3675,6 +4148,13 @@
     "id": 459268073,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-08T23:09:16.097Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88170759,
         "value": "* Crenellated, flat or both?: Flat",
         "purpose": "tagging",
@@ -3752,6 +4232,13 @@
     "type": "Annotation",
     "id": 459268084,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-08T23:11:54.468Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88170770,
         "value": "* Outer-most (low) wall, Outer ward wall or Inner ward wall?: Outermost (low) wall",
@@ -3847,6 +4334,13 @@
     "id": 459268167,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-08T23:21:05.159Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88170780,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3940,6 +4434,13 @@
     "type": "Annotation",
     "id": 459268191,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-08T23:22:55.705Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88170781,
         "value": "* Partially occluded or Complete?: Complete",
@@ -4035,6 +4536,13 @@
     "id": 459269240,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-08T23:25:51.313Z",
+        "updated": "2021-06-30T19:37:40.831Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88170793,
         "value": "* Partially occluded or Complete?: Complete",
         "purpose": "tagging",
@@ -4120,6 +4628,13 @@
     "type": "Annotation",
     "id": 459269247,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-08T23:31:14.716Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88170815,
         "value": "Door (Round-headed): null",
@@ -4223,6 +4738,13 @@
     "id": 459269251,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-06-08T23:34:13.081Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88170827,
         "value": "* Tower Shape?: Rectangular",
         "purpose": "tagging",
@@ -4301,6 +4823,13 @@
     "id": 459269254,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-06-08T23:36:32.164Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88448839,
         "value": "* Tower Shape?: Rectangular",
         "purpose": "tagging",
@@ -4378,6 +4907,13 @@
     "type": "Annotation",
     "id": 459269257,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-08T23:38:10.977Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88170833,
         "value": "* Castle wall or city wall?: City wall",
@@ -4473,6 +5009,13 @@
     "id": 459269266,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-08T23:45:32.203Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88170851,
         "value": "* Outer-most (low) wall, Outer ward wall or Inner ward wall?: Outer ward wall",
         "purpose": "tagging",
@@ -4567,6 +5110,13 @@
     "id": 459269271,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-08T23:49:40.854Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88170860,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4652,6 +5202,13 @@
     "type": "Annotation",
     "id": 459269272,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-08T23:52:03.662Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88170870,
         "value": "* Ruined or intact?: Intact",
@@ -4747,6 +5304,13 @@
     "id": 459269273,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-08T23:54:43.599Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88170877,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4817,6 +5381,13 @@
     "id": 459269274,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-08T23:57:01.854Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88448828,
         "value": "* Coursed, blank or both?: Blank",
         "purpose": "tagging",
@@ -4886,6 +5457,13 @@
     "type": "Annotation",
     "id": 459270120,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-06-08T23:58:36.928Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88170892,
         "value": "* Tower Shape?: Rectangular",
@@ -4965,6 +5543,13 @@
     "id": 459270121,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-06-09T00:00:20.329Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88170900,
         "value": "* Tower Shape?: Rectangular",
         "purpose": "tagging",
@@ -5043,6 +5628,13 @@
     "id": 459270164,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-09T00:11:43.882Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88448800,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5080,6 +5672,13 @@
     "type": "Annotation",
     "id": 459270166,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-09T00:12:30.438Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88372993,
         "value": "* Roof structure type: House",
@@ -5127,6 +5726,13 @@
     "id": 459270172,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-09T00:14:53.980Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88170930,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5164,6 +5770,13 @@
     "type": "Annotation",
     "id": 459270173,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-09T00:15:57.783Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88170933,
         "value": "* Ruined or intact?: Intact",
@@ -5203,6 +5816,13 @@
     "id": 459270175,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-09T00:17:04.175Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88170935,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -5232,6 +5852,13 @@
     "type": "Annotation",
     "id": 459270177,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-09T00:17:57.585Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88170938,
         "value": "* Ruined or intact?: Intact",
@@ -5271,6 +5898,13 @@
     "id": 459270182,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-09T00:21:10.493Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88170945,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5308,6 +5942,13 @@
     "type": "Annotation",
     "id": 459276740,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-09T00:21:57.286Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88176757,
         "value": "* Ruined or intact?: Intact",
@@ -5347,6 +5988,13 @@
     "id": 459276748,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-09T00:24:27.309Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88176767,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5384,6 +6032,13 @@
     "type": "Annotation",
     "id": 459276751,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-09T00:25:05.269Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88448794,
         "value": "* Ruined or intact?: Intact",
@@ -5423,6 +6078,13 @@
     "id": 459276753,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-09T00:26:15.145Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88176770,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5460,6 +6122,13 @@
     "type": "Annotation",
     "id": 459276757,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-09T00:28:20.215Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88176777,
         "value": "* Ruined or intact?: Intact",
@@ -5499,6 +6168,13 @@
     "id": 459276759,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-09T00:29:36.020Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88176780,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5537,6 +6213,13 @@
     "id": 459276761,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-09T00:30:38.856Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88176785,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5574,6 +6257,13 @@
     "type": "Annotation",
     "id": 459276763,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-09T00:31:20.590Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88373011,
         "value": "* Roof structure type: House",
@@ -5621,6 +6311,13 @@
     "id": 459276774,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-09T00:33:25.314Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88176797,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5659,6 +6356,13 @@
     "id": 459276939,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-09T00:34:03.258Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88176802,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5696,6 +6400,13 @@
     "type": "Annotation",
     "id": 459277500,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-09T00:36:04.843Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88373015,
         "value": "* Roof structure type: House",
@@ -5743,6 +6454,13 @@
     "id": 459277685,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-09T00:36:42.485Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88176813,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5780,6 +6498,13 @@
     "type": "Annotation",
     "id": 459277854,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-06-09T00:37:18.930Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88176824,
         "value": "* Tower Shape?: Rectangular",
@@ -5859,6 +6584,13 @@
     "id": 459279140,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-06-09T00:38:54.554Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88176833,
         "value": "* Tower Shape?: Rectangular",
         "purpose": "tagging",
@@ -5937,6 +6669,13 @@
     "id": 459282658,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Flag",
+        "created": "2020-06-09T00:41:23.431Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88182192,
         "value": "* Flag Affiliation: Portugal",
         "purpose": "tagging",
@@ -5975,6 +6714,13 @@
     "id": 459284177,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-06-09T00:53:38.064Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88448827,
         "value": "* Singular or sample from a group?: Sample from a group",
         "purpose": "tagging",
@@ -5996,6 +6742,13 @@
     "type": "Annotation",
     "id": 459285246,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-06-09T00:59:17.420Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88448826,
         "value": "* Singular or sample from a group?: Sample from a group",
@@ -6019,6 +6772,13 @@
     "id": 459285702,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-06-09T01:00:28.363Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88448825,
         "value": "* Singular or sample from a group?: Sample from a group",
         "purpose": "tagging",
@@ -6040,6 +6800,13 @@
     "type": "Annotation",
     "id": 457243934,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T20:31:10.510Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "dmellgard"
+      },
       {
         "id": 88082752,
         "value": "* Ruined or intact?: Intact",
@@ -6079,6 +6846,13 @@
     "id": 459288471,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-06-09T01:02:03.165Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88448824,
         "value": "* Singular or sample from a group?: Sample from a group",
         "purpose": "tagging",
@@ -6100,6 +6874,13 @@
     "type": "Annotation",
     "id": 457244241,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-03T20:47:15.923Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "dmellgard"
+      },
       {
         "id": 88372969,
         "value": "* Roof structure type: House",
@@ -6147,6 +6928,13 @@
     "id": 459291760,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-06-09T01:04:45.806Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88177674,
         "value": "* Singular or sample from a group?: Sample from a group",
         "purpose": "tagging",
@@ -6176,6 +6964,13 @@
     "type": "Annotation",
     "id": 458476432,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-06T18:04:29.903Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88372983,
         "value": "* Roof structure type: House",
@@ -6223,6 +7018,13 @@
     "id": 459291761,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-06-09T01:05:36.967Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88177677,
         "value": "* Singular or sample from a group?: Single",
         "purpose": "tagging",
@@ -6252,6 +7054,13 @@
     "type": "Annotation",
     "id": 458476600,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-06T18:09:40.128Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88448804,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -6291,6 +7100,13 @@
     "id": 459291763,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-06-09T01:06:10.352Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88177681,
         "value": "* Singular or sample from a group?: Single",
         "purpose": "tagging",
@@ -6320,6 +7136,13 @@
     "type": "Annotation",
     "id": 459270129,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-09T00:02:58.543Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88372995,
         "value": "* Roof structure type: House",
@@ -6367,6 +7190,13 @@
     "id": 459291768,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-06-09T01:06:59.980Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88177684,
         "value": "* Singular or sample from a group?: Single",
         "purpose": "tagging",
@@ -6396,6 +7226,13 @@
     "type": "Annotation",
     "id": 459270136,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-09T00:04:52.804Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88170907,
         "value": "* Ruined or intact?: Intact",
@@ -6435,6 +7272,13 @@
     "id": 459291783,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-06-09T01:07:35.398Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88177687,
         "value": "* Singular or sample from a group?: Single",
         "purpose": "tagging",
@@ -6464,6 +7308,13 @@
     "type": "Annotation",
     "id": 459270138,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-09T00:06:36.500Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88170910,
         "value": "* Ruined or intact?: Intact",
@@ -6503,6 +7354,13 @@
     "id": 459291850,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-06-09T01:08:26.749Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88177691,
         "value": "* Singular or sample from a group?: Single",
         "purpose": "tagging",
@@ -6532,6 +7390,13 @@
     "type": "Annotation",
     "id": 459270140,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-09T00:07:34.519Z",
+        "updated": "2020-06-17T18:00:18.936Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88170913,
         "value": "* Ruined or intact?: Intact",
@@ -6571,6 +7436,13 @@
     "id": 459291908,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-06-09T01:09:29.170Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88177693,
         "value": "* Singular or sample from a group?: Single",
         "purpose": "tagging",
@@ -6600,6 +7472,13 @@
     "type": "Annotation",
     "id": 459270160,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-09T00:10:18.269Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88170919,
         "value": "* Ruined or intact?: Intact",
@@ -6639,6 +7518,13 @@
     "id": 459292036,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-06-09T01:10:44.678Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88177695,
         "value": "* Singular or sample from a group?: Sample from a group",
         "purpose": "tagging",
@@ -6668,6 +7554,13 @@
     "type": "Annotation",
     "id": 459270156,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-09T00:09:00.943Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88170916,
         "value": "* Ruined or intact?: Intact",
@@ -6707,6 +7600,13 @@
     "id": 459292491,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-06-09T01:11:29.915Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88448797,
         "value": "* Singular or sample from a group?: Single",
         "purpose": "tagging",
@@ -6728,6 +7628,13 @@
     "type": "Annotation",
     "id": 459270168,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-09T00:13:43.964Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88372997,
         "value": "* Roof structure type: House",
@@ -6775,6 +7682,13 @@
     "id": 459293988,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-06-09T01:13:26.414Z",
+        "updated": "2020-06-16T01:16:44.257Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88448796,
         "value": "* Singular or sample from a group?: Sample from a group",
         "purpose": "tagging",
@@ -6796,6 +7710,13 @@
     "type": "Annotation",
     "id": 459270180,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-09T00:19:54.786Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88373002,
         "value": "* Roof structure type: House",
@@ -6843,6 +7764,13 @@
     "id": 459295215,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-06-09T01:14:53.091Z",
+        "updated": "2020-06-16T01:16:41.119Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88448795,
         "value": "* Singular or sample from a group?: Single",
         "purpose": "tagging",
@@ -6864,6 +7792,13 @@
     "type": "Annotation",
     "id": 459276741,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-09T00:22:31.239Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88372999,
         "value": "* Roof structure type: House",
@@ -6911,6 +7846,13 @@
     "id": 459583472,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-06-09T02:36:27.301Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88177671,
         "value": "* Singular or sample from a group?: Single",
         "purpose": "tagging",
@@ -6940,6 +7882,13 @@
     "type": "Annotation",
     "id": 459276745,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-09T00:23:19.398Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88176764,
         "value": "* Ruined or intact?: Intact",
@@ -6979,6 +7928,13 @@
     "id": 459583515,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-06-09T02:40:40.279Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88177697,
         "value": "* Singular or sample from a group?: Single",
         "purpose": "tagging",
@@ -7008,6 +7964,13 @@
     "type": "Annotation",
     "id": 459276755,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-09T00:26:58.609Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88373007,
         "value": "* Roof structure type: House",
@@ -7055,6 +8018,13 @@
     "id": 459583520,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-06-09T02:41:36.326Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88177701,
         "value": "* Singular or sample from a group?: Single",
         "purpose": "tagging",
@@ -7084,6 +8054,13 @@
     "type": "Annotation",
     "id": 459276765,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-09T00:32:14.013Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88176794,
         "value": "* Ruined or intact?: Intact",
@@ -7123,6 +8100,13 @@
     "id": 459583523,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-06-09T02:42:36.090Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88177704,
         "value": "* Partially occluded or Complete?: Complete",
         "purpose": "tagging",
@@ -7152,6 +8136,13 @@
     "type": "Annotation",
     "id": 459277252,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-09T00:35:15.742Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88176805,
         "value": "* Ruined or intact?: Intact",
@@ -7191,6 +8182,13 @@
     "id": 459636687,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-06-09T03:28:24.802Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88177929,
         "value": "* Singular or sample from a group?: Sample from a group",
         "purpose": "tagging",
@@ -7220,6 +8218,13 @@
     "type": "Annotation",
     "id": 459636710,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Container",
+        "created": "2020-06-09T03:30:25.400Z",
+        "updated": "2020-06-12T20:37:57.053Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88373122,
         "value": "* Number of rocks or trees in the container?: 3",
@@ -7251,6 +8256,13 @@
     "id": 459939952,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-09T14:09:35.726Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88373029,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -7280,6 +8292,13 @@
     "type": "Annotation",
     "id": 459940005,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-09T14:11:04.809Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88373077,
         "value": "* Landform type: Hill",
@@ -7311,6 +8330,13 @@
     "id": 459940059,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-09T14:12:49.267Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88448791,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -7340,6 +8366,13 @@
     "type": "Annotation",
     "id": 459944023,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-09T14:36:31.083Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88373027,
         "value": "* Landform type: Hill",
@@ -7371,6 +8404,13 @@
     "id": 459944175,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-09T14:38:32.809Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88373023,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -7400,6 +8440,13 @@
     "type": "Annotation",
     "id": 459944282,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-09T14:40:15.519Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88373020,
         "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
@@ -7431,6 +8478,13 @@
     "id": 459944510,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-09T14:44:41.141Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88373021,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -7460,6 +8514,13 @@
     "type": "Annotation",
     "id": 459946169,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-09T14:51:53.282Z",
+        "updated": "2021-06-30T15:09:28.958Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88373116,
         "value": "* Landform type: Hill",
@@ -7491,6 +8552,13 @@
     "id": 459946778,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-09T15:00:33.972Z",
+        "updated": "2020-06-16T01:12:00.046Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88373120,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -7519,7 +8587,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 459948632,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Sky",
+        "created": "2020-06-09T15:24:49.015Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      }
+    ],
     "target": {
       "source": "mirando_do_douro2.jpg",
       "selector": {
@@ -7532,7 +8608,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 459992744,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Sky",
+        "created": "2020-06-09T15:57:58.700Z",
+        "updated": "2020-06-12T20:40:11.991Z",
+        "creator": "edtriplett"
+      }
+    ],
     "target": {
       "source": "mirando_do_douro2.jpg",
       "selector": {
@@ -7545,7 +8629,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 460000680,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Sky",
+        "created": "2020-06-09T16:00:04.311Z",
+        "updated": "2020-06-12T20:39:53.172Z",
+        "creator": "edtriplett"
+      }
+    ],
     "target": {
       "source": "mirando_do_douro2.jpg",
       "selector": {
@@ -7559,6 +8651,13 @@
     "type": "Annotation",
     "id": 460000730,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Container",
+        "created": "2020-06-09T16:00:51.108Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88448790,
         "value": "* Number of rocks or trees in the container?: 5",
@@ -7588,7 +8687,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 460000797,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Sky",
+        "created": "2020-06-09T16:02:07.987Z",
+        "updated": "2020-06-12T20:39:34.685Z",
+        "creator": "edtriplett"
+      }
+    ],
     "target": {
       "source": "mirando_do_douro2.jpg",
       "selector": {
@@ -7602,6 +8709,13 @@
     "type": "Annotation",
     "id": 460001344,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-09T16:06:13.368Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 88182862,
         "value": "* Ruined or intact?: Intact",
@@ -7641,6 +8755,13 @@
     "id": 460001505,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-09T16:07:15.590Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88182865,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -7679,6 +8800,13 @@
     "id": 460001992,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Scale Bar",
+        "created": "2020-06-09T16:11:39.596Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88182867,
         "value": "Length in meters: 5.5",
         "purpose": "tagging",
@@ -7709,6 +8837,13 @@
     "id": 460005292,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Location (Latitude, Longitude)",
+        "created": "2020-06-09T16:29:45.882Z",
+        "updated": "2020-06-12T20:37:33.260Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 88182868,
         "value": "Latitude and Longitude: 41.496261, -6.274986",
         "purpose": "tagging",
@@ -7729,7 +8864,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 463888011,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Sky",
+        "created": "2020-06-12T20:37:29.370Z",
+        "updated": "2020-06-12T20:38:57.686Z",
+        "creator": "edtriplett"
+      }
+    ],
     "target": {
       "source": "mirando_do_douro2.jpg",
       "selector": {

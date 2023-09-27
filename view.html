@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>OSD Example</title>
+    <title>Book of Fortresses | Annotorious</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script>
     <script src="annotorious-openseadragon.umd.js"></script>
     <link rel="stylesheet" href="annotorious-openseadragon.css">
@@ -21,6 +21,19 @@
     <script type="text/javascript">
       const imagename = location.hash.substr(1) || 'caminha2';
 
+      const ColorBrewerDark2_8 = [
+        '#1b9e77',
+        '#d95f02',
+        '#7570b3',
+        '#e7298a',
+        '#66a61e',
+        '#e6ab02',
+        '#a6761d',
+        '#666666'
+      ];
+
+      const PALETTE = ColorBrewerDark2_8;
+
       const viewer = OpenSeadragon({
         id: "openseadragon",
         prefixUrl: "https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/images/",
@@ -31,11 +44,23 @@
         }
       });
 
-      // Dummy formatter that just applies a stronger color
-      const formatter = (annotation) => ({
-        fill: 'red',
-        fillOpacity: 0.25
-      });
+      const colors = {};
+
+      const formatter = (annotation) => {
+        const clazz = annotation.bodies.find(a => a.purpose === 'classifying')?.value;
+
+        let color = colors[clazz];
+        if (!color) {
+          const next = PALETTE[Object.keys(colors).length % PALETTE.length];
+          colors[clazz] = next;
+          color = next; 
+        }
+
+        return {
+          fill: color,
+          fillOpacity: 0.25
+        };
+      }
 
       window.onload = function() {
         const anno = Annotorious.Annotorious(viewer);

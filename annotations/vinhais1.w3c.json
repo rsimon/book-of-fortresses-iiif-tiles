@@ -5,6 +5,13 @@
     "id": 517409514,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T15:51:07.319Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 100710641,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -42,6 +49,13 @@
     "type": "Annotation",
     "id": 517409724,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T15:53:07.217Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 100710794,
         "value": "* Ruined or intact?: Intact",
@@ -81,6 +95,13 @@
     "id": 522485794,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T10:40:11.840Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101284616,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -118,6 +139,13 @@
     "type": "Annotation",
     "id": 522486399,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T10:44:49.127Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101284630,
         "value": "* Roof structure type: House",
@@ -165,6 +193,13 @@
     "id": 522486831,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T10:45:37.491Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101284636,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -202,6 +237,13 @@
     "type": "Annotation",
     "id": 522486881,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T10:46:24.553Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101284641,
         "value": "* Ruined or intact?: Intact",
@@ -241,6 +283,13 @@
     "id": 522486999,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T10:48:11.839Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101284646,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -278,6 +327,13 @@
     "type": "Annotation",
     "id": 522487044,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T10:49:14.938Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101284650,
         "value": "* Ruined or intact?: Intact",
@@ -317,6 +373,13 @@
     "id": 522487164,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T10:51:41.473Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101284658,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -354,6 +417,13 @@
     "type": "Annotation",
     "id": 522487203,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T10:52:21.284Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101284662,
         "value": "* Ruined or intact?: Intact",
@@ -393,6 +463,13 @@
     "id": 522487267,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T10:53:32.915Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101284668,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -430,6 +507,13 @@
     "type": "Annotation",
     "id": 522487306,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T10:54:36.190Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101284672,
         "value": "* Ruined or intact?: Intact",
@@ -469,6 +553,13 @@
     "id": 522487354,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T10:55:45.306Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101284676,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -506,6 +597,13 @@
     "type": "Annotation",
     "id": 522487538,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T10:59:06.446Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101284686,
         "value": "* Roof structure type: House",
@@ -553,6 +651,13 @@
     "id": 522836697,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T16:40:27.923Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101299546,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -590,6 +695,13 @@
     "type": "Annotation",
     "id": 522836724,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T16:41:20.518Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101299554,
         "value": "* Roof structure type: House",
@@ -637,6 +749,13 @@
     "id": 522836752,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T16:42:49.472Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101299565,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -683,6 +802,13 @@
     "id": 522836786,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T16:45:34.260Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101299583,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -720,6 +846,13 @@
     "type": "Annotation",
     "id": 522836816,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T16:47:07.494Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101299594,
         "value": "* Roof structure type: House",
@@ -767,6 +900,13 @@
     "id": 522836863,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T16:49:09.951Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101299611,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -804,6 +944,13 @@
     "type": "Annotation",
     "id": 522836884,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T16:50:17.465Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101299618,
         "value": "* Ruined or intact?: Intact",
@@ -843,6 +990,13 @@
     "id": 522836918,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T16:51:57.971Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101299635,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -881,6 +1035,13 @@
     "id": 522836939,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T16:52:57.706Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101299643,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -918,6 +1079,13 @@
     "type": "Annotation",
     "id": 522837494,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:04:09.495Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101299737,
         "value": "Ladder or stairs: null",
@@ -965,6 +1133,13 @@
     "id": 522837513,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T17:05:04.879Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101299747,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -1011,6 +1186,13 @@
     "id": 522837543,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:06:33.449Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101299770,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1048,6 +1230,13 @@
     "type": "Annotation",
     "id": 522837563,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:07:22.945Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101299781,
         "value": "* Ruined or intact?: Intact",
@@ -1087,6 +1276,13 @@
     "id": 522837571,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:08:41.218Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101299802,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1124,6 +1320,13 @@
     "type": "Annotation",
     "id": 522837576,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T17:09:15.481Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101299821,
         "value": "* Roof structure type: House",
@@ -1171,6 +1374,13 @@
     "id": 522837626,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:11:23.450Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101299836,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1208,6 +1418,13 @@
     "type": "Annotation",
     "id": 522837697,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T17:12:56.010Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101299848,
         "value": "* Roof structure type: House",
@@ -1255,6 +1472,13 @@
     "id": 522837715,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:13:40.652Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101299860,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1293,6 +1517,13 @@
     "id": 522837751,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:15:37.905Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101299875,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1330,6 +1561,13 @@
     "type": "Annotation",
     "id": 522837773,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T17:16:47.742Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101299891,
         "value": "* Roof structure type: House",
@@ -1377,6 +1615,13 @@
     "id": 522837798,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:17:29.974Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101299916,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1415,6 +1660,13 @@
     "id": 522837813,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:18:08.448Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101299922,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1452,6 +1704,13 @@
     "type": "Annotation",
     "id": 522837845,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T17:19:39.580Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101299941,
         "value": "* Roof structure type: House",
@@ -1499,6 +1758,13 @@
     "id": 522837856,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:20:11.014Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101299945,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1536,6 +1802,13 @@
     "type": "Annotation",
     "id": 522837866,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:20:37.119Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101299950,
         "value": "* Ruined or intact?: Intact",
@@ -1575,6 +1848,13 @@
     "id": 522837895,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:22:02.937Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101300020,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1612,6 +1892,13 @@
     "type": "Annotation",
     "id": 522837920,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T17:22:46.192Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101300031,
         "value": "* Roof structure type: House",
@@ -1659,6 +1946,13 @@
     "id": 522837933,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T17:23:55.614Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101300085,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -1705,6 +1999,13 @@
     "id": 522838000,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:28:10.640Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101300175,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1742,6 +2043,13 @@
     "type": "Annotation",
     "id": 522838015,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:29:49.029Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101300178,
         "value": "* Ruined or intact?: Intact",
@@ -1781,6 +2089,13 @@
     "id": 522838022,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:31:06.900Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101300184,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1818,6 +2133,13 @@
     "type": "Annotation",
     "id": 522838033,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T17:31:54.579Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101300188,
         "value": "* Roof structure type: House",
@@ -1865,6 +2187,13 @@
     "id": 522838063,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:33:31.444Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101300198,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1903,6 +2232,13 @@
     "id": 522838074,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:34:31.249Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101300206,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1940,6 +2276,13 @@
     "type": "Annotation",
     "id": 517409149,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Christian religious building",
+        "created": "2020-09-18T15:40:04.858Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 100710560,
         "value": "* Religious building type?: Bell Tower (If separate from facade)",
@@ -2003,6 +2346,13 @@
     "id": 517409237,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-18T15:43:37.875Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 100710576,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -2049,6 +2399,13 @@
     "id": 522838098,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:36:20.452Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101300218,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2086,6 +2443,13 @@
     "type": "Annotation",
     "id": 517409283,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-18T15:45:07.960Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 100710591,
         "value": "* Roof structure type: House",
@@ -2133,6 +2497,13 @@
     "id": 522838116,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T17:36:56.082Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101300222,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -2178,6 +2549,13 @@
     "type": "Annotation",
     "id": 517409353,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-18T15:46:58.360Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 100710609,
         "value": "* Roof structure type: House",
@@ -2225,6 +2603,13 @@
     "id": 517409415,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-18T15:48:14.766Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 100710615,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -2271,6 +2656,13 @@
     "id": 522838147,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:39:05.887Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101300231,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2308,6 +2700,13 @@
     "type": "Annotation",
     "id": 517409477,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T15:50:14.685Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 100710634,
         "value": "* Ruined or intact?: Intact",
@@ -2347,6 +2746,13 @@
     "id": 522838151,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:39:41.022Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101300234,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2384,6 +2790,13 @@
     "type": "Annotation",
     "id": 517409708,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T15:52:37.602Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 100710790,
         "value": "* Ruined or intact?: Intact",
@@ -2423,6 +2836,13 @@
     "id": 522838178,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:41:24.877Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101300244,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2460,6 +2880,13 @@
     "type": "Annotation",
     "id": 522836682,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T16:39:46.575Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101299542,
         "value": "* Roof structure type: House",
@@ -2507,6 +2934,13 @@
     "id": 522838184,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:41:59.286Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101300247,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2544,6 +2978,13 @@
     "type": "Annotation",
     "id": 522836769,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T16:44:19.556Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101299575,
         "value": "* Roof structure type: House",
@@ -2591,6 +3032,13 @@
     "id": 522836803,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T16:46:26.616Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101299589,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2629,6 +3077,13 @@
     "id": 522838200,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:43:19.799Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101300260,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2666,6 +3121,13 @@
     "type": "Annotation",
     "id": 522836837,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T16:48:03.261Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101299603,
         "value": "* Roof structure type: House",
@@ -2713,6 +3175,13 @@
     "id": 522836902,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T16:51:01.965Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101299630,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -2759,6 +3228,13 @@
     "id": 522838208,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:44:55.704Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101300273,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2796,6 +3272,13 @@
     "type": "Annotation",
     "id": 522837479,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:03:26.353Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101299720,
         "value": "* Ruined or intact?: Intact",
@@ -2835,6 +3318,13 @@
     "id": 522838210,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:45:26.469Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101300282,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2872,6 +3362,13 @@
     "type": "Annotation",
     "id": 522837533,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T17:05:52.565Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101299759,
         "value": "* Roof structure type: House",
@@ -2919,6 +3416,13 @@
     "id": 522837569,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:08:13.111Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101299789,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2957,6 +3461,13 @@
     "id": 522838217,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:46:34.497Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101300288,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2994,6 +3505,13 @@
     "type": "Annotation",
     "id": 522837597,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T17:10:14.450Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101299830,
         "value": "* Roof structure type: House",
@@ -3041,6 +3559,13 @@
     "id": 522838220,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T17:47:26.700Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101300292,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -3086,6 +3611,13 @@
     "type": "Annotation",
     "id": 522837681,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T17:12:16.993Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101299843,
         "value": "* Roof structure type: House",
@@ -3133,6 +3665,13 @@
     "id": 522837764,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T17:16:12.646Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101299881,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -3179,6 +3718,13 @@
     "id": 522838235,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:48:39.237Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101300305,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3216,6 +3762,13 @@
     "type": "Annotation",
     "id": 522837824,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T17:18:40.948Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101299933,
         "value": "* Roof structure type: House",
@@ -3263,6 +3816,13 @@
     "id": 522837885,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:21:37.840Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101299963,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3301,6 +3861,13 @@
     "id": 522838249,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:49:40.011Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101300313,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3338,6 +3905,13 @@
     "type": "Annotation",
     "id": 522837970,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T17:25:38.264Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101300145,
         "value": "* Roof structure type: House",
@@ -3385,6 +3959,13 @@
     "id": 522838256,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T17:50:15.177Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101300321,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -3431,6 +4012,13 @@
     "id": 522838017,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:30:31.727Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101300181,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3468,6 +4056,13 @@
     "type": "Annotation",
     "id": 522838266,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T17:50:50.278Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101300325,
         "value": "* Roof structure type: House",
@@ -3515,6 +4110,13 @@
     "id": 522838051,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T17:32:36.489Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101300195,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -3561,6 +4163,13 @@
     "id": 522838090,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:35:48.273Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101300215,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3599,6 +4208,13 @@
     "id": 522838284,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:51:52.516Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101300331,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3636,6 +4252,13 @@
     "type": "Annotation",
     "id": 522838124,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T17:37:30.246Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101300227,
         "value": "* Roof structure type: House",
@@ -3683,6 +4306,13 @@
     "id": 522838164,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T17:40:36.926Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101300238,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -3729,6 +4359,13 @@
     "id": 525869802,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-25T09:51:02.680Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101339861,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3766,6 +4403,13 @@
     "type": "Annotation",
     "id": 522838198,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T17:42:51.468Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101300251,
         "value": "* Roof structure type: House",
@@ -3813,6 +4457,13 @@
     "id": 522838204,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T17:44:13.966Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101300270,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -3859,6 +4510,13 @@
     "id": 522838216,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:46:06.209Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101300285,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3897,6 +4555,13 @@
     "id": 525869955,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Tree",
+        "created": "2020-09-25T09:55:54.344Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101339884,
         "value": "* Tree Type: Deciduous (Most common, broccoli-like)",
         "purpose": "tagging",
@@ -3934,6 +4599,13 @@
     "type": "Annotation",
     "id": 522838228,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T17:48:04.005Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101300296,
         "value": "* Roof structure type: House",
@@ -3981,6 +4653,13 @@
     "id": 522838243,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:49:18.136Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101300310,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4018,6 +4697,13 @@
     "type": "Annotation",
     "id": 522838277,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T17:51:26.921Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101300328,
         "value": "* Ruined or intact?: Intact",
@@ -4057,6 +4743,13 @@
     "id": 525897536,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-25T10:38:46.370Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101351348,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4094,6 +4787,13 @@
     "type": "Annotation",
     "id": 525869914,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Tree",
+        "created": "2020-09-25T09:54:41.725Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101339882,
         "value": "* Tree Type: Deciduous (Most common, broccoli-like)",
@@ -4133,6 +4833,13 @@
     "id": 525870082,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Tree",
+        "created": "2020-09-25T09:58:44.387Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101339892,
         "value": "* Tree Type: Deciduous (Most common, broccoli-like)",
         "purpose": "tagging",
@@ -4171,6 +4878,13 @@
     "id": 525870167,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Tree",
+        "created": "2020-09-25T10:00:47.243Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101339987,
         "value": "* Tree Type: Deciduous (Most common, broccoli-like)",
         "purpose": "tagging",
@@ -4208,6 +4922,13 @@
     "type": "Annotation",
     "id": 525898268,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Keep",
+        "created": "2020-09-25T10:48:01.071Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101351379,
         "value": "* Ruined or intact?: Ruined",
@@ -4287,6 +5008,13 @@
     "id": 525897640,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Tree",
+        "created": "2020-09-25T10:39:51.663Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101351351,
         "value": "* Tree Type: Deciduous (Most common, broccoli-like)",
         "purpose": "tagging",
@@ -4324,6 +5052,13 @@
     "type": "Annotation",
     "id": 525898158,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Keep",
+        "created": "2020-09-25T10:46:34.970Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101351366,
         "value": "Arrow slits (Tripled): null",
@@ -4411,6 +5146,13 @@
     "id": 525897760,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Tree",
+        "created": "2020-09-25T10:41:24.405Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101351354,
         "value": "* Tree Type: Deciduous (Most common, broccoli-like)",
         "purpose": "tagging",
@@ -4448,6 +5190,13 @@
     "type": "Annotation",
     "id": 525898570,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-25T10:52:12.700Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101351400,
         "value": "* Ruined or intact?: Intact",
@@ -4543,6 +5292,13 @@
     "id": 525898726,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-25T10:54:27.489Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101351412,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4637,6 +5393,13 @@
     "id": 525899159,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-09-25T11:01:46.913Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101351509,
         "value": "* Tower Shape?: Rectangular",
         "purpose": "tagging",
@@ -4715,6 +5478,13 @@
     "id": 525898802,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-25T10:55:57.156Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101351426,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4784,6 +5554,13 @@
     "type": "Annotation",
     "id": 525898927,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-25T10:57:41.007Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101351472,
         "value": "Door (Round-headed): null",
@@ -4879,6 +5656,13 @@
     "id": 525899052,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-09-25T10:59:53.740Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101351500,
         "value": "* Tower Shape?: Rectangular",
         "purpose": "tagging",
@@ -4956,6 +5740,13 @@
     "type": "Annotation",
     "id": 525899269,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-25T11:03:20.845Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101351526,
         "value": "* Ruined or intact?: Ruined",
@@ -5043,6 +5834,13 @@
     "id": 525899955,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-25T11:14:50.597Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101351635,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -5120,6 +5918,13 @@
     "type": "Annotation",
     "id": 525900062,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-25T11:16:42.692Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101351662,
         "value": "Door (Round-headed): null",
@@ -5215,6 +6020,13 @@
     "id": 525902983,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-25T11:23:20.723Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101351689,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5252,6 +6064,13 @@
     "type": "Annotation",
     "id": 525902861,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-25T11:20:50.070Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101351672,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -5323,6 +6142,13 @@
     "id": 525902904,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-25T11:21:51.625Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101351683,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5360,6 +6186,13 @@
     "type": "Annotation",
     "id": 525903212,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-09-25T11:27:28.217Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101351729,
         "value": "Window (Round-headed): null",
@@ -5430,6 +6263,13 @@
     "type": "Annotation",
     "id": 525903047,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-09-25T11:24:59.044Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101351714,
         "value": "Door (Round-headed): null",
@@ -5517,6 +6357,13 @@
     "id": 525903345,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-25T11:30:09.243Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101351763,
         "value": "* Roof structure type: Tower",
         "purpose": "tagging",
@@ -5562,6 +6409,13 @@
     "type": "Annotation",
     "id": 525903426,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-25T11:31:23.141Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101351771,
         "value": "* Roof structure type: Tower",
@@ -5609,6 +6463,13 @@
     "id": 525903835,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-09-25T11:39:39.237Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101351826,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -5638,6 +6499,13 @@
     "type": "Annotation",
     "id": 525903881,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-09-25T11:40:40.778Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 101351839,
         "value": "* Landform type: Hill",
@@ -5669,6 +6537,13 @@
     "id": 525903897,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-09-25T11:41:09.973Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101351845,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -5699,6 +6574,13 @@
     "id": 525903960,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-09-25T11:42:02.957Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 101351849,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -5728,6 +6610,13 @@
     "type": "Annotation",
     "id": 530721483,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Gallows and pillories",
+        "created": "2020-10-02T14:03:51.173Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 103046299,
         "value": "* Ruined or intact?: Intact",
@@ -5789,7 +6678,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 530721541,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Flag",
+        "created": "2020-10-02T14:08:05.939Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      }
+    ],
     "target": {
       "source": "vinhais1.jpg",
       "selector": {
@@ -5803,6 +6700,13 @@
     "type": "Annotation",
     "id": 530721708,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-10-02T14:21:10.372Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 103046321,
         "value": "* Ruined or intact?: Intact",
@@ -5842,6 +6746,13 @@
     "id": 530721717,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-10-02T14:22:14.841Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 103046324,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5879,6 +6790,13 @@
     "type": "Annotation",
     "id": 530721729,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-10-02T14:24:09.391Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 103046327,
         "value": "* Ruined or intact?: Intact",
@@ -5918,6 +6836,13 @@
     "id": 530721735,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-10-02T14:25:39.187Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 103046330,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5955,6 +6880,13 @@
     "type": "Annotation",
     "id": 530721740,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-10-02T14:26:26.895Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 103046333,
         "value": "* Ruined or intact?: Intact",
@@ -5994,6 +6926,13 @@
     "id": 530721747,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-10-02T14:27:33.674Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 103046336,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6031,6 +6970,13 @@
     "type": "Annotation",
     "id": 530721878,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-10-02T14:30:20.188Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 103046342,
         "value": "* Ruined or intact?: Intact",
@@ -6070,6 +7016,13 @@
     "id": 530721885,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-10-02T14:31:15.469Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 103046345,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6107,6 +7060,13 @@
     "type": "Annotation",
     "id": 530721889,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-10-02T14:31:56.182Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 103046348,
         "value": "* Ruined or intact?: Intact",
@@ -6146,6 +7106,13 @@
     "id": 530721892,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-10-02T14:32:36.652Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 103046351,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6182,7 +7149,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 530721949,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Path",
+        "created": "2020-10-02T14:38:17.601Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      }
+    ],
     "target": {
       "source": "vinhais1.jpg",
       "selector": {
@@ -6195,7 +7170,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 530721956,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Path",
+        "created": "2020-10-02T14:38:48.625Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      }
+    ],
     "target": {
       "source": "vinhais1.jpg",
       "selector": {
@@ -6208,7 +7191,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 530721962,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Path",
+        "created": "2020-10-02T14:39:14.132Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      }
+    ],
     "target": {
       "source": "vinhais1.jpg",
       "selector": {
@@ -6221,7 +7212,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 530722028,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-02T14:45:52.595Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      }
+    ],
     "target": {
       "source": "vinhais1.jpg",
       "selector": {
@@ -6234,7 +7233,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 530722138,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Sky",
+        "created": "2020-10-02T14:54:03.041Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      }
+    ],
     "target": {
       "source": "vinhais1.jpg",
       "selector": {
@@ -6248,6 +7255,13 @@
     "type": "Annotation",
     "id": 530726613,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-02T17:02:24.618Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 103046872,
         "value": "* Landform type: Hill",
@@ -6278,6 +7292,13 @@
     "type": "Annotation",
     "id": 530726715,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Breteche'",
+        "created": "2020-10-02T17:04:38.758Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 103046885,
         "value": "* Partially occluded or Complete?: Complete",
@@ -6317,6 +7338,13 @@
     "id": 530726745,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-02T17:05:48.127Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 103046916,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -6346,6 +7374,13 @@
     "type": "Annotation",
     "id": 530727495,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-02T17:55:17.467Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 103047225,
         "value": "* Landform type: Hill",
@@ -6377,6 +7412,13 @@
     "id": 530727505,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-02T17:56:33.974Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 103047235,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -6406,6 +7448,13 @@
     "type": "Annotation",
     "id": 530727514,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-02T17:57:20.108Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 103047372,
         "value": "* Landform type: Hill",
@@ -6437,6 +7486,13 @@
     "id": 530727727,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-02T18:20:23.502Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 103047397,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -6467,6 +7523,13 @@
     "id": 530727813,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-02T18:21:56.966Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 103047416,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -6496,6 +7559,13 @@
     "type": "Annotation",
     "id": 530727959,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Mills, Bridges, Wells and Troughs",
+        "created": "2020-10-02T18:25:51.609Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 103047465,
         "value": "* Ruined or intact?: Ruined",
@@ -6567,6 +7637,13 @@
     "id": 530728006,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-02T18:28:50.790Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 103047477,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -6596,6 +7673,13 @@
     "type": "Annotation",
     "id": 530728035,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-02T18:30:11.593Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
       {
         "id": 103047492,
         "value": "* Landform type: Hill",
@@ -6627,6 +7711,13 @@
     "id": 530728053,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-02T18:30:57.989Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 103047509,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -6657,6 +7748,13 @@
     "id": 530729410,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-02T18:48:56.316Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      },
+      {
         "id": 103047675,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -6685,7 +7783,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 530729451,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-02T18:51:03.161Z",
+        "updated": "2020-11-25T18:21:30.706Z",
+        "creator": "minamortchev"
+      }
+    ],
     "target": {
       "source": "vinhais1.jpg",
       "selector": {
@@ -6698,7 +7804,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 562383334,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-11-25T18:20:59.068Z",
+        "updated": "2020-11-25T18:21:30.029Z",
+        "creator": "edtriplett"
+      }
+    ],
     "target": {
       "source": "vinhais1.jpg",
       "selector": {

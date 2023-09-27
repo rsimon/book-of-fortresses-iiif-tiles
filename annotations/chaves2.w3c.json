@@ -5,6 +5,13 @@
     "id": 517773378,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-18T19:02:07.188Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 100827556,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -51,6 +58,13 @@
     "id": 517773443,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T19:03:30.646Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 100827607,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -89,6 +103,13 @@
     "id": 517773948,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-18T19:22:01.664Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 100827691,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -126,6 +147,13 @@
     "type": "Annotation",
     "id": 517774038,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-18T19:25:01.293Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 100827706,
         "value": "* Roof structure type: House",
@@ -173,6 +201,13 @@
     "id": 517774438,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T19:40:13.755Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 100827799,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -210,6 +245,13 @@
     "type": "Annotation",
     "id": 517774448,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T19:41:13.984Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 100827804,
         "value": "* Ruined or intact?: Intact",
@@ -249,6 +291,13 @@
     "id": 517774512,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T19:44:21.372Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 100827839,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -286,6 +335,13 @@
     "type": "Annotation",
     "id": 517774576,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T19:47:53.680Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 100827843,
         "value": "* Ruined or intact?: Intact",
@@ -325,6 +381,13 @@
     "id": 517774646,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T19:51:19.011Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 100827874,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -362,6 +425,13 @@
     "type": "Annotation",
     "id": 520079807,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T22:51:41.121Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101143662,
         "value": "* Ruined or intact?: Intact",
@@ -401,6 +471,13 @@
     "id": 520079810,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T22:53:07.648Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101143670,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -438,6 +515,13 @@
     "type": "Annotation",
     "id": 520080776,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T22:55:26.892Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101144635,
         "value": "* Ruined or intact?: Intact",
@@ -477,6 +561,13 @@
     "id": 520080778,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T22:57:24.839Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101144638,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -514,6 +605,13 @@
     "type": "Annotation",
     "id": 520080782,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T22:58:24.698Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101144641,
         "value": "* Ruined or intact?: Intact",
@@ -553,6 +651,13 @@
     "id": 520080825,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T23:03:38.880Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101144673,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -590,6 +695,13 @@
     "type": "Annotation",
     "id": 520080835,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T23:04:30.948Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101144682,
         "value": "* Partially occluded or Complete?: Complete",
@@ -629,6 +741,13 @@
     "id": 520080849,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T23:05:38.335Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101144689,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -666,6 +785,13 @@
     "type": "Annotation",
     "id": 520083982,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T23:11:42.422Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101154115,
         "value": "* Ruined or intact?: Intact",
@@ -705,6 +831,13 @@
     "id": 520093382,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T23:13:44.513Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101154126,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -742,6 +875,13 @@
     "type": "Annotation",
     "id": 520093390,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T23:14:31.407Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101154133,
         "value": "* Ruined or intact?: Intact",
@@ -781,6 +921,13 @@
     "id": 520157093,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T23:27:25.112Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101198068,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -818,6 +965,13 @@
     "type": "Annotation",
     "id": 520169611,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T23:28:30.266Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101203030,
         "value": "* Ruined or intact?: Intact",
@@ -857,6 +1011,13 @@
     "id": 520207035,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T23:30:18.762Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101212609,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -894,6 +1055,13 @@
     "type": "Annotation",
     "id": 520224042,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T23:32:46.057Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101225578,
         "value": "* Ruined or intact?: Intact",
@@ -933,6 +1101,13 @@
     "id": 520230325,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T23:33:41.312Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101231369,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -970,6 +1145,13 @@
     "type": "Annotation",
     "id": 520353293,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T10:12:33.315Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101258974,
         "value": "* Ruined or intact?: Intact",
@@ -1009,6 +1191,13 @@
     "id": 520353399,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T10:13:33.072Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101258978,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1046,6 +1235,13 @@
     "type": "Annotation",
     "id": 520353486,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T10:14:23.838Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101258981,
         "value": "* Ruined or intact?: Intact",
@@ -1085,6 +1281,13 @@
     "id": 520353656,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T10:15:50.684Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101258984,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1122,6 +1325,13 @@
     "type": "Annotation",
     "id": 520353888,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T10:17:54.403Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101258997,
         "value": "* Ruined or intact?: Intact",
@@ -1161,6 +1371,13 @@
     "id": 520354033,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T10:19:01.016Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101259000,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1198,6 +1415,13 @@
     "type": "Annotation",
     "id": 520354098,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T10:19:35.651Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101259004,
         "value": "* Ruined or intact?: Intact",
@@ -1237,6 +1461,13 @@
     "id": 520354176,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T10:20:26.010Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101259007,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1274,6 +1505,13 @@
     "type": "Annotation",
     "id": 520354371,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T10:22:57.422Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101259013,
         "value": "* Ruined or intact?: Intact",
@@ -1313,6 +1551,13 @@
     "id": 520354405,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T10:23:31.699Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101259016,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1350,6 +1595,13 @@
     "type": "Annotation",
     "id": 520354592,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T10:24:10.840Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101259019,
         "value": "* Ruined or intact?: Intact",
@@ -1389,6 +1641,13 @@
     "id": 520354640,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T10:24:47.611Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101259035,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1426,6 +1685,13 @@
     "type": "Annotation",
     "id": 520358268,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T10:54:53.755Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101259123,
         "value": "* Ruined or intact?: Intact",
@@ -1465,6 +1731,13 @@
     "id": 520358684,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T10:58:20.641Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101259126,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1502,6 +1775,13 @@
     "type": "Annotation",
     "id": 520358745,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T10:59:10.538Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101259129,
         "value": "* Ruined or intact?: Intact",
@@ -1541,6 +1821,13 @@
     "id": 520358807,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T11:00:01.455Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101259132,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1578,6 +1865,13 @@
     "type": "Annotation",
     "id": 520358988,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T11:02:05.648Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101259138,
         "value": "* Ruined or intact?: Intact",
@@ -1617,6 +1911,13 @@
     "id": 520359061,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T11:03:02.749Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101259141,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1654,6 +1955,13 @@
     "type": "Annotation",
     "id": 520359212,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T11:04:07.094Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101259146,
         "value": "* Ruined or intact?: Intact",
@@ -1693,6 +2001,13 @@
     "id": 520359392,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T11:05:42.673Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101259151,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1730,6 +2045,13 @@
     "type": "Annotation",
     "id": 520359600,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T11:06:54.953Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101259163,
         "value": "* Ruined or intact?: Intact",
@@ -1769,6 +2091,13 @@
     "id": 520359704,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T11:07:40.215Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101259166,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1806,6 +2135,13 @@
     "type": "Annotation",
     "id": 520359850,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T11:08:41.938Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101259170,
         "value": "* Ruined or intact?: Intact",
@@ -1845,6 +2181,13 @@
     "id": 520360172,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T11:09:51.197Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101259174,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1882,6 +2225,13 @@
     "type": "Annotation",
     "id": 520360285,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T11:10:37.041Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101259177,
         "value": "* Ruined or intact?: Intact",
@@ -1921,6 +2271,13 @@
     "id": 520360876,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T11:14:00.895Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101259180,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1958,6 +2315,13 @@
     "type": "Annotation",
     "id": 520360985,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T11:14:49.239Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101259183,
         "value": "* Ruined or intact?: Intact",
@@ -1997,6 +2361,13 @@
     "id": 520361097,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T11:15:42.105Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101259186,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2034,6 +2405,13 @@
     "type": "Annotation",
     "id": 520361190,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T11:16:17.078Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101259198,
         "value": "* Ruined or intact?: Intact",
@@ -2073,6 +2451,13 @@
     "id": 520361639,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T11:19:26.474Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101259203,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2110,6 +2495,13 @@
     "type": "Annotation",
     "id": 520576911,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-23T09:00:18.173Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101266161,
         "value": "* Ruined or intact?: Intact",
@@ -2149,6 +2541,13 @@
     "id": 520577015,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-23T09:01:04.337Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101266165,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2186,6 +2585,13 @@
     "type": "Annotation",
     "id": 520577155,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-23T09:02:09.096Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101266168,
         "value": "* Ruined or intact?: Intact",
@@ -2225,6 +2631,13 @@
     "id": 520577258,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-23T09:03:08.785Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101266171,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2262,6 +2675,13 @@
     "type": "Annotation",
     "id": 520577382,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-23T09:04:09.084Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101266174,
         "value": "* Ruined or intact?: Intact",
@@ -2301,6 +2721,13 @@
     "id": 520577529,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-23T09:05:12.365Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101266177,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2338,6 +2765,13 @@
     "type": "Annotation",
     "id": 520577621,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-23T09:06:05.525Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101266180,
         "value": "* Ruined or intact?: Intact",
@@ -2377,6 +2811,13 @@
     "id": 520577860,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-23T09:08:42.857Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101266184,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2414,6 +2855,13 @@
     "type": "Annotation",
     "id": 520578206,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-23T09:11:31.319Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101266224,
         "value": "* Ruined or intact?: Intact",
@@ -2453,6 +2901,13 @@
     "id": 520579522,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-23T09:23:34.801Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101266228,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2490,6 +2945,13 @@
     "type": "Annotation",
     "id": 520579564,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-23T09:24:30.522Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101266231,
         "value": "* Ruined or intact?: Intact",
@@ -2529,6 +2991,13 @@
     "id": 520579600,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-23T09:25:15.756Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101266235,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2566,6 +3035,13 @@
     "type": "Annotation",
     "id": 520579686,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-23T09:26:19.719Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101266238,
         "value": "* Ruined or intact?: Intact",
@@ -2605,6 +3081,13 @@
     "id": 517774067,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T19:26:02.790Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 100827796,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2642,6 +3125,13 @@
     "type": "Annotation",
     "id": 520579728,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-23T09:27:09.614Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101266241,
         "value": "* Ruined or intact?: Intact",
@@ -2681,6 +3171,13 @@
     "id": 517773830,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T19:18:20.275Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 100827679,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2718,6 +3215,13 @@
     "type": "Annotation",
     "id": 517774597,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-18T19:49:24.453Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 100827863,
         "value": "* Roof structure type: House",
@@ -2765,6 +3269,13 @@
     "id": 520079804,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-21T22:50:14.693Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101143657,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -2810,6 +3321,13 @@
     "type": "Annotation",
     "id": 520080790,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-21T22:59:23.209Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101144645,
         "value": "* Roof structure type: House",
@@ -2857,6 +3375,13 @@
     "id": 520080820,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-21T23:02:52.502Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101144668,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -2902,6 +3427,13 @@
     "type": "Annotation",
     "id": 520083973,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-21T23:10:33.009Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101144725,
         "value": "* Roof structure type: House",
@@ -2949,6 +3481,13 @@
     "id": 520179382,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-21T23:29:23.895Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101205227,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -2995,6 +3534,13 @@
     "id": 520244889,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-21T23:36:51.075Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101240887,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -3040,6 +3586,13 @@
     "type": "Annotation",
     "id": 520637772,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Mills, Bridges, Wells and Troughs",
+        "created": "2020-09-23T09:56:07.624Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101266284,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Back side",
@@ -3111,6 +3664,13 @@
     "id": 520353755,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T10:16:46.162Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101258993,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3148,6 +3708,13 @@
     "type": "Annotation",
     "id": 520637935,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Mills, Bridges, Wells and Troughs",
+        "created": "2020-09-23T09:57:27.915Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101266292,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Back side",
@@ -3219,6 +3786,13 @@
     "id": 520354805,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T10:26:12.477Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101259050,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3256,6 +3830,13 @@
     "type": "Annotation",
     "id": 520638259,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Mills, Bridges, Wells and Troughs",
+        "created": "2020-09-23T10:00:55.031Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101266299,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Back side",
@@ -3327,6 +3908,13 @@
     "id": 520354970,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T10:27:26.650Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101259054,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3364,6 +3952,13 @@
     "type": "Annotation",
     "id": 520638787,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Mills, Bridges, Wells and Troughs",
+        "created": "2020-09-23T10:02:05.841Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101266313,
         "value": "* Ruined or intact?: Intact",
@@ -3435,6 +4030,13 @@
     "id": 520355214,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T10:29:36.079Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101259059,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3472,6 +4074,13 @@
     "type": "Annotation",
     "id": 520638927,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Mills, Bridges, Wells and Troughs",
+        "created": "2020-09-23T10:04:04.940Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101267172,
         "value": "* Ruined or intact?: Intact",
@@ -3543,6 +4152,13 @@
     "id": 520361740,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T11:20:20.463Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101259207,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3580,6 +4196,13 @@
     "type": "Annotation",
     "id": 520643668,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Mills, Bridges, Wells and Troughs",
+        "created": "2020-09-23T10:18:31.599Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101267706,
         "value": "* Ruined or intact?: Intact",
@@ -3651,6 +4274,13 @@
     "id": 520361930,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T11:22:02.463Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101259213,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3689,6 +4319,13 @@
     "id": 520362254,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T11:24:03.526Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101259223,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3726,6 +4363,13 @@
     "type": "Annotation",
     "id": 520644189,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Mills, Bridges, Wells and Troughs",
+        "created": "2020-09-23T10:24:45.553Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101267721,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Back side",
@@ -3797,6 +4441,13 @@
     "id": 520362891,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T11:28:28.129Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101259228,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3834,6 +4485,13 @@
     "type": "Annotation",
     "id": 520644390,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Mills, Bridges, Wells and Troughs",
+        "created": "2020-09-23T10:27:04.652Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101267759,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Back side",
@@ -3905,6 +4563,13 @@
     "id": 520363252,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-22T11:30:57.674Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101259238,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3942,6 +4607,13 @@
     "type": "Annotation",
     "id": 520644570,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Mills, Bridges, Wells and Troughs",
+        "created": "2020-09-23T10:29:20.938Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101267770,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Back side",
@@ -4013,6 +4685,13 @@
     "id": 520579782,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-23T09:27:59.020Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101266244,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4050,6 +4729,13 @@
     "type": "Annotation",
     "id": 520644712,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Mills, Bridges, Wells and Troughs",
+        "created": "2020-09-23T10:32:01.110Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101267785,
         "value": "* Ruined or intact?: Intact",
@@ -4121,6 +4807,13 @@
     "id": 520579920,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-23T09:29:33.087Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101266248,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4158,6 +4851,13 @@
     "type": "Annotation",
     "id": 520645038,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Mills, Bridges, Wells and Troughs",
+        "created": "2020-09-23T10:38:46.492Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101267801,
         "value": "* Ruined or intact?: Ruined",
@@ -4229,6 +4929,13 @@
     "id": 520587616,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-23T09:39:36.913Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101266251,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4266,6 +4973,13 @@
     "type": "Annotation",
     "id": 520645288,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Mills, Bridges, Wells and Troughs",
+        "created": "2020-09-23T10:43:11.753Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101267840,
         "value": "* Ruined or intact?: Ruined",
@@ -4337,6 +5051,13 @@
     "id": 520587779,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-23T09:40:50.840Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101266254,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4374,6 +5095,13 @@
     "type": "Annotation",
     "id": 522485272,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Tree",
+        "created": "2020-09-24T10:33:06.032Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101284599,
         "value": "* Tree Type: Deciduous (Most common, broccoli-like)",
@@ -4413,6 +5141,13 @@
     "id": 520629716,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-23T09:43:28.684Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101266258,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4450,6 +5185,13 @@
     "type": "Annotation",
     "id": 520636193,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-23T09:46:11.484Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101266266,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -4513,6 +5255,13 @@
     "id": 522487815,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Bodies of water",
+        "created": "2020-09-24T11:03:21.593Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101295401,
         "value": "* River, Ocean or Pond?: River",
         "purpose": "tagging",
@@ -4542,6 +5291,13 @@
     "type": "Annotation",
     "id": 520636640,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Mills, Bridges, Wells and Troughs",
+        "created": "2020-09-23T09:50:50.608Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101266280,
         "value": "* Ruined or intact?: Intact",
@@ -4613,6 +5369,13 @@
     "id": 520643902,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Mills, Bridges, Wells and Troughs",
+        "created": "2020-09-23T10:21:52.307Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101267715,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4683,6 +5446,13 @@
     "id": 522487502,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Bodies of water",
+        "created": "2020-09-24T10:58:38.895Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101284696,
         "value": "* River, Ocean or Pond?: River",
         "purpose": "tagging",
@@ -4713,6 +5483,13 @@
     "id": 522499361,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Bodies of water",
+        "created": "2020-09-24T11:07:31.746Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101295406,
         "value": "* River, Ocean or Pond?: River",
         "purpose": "tagging",
@@ -4742,6 +5519,13 @@
     "type": "Annotation",
     "id": 522511328,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Crosses (Religious Monuments)",
+        "created": "2020-09-24T11:14:35.400Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101295486,
         "value": "* Solitary or shrined?: Solitary",
@@ -4805,6 +5589,13 @@
     "id": 522513710,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Crosses (Religious Monuments)",
+        "created": "2020-09-24T11:20:50.784Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101295504,
         "value": "* Solitary or shrined?: Solitary",
         "purpose": "tagging",
@@ -4866,6 +5657,13 @@
     "type": "Annotation",
     "id": 522513858,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Crosses (Religious Monuments)",
+        "created": "2020-09-24T11:22:29.515Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101295515,
         "value": "* Solitary or shrined?: Solitary",
@@ -4929,6 +5727,13 @@
     "id": 522524741,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Crosses (Religious Monuments)",
+        "created": "2020-09-24T11:33:32.043Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101295545,
         "value": "* Solitary or shrined?: Solitary",
         "purpose": "tagging",
@@ -4990,6 +5795,13 @@
     "type": "Annotation",
     "id": 522524816,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Crosses (Religious Monuments)",
+        "created": "2020-09-24T11:34:23.322Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101295552,
         "value": "* Solitary or shrined?: Solitary",
@@ -5053,6 +5865,13 @@
     "id": 526760737,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Tree",
+        "created": "2020-09-26T10:36:04.462Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101916063,
         "value": "* Tree Type: Deciduous (Most common, broccoli-like)",
         "purpose": "tagging",
@@ -5090,6 +5909,13 @@
     "type": "Annotation",
     "id": 522525026,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Crosses (Religious Monuments)",
+        "created": "2020-09-24T11:37:21.231Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101295565,
         "value": "* Solitary or shrined?: Solitary",
@@ -5167,7 +5993,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 525946443,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Path",
+        "created": "2020-09-25T16:08:51.429Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      }
+    ],
     "target": {
       "source": "chaves2.jpg",
       "selector": {
@@ -5181,6 +6015,13 @@
     "type": "Annotation",
     "id": 526760879,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Container",
+        "created": "2020-09-26T10:40:38.489Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101916072,
         "value": "* Number of rocks or trees in the container?: 7",
@@ -5212,6 +6053,13 @@
     "id": 526762660,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-09-26T11:10:44.728Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101916088,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -5241,6 +6089,13 @@
     "type": "Annotation",
     "id": 526762880,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-09-26T11:17:22.945Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101916091,
         "value": "* Landform type: Hill",
@@ -5272,6 +6127,13 @@
     "id": 526762960,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-09-26T11:18:59.014Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101916093,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -5302,6 +6164,13 @@
     "id": 526762962,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-09-26T11:19:22.209Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101916095,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -5331,6 +6200,13 @@
     "type": "Annotation",
     "id": 526762999,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-26T11:21:37.477Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101916098,
         "value": "* Ruined or intact?: Intact",
@@ -5370,6 +6246,13 @@
     "id": 526763158,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-26T11:24:30.462Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101916105,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -5399,6 +6282,13 @@
     "type": "Annotation",
     "id": 526763186,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-26T11:25:10.062Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101916110,
         "value": "* Roof structure type: House",
@@ -5446,6 +6336,13 @@
     "id": 526763109,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-26T11:23:50.151Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101916103,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5484,6 +6381,13 @@
     "id": 526763524,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-09-26T11:34:14.331Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 101916131,
         "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
         "purpose": "tagging",
@@ -5513,6 +6417,13 @@
     "type": "Annotation",
     "id": 526763760,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-09-26T11:39:29.341Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 101916128,
         "value": "* Landform type: Hill",
@@ -5544,6 +6455,13 @@
     "id": 527128057,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-09-26T11:58:11.649Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102202073,
         "value": "* Landform type: Mountain (craggy)",
         "purpose": "tagging",
@@ -5572,7 +6490,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 527152492,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Sky",
+        "created": "2020-09-26T12:23:05.369Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      }
+    ],
     "target": {
       "source": "chaves2.jpg",
       "selector": {
@@ -5586,6 +6512,13 @@
     "type": "Annotation",
     "id": 527785781,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-27T10:43:25.618Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 102494291,
         "value": "* Ruined or intact?: Intact",
@@ -5681,6 +6614,13 @@
     "id": 527785997,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-27T10:54:06.945Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102494301,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5775,6 +6715,13 @@
     "id": 527786972,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-09-27T11:14:23.893Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102494311,
         "value": "* Tower Shape?: Rectangular",
         "purpose": "tagging",
@@ -5861,6 +6808,13 @@
     "id": 527787049,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Flag",
+        "created": "2020-09-27T11:18:09.213Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102494313,
         "value": "* Flag shape: Rectangular",
         "purpose": "tagging",
@@ -5891,6 +6845,13 @@
     "id": 527787637,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Flag",
+        "created": "2020-09-27T11:42:24.971Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102494317,
         "value": "* Flag shape: Rectangular",
         "purpose": "tagging",
@@ -5920,6 +6881,13 @@
     "type": "Annotation",
     "id": 527787698,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-27T11:45:16.032Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 102494320,
         "value": "* Ruined or intact?: Intact",
@@ -5959,6 +6927,13 @@
     "id": 527787741,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-27T11:46:54.587Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102494325,
         "value": "* Partially occluded or Complete?: Complete",
         "purpose": "tagging",
@@ -5996,6 +6971,13 @@
     "type": "Annotation",
     "id": 527787820,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-27T11:49:49.785Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 102494328,
         "value": "* Ruined or intact?: Intact",
@@ -6035,6 +7017,13 @@
     "id": 527787833,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-27T11:50:42.500Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102494331,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6073,6 +7062,13 @@
     "id": 527787838,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-27T11:51:29.571Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102494334,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6110,6 +7106,13 @@
     "type": "Annotation",
     "id": 527787865,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-27T11:52:38.127Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 102494338,
         "value": "* Roof structure type: House",
@@ -6157,6 +7160,13 @@
     "id": 527787881,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-27T11:53:50.455Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102494342,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -6203,6 +7213,13 @@
     "id": 527787940,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-27T11:54:50.682Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102494345,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6240,6 +7257,13 @@
     "type": "Annotation",
     "id": 527788077,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-27T11:56:34.979Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 102494348,
         "value": "* Ruined or intact?: Intact",
@@ -6279,6 +7303,13 @@
     "id": 527788138,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-27T11:57:21.429Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102494351,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6317,6 +7348,13 @@
     "id": 527788221,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-27T11:58:43.534Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102494354,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6353,7 +7391,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 527788291,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-27T11:59:34.272Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      }
+    ],
     "target": {
       "source": "chaves2.jpg",
       "selector": {
@@ -6367,6 +7413,13 @@
     "type": "Annotation",
     "id": 527788613,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-27T12:06:17.003Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 102494357,
         "value": "* Ruined or intact?: Intact",
@@ -6406,6 +7459,13 @@
     "id": 529575815,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-09-29T14:14:16.483Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102703859,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -6435,6 +7495,13 @@
     "type": "Annotation",
     "id": 529575978,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-29T14:16:55.429Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 102703870,
         "value": "* Ruined or intact?: Ruined",
@@ -6530,6 +7597,13 @@
     "id": 529576229,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-29T14:21:00.417Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102703880,
         "value": "* Ruined or intact?: Ruined",
         "purpose": "tagging",
@@ -6624,6 +7698,13 @@
     "id": 529576929,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-29T14:30:11.254Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102703890,
         "value": "* Ruined or intact?: Ruined",
         "purpose": "tagging",
@@ -6717,6 +7798,13 @@
     "type": "Annotation",
     "id": 529577441,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-29T14:38:03.915Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 102703901,
         "value": "Door (Fancy Manueline style): null",
@@ -6820,6 +7908,13 @@
     "id": 529577711,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-29T14:41:55.031Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102703912,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6914,6 +8009,13 @@
     "id": 529577991,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-29T14:46:11.685Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102703922,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -7007,6 +8109,13 @@
     "type": "Annotation",
     "id": 529578157,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-29T14:49:44.211Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 102703933,
         "value": "Door (Fancy Manueline style): null",
@@ -7110,6 +8219,13 @@
     "id": 529578324,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-29T14:53:23.371Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102703968,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -7203,6 +8319,13 @@
     "type": "Annotation",
     "id": 529590770,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-29T15:17:01.323Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 102703978,
         "value": "* Ruined or intact?: Intact",
@@ -7298,6 +8421,13 @@
     "id": 529590875,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-09-29T15:21:22.821Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102703986,
         "value": "* Tower Shape?: Rectangular",
         "purpose": "tagging",
@@ -7375,6 +8505,13 @@
     "type": "Annotation",
     "id": 529590964,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-09-29T15:25:04.288Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 102703995,
         "value": "Window (Round-headed): null",
@@ -7461,6 +8598,13 @@
     "type": "Annotation",
     "id": 529591235,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-29T15:48:44.972Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 102704015,
         "value": "* Ruined or intact?: Intact",
@@ -7556,6 +8700,13 @@
     "id": 529858848,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-30T14:58:47.044Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102731521,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -7650,6 +8801,13 @@
     "id": 529859626,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-09-30T15:26:50.491Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102731549,
         "value": "* Tower Shape?: Rectangular",
         "purpose": "tagging",
@@ -7727,6 +8885,13 @@
     "type": "Annotation",
     "id": 529859707,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-09-30T15:31:08.414Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 102731560,
         "value": "* Tower Shape?: Rectangular",
@@ -7806,6 +8971,13 @@
     "id": 529859744,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Chimney",
+        "created": "2020-09-30T15:34:46.166Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102731578,
         "value": "* Partially occluded or Complete?: Complete",
         "purpose": "tagging",
@@ -7843,6 +9015,13 @@
     "type": "Annotation",
     "id": 529859877,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-30T15:44:56.084Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 102731582,
         "value": "* Roof structure type: House",
@@ -7890,6 +9069,13 @@
     "id": 529859925,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T15:48:04.757Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102731585,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -7927,6 +9113,13 @@
     "type": "Annotation",
     "id": 529859934,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T15:48:46.744Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 102731588,
         "value": "* Ruined or intact?: Intact",
@@ -7966,6 +9159,13 @@
     "id": 529859970,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T15:50:47.194Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102731591,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -8003,6 +9203,13 @@
     "type": "Annotation",
     "id": 529860014,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T15:51:34.407Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 102731594,
         "value": "* Ruined or intact?: Intact",
@@ -8042,6 +9249,13 @@
     "id": 529860019,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T15:52:05.397Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102731597,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -8079,6 +9293,13 @@
     "type": "Annotation",
     "id": 529860033,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-30T15:53:17.490Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 102731601,
         "value": "* Roof structure type: House",
@@ -8126,6 +9347,13 @@
     "id": 529860048,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-30T15:55:36.990Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102731605,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -8172,6 +9400,13 @@
     "id": 529860054,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T15:56:32.846Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102731693,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -8210,6 +9445,13 @@
     "id": 529906770,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T16:58:12.747Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102731696,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -8247,6 +9489,13 @@
     "type": "Annotation",
     "id": 530058147,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-10-01T10:39:39.562Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 102754234,
         "value": "Breteche': null",
@@ -8350,6 +9599,13 @@
     "id": 530063541,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-10-01T10:46:03.186Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102754249,
         "value": "Breteche': null",
         "purpose": "tagging",
@@ -8452,6 +9708,13 @@
     "id": 530064233,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-10-01T10:55:04.747Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102754253,
         "value": "* Roof structure type: Tower",
         "purpose": "tagging",
@@ -8497,6 +9760,13 @@
     "type": "Annotation",
     "id": 530064420,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-10-01T10:58:16.344Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 102754257,
         "value": "* Roof structure type: Tower",
@@ -8544,6 +9814,13 @@
     "id": 530064507,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-10-01T10:59:13.394Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102754261,
         "value": "* Roof structure type: Tower",
         "purpose": "tagging",
@@ -8590,6 +9867,13 @@
     "id": 530099707,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-10-01T11:00:47.501Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102754265,
         "value": "* Roof structure type: Tower",
         "purpose": "tagging",
@@ -8635,6 +9919,13 @@
     "type": "Annotation",
     "id": 530178710,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Keep",
+        "created": "2020-10-01T11:02:18.170Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 102754279,
         "value": "Breteche': null",
@@ -8730,6 +10021,13 @@
     "id": 530179573,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Keep",
+        "created": "2020-10-01T11:23:23.118Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 102754293,
         "value": "Balcony (Not a bretèche): null",
         "purpose": "tagging",
@@ -8823,6 +10121,13 @@
     "type": "Annotation",
     "id": 530722537,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-10-02T15:03:28.307Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 103046384,
         "value": "* Ruined or intact?: Intact",
@@ -8918,6 +10223,13 @@
     "id": 530722745,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-02T15:10:47.420Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 103046400,
         "value": "* Landform type: Mountain (craggy)",
         "purpose": "tagging",
@@ -8947,6 +10259,13 @@
     "type": "Annotation",
     "id": 530724257,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Tree",
+        "created": "2020-10-02T16:03:25.777Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 103046601,
         "value": "* Singular or sample from a group?: Sample from a group",
@@ -8986,6 +10305,13 @@
     "id": 530724385,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Container",
+        "created": "2020-10-02T16:08:57.765Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
+      {
         "id": 103047107,
         "value": "* Number of rocks or trees in the container?: 7",
         "purpose": "tagging",
@@ -9015,6 +10341,13 @@
     "type": "Annotation",
     "id": 530727379,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Tree",
+        "created": "2020-10-02T17:45:06.875Z",
+        "updated": "2020-10-02T17:51:27.644Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 103047170,
         "value": "* Tree Type: Reeds",
@@ -9053,6 +10386,13 @@
     "type": "Annotation",
     "id": 530727408,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Container",
+        "created": "2020-10-02T17:47:45.164Z",
+        "updated": "2020-10-02T17:52:22.892Z",
+        "creator": "supreme_singh"
+      },
       {
         "id": 103047209,
         "value": "* Number of rocks or trees in the container?: 6",

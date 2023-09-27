@@ -5,6 +5,13 @@
     "id": 462158573,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-10T18:56:59.390Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -43,6 +50,13 @@
     "id": 462403228,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-10T21:58:22.544Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -72,6 +86,13 @@
     "type": "Annotation",
     "id": 465027237,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-16T01:50:59.866Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -119,6 +140,13 @@
     "id": 465027299,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-16T01:52:02.522Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -156,6 +184,13 @@
     "type": "Annotation",
     "id": 465027342,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-16T01:53:31.504Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -195,6 +230,13 @@
     "id": 465027363,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-16T01:54:45.612Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -233,6 +275,13 @@
     "id": 465027384,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-16T01:55:30.194Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -270,6 +319,13 @@
     "type": "Annotation",
     "id": 465027405,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-16T01:56:19.557Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -317,6 +373,13 @@
     "id": 465027431,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-16T01:57:34.678Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -354,6 +417,13 @@
     "type": "Annotation",
     "id": 465027586,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-16T02:01:39.174Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -393,6 +463,13 @@
     "id": 465027587,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-16T02:02:44.135Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -430,6 +507,13 @@
     "type": "Annotation",
     "id": 465027605,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-16T02:05:46.267Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -469,6 +553,13 @@
     "id": 465027606,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-16T02:06:42.137Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -506,6 +597,13 @@
     "type": "Annotation",
     "id": 465027609,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-16T02:08:08.486Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -553,6 +651,13 @@
     "id": 465027610,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-16T02:09:09.831Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -599,6 +704,13 @@
     "id": 465027611,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-16T02:10:13.713Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -636,6 +748,13 @@
     "type": "Annotation",
     "id": 465027612,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-16T02:11:12.236Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -675,6 +794,13 @@
     "id": 465027614,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-16T02:12:53.219Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -712,6 +838,13 @@
     "type": "Annotation",
     "id": 465027635,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-16T02:13:54.667Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -751,6 +884,13 @@
     "id": 465027636,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-16T02:14:44.724Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -788,6 +928,13 @@
     "type": "Annotation",
     "id": 465027638,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-16T02:15:32.174Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -835,6 +982,13 @@
     "id": 465027649,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-16T02:16:32.370Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -881,6 +1035,13 @@
     "id": 465027655,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-16T02:17:42.560Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -918,6 +1079,13 @@
     "type": "Annotation",
     "id": 465027658,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-16T02:18:34.408Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
@@ -957,6 +1125,13 @@
     "id": 465027665,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-16T02:19:17.483Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -994,6 +1169,13 @@
     "type": "Annotation",
     "id": 465027706,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-16T02:20:24.554Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -1033,6 +1215,13 @@
     "id": 465027809,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-16T02:21:21.416Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -1070,6 +1259,13 @@
     "type": "Annotation",
     "id": 465027850,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-16T02:22:11.886Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -1117,6 +1313,13 @@
     "id": 465027871,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-16T02:23:21.608Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -1155,6 +1358,13 @@
     "id": 465027894,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-16T02:24:03.932Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -1192,6 +1402,13 @@
     "type": "Annotation",
     "id": 465027937,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-16T02:24:55.018Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -1239,6 +1456,13 @@
     "id": 465028039,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-16T02:25:42.910Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -1285,6 +1509,13 @@
     "id": 465028254,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-16T02:27:41.758Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -1323,6 +1554,13 @@
     "id": 465029097,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-16T02:28:50.761Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -1359,7 +1597,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 466311245,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-17T21:37:31.672Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      }
+    ],
     "target": {
       "source": "moura2.jpg",
       "selector": {
@@ -1373,6 +1619,13 @@
     "type": "Annotation",
     "id": 466311255,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T21:38:21.077Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -1412,6 +1665,13 @@
     "id": 466311264,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T21:39:52.698Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -1449,6 +1709,13 @@
     "type": "Annotation",
     "id": 466311269,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T21:40:43.145Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
@@ -1488,6 +1755,13 @@
     "id": 466311273,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T21:41:38.830Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -1526,6 +1800,13 @@
     "id": 466311290,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T21:44:06.306Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -1563,6 +1844,13 @@
     "type": "Annotation",
     "id": 466311307,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-17T21:46:32.555Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -1610,6 +1898,13 @@
     "id": 466311319,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T21:48:04.973Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Chimney round",
         "purpose": "tagging",
@@ -1647,6 +1942,13 @@
     "type": "Annotation",
     "id": 466311364,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-17T21:53:56.324Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -1686,6 +1988,13 @@
     "id": 466311374,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T21:55:00.555Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -1723,6 +2032,13 @@
     "type": "Annotation",
     "id": 466311378,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T21:55:40.814Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -1762,6 +2078,13 @@
     "id": 466311385,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T21:56:51.299Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -1799,6 +2122,13 @@
     "type": "Annotation",
     "id": 466311392,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T21:58:09.748Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
@@ -1838,6 +2168,13 @@
     "id": 466311399,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T21:59:28.954Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -1875,6 +2212,13 @@
     "type": "Annotation",
     "id": 466311404,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-17T22:00:28.654Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -1922,6 +2266,13 @@
     "id": 466311426,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T22:04:19.755Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -1959,6 +2310,13 @@
     "type": "Annotation",
     "id": 466311433,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-17T22:05:11.414Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Complete",
@@ -2006,6 +2364,13 @@
     "id": 466311444,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T22:07:20.705Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -2043,6 +2408,13 @@
     "type": "Annotation",
     "id": 466311455,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T22:09:06.747Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
@@ -2082,6 +2454,13 @@
     "id": 466311459,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T22:10:19.575Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -2119,6 +2498,13 @@
     "type": "Annotation",
     "id": 466311462,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T22:11:27.128Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -2158,6 +2544,13 @@
     "id": 466311465,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T22:12:25.807Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -2194,7 +2587,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 466311469,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-17T22:13:03.120Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      }
+    ],
     "target": {
       "source": "moura2.jpg",
       "selector": {
@@ -2208,6 +2609,13 @@
     "type": "Annotation",
     "id": 466311478,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T22:14:35.010Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -2247,6 +2655,13 @@
     "id": 466311482,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T22:15:22.260Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -2284,6 +2699,13 @@
     "type": "Annotation",
     "id": 466311490,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-17T22:16:29.681Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -2331,6 +2753,13 @@
     "id": 466311495,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-17T22:17:59.071Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Complete",
         "purpose": "tagging",
@@ -2377,6 +2806,13 @@
     "id": 466311497,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T22:18:59.307Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Chimney front",
         "purpose": "tagging",
@@ -2414,6 +2850,13 @@
     "type": "Annotation",
     "id": 466311499,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T22:19:44.974Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Chimney side",
@@ -2453,6 +2896,13 @@
     "id": 466311502,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T22:20:20.303Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -2491,6 +2941,13 @@
     "id": 466311505,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T22:22:17.382Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -2528,6 +2985,13 @@
     "type": "Annotation",
     "id": 466311515,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-17T22:23:43.777Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -2575,6 +3039,13 @@
     "id": 466311521,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T22:24:46.642Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -2612,6 +3083,13 @@
     "type": "Annotation",
     "id": 466311524,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T22:25:44.977Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -2651,6 +3129,13 @@
     "id": 466311540,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T22:27:10.883Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -2688,6 +3173,13 @@
     "type": "Annotation",
     "id": 466311547,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T22:28:35.401Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -2727,6 +3219,13 @@
     "id": 466311550,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T22:29:40.623Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -2764,6 +3263,13 @@
     "type": "Annotation",
     "id": 466311553,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T22:30:25.683Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -2803,6 +3309,13 @@
     "id": 466311561,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-17T22:31:45.907Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -2840,6 +3353,13 @@
     "type": "Annotation",
     "id": 466311574,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-17T22:34:08.678Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -2887,6 +3407,13 @@
     "id": 466311580,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T22:35:18.734Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -2924,6 +3451,13 @@
     "type": "Annotation",
     "id": 466311586,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T22:36:08.724Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -2963,6 +3497,13 @@
     "id": 466311593,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T22:37:11.749Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -3000,6 +3541,13 @@
     "type": "Annotation",
     "id": 466311607,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-17T22:40:21.093Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -3039,6 +3587,13 @@
     "id": 466311619,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T22:42:21.084Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -3076,6 +3631,13 @@
     "type": "Annotation",
     "id": 466311625,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-17T22:43:23.740Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -3115,6 +3677,13 @@
     "id": 467413442,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T15:18:18.355Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -3153,6 +3722,13 @@
     "id": 467413549,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T15:20:28.052Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -3190,6 +3766,13 @@
     "type": "Annotation",
     "id": 467413597,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-18T15:21:04.831Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -3236,6 +3819,13 @@
     "type": "Annotation",
     "id": 467987127,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Christian religious building",
+        "created": "2020-06-18T21:46:48.354Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -3298,6 +3888,13 @@
     "type": "Annotation",
     "id": 467987180,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Christian religious building",
+        "created": "2020-06-18T21:48:35.245Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -3377,6 +3974,13 @@
     "id": 467987410,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-18T21:55:32.137Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -3423,6 +4027,13 @@
     "id": 467987454,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-18T21:56:40.204Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -3468,6 +4079,13 @@
     "type": "Annotation",
     "id": 467987534,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Christian religious building",
+        "created": "2020-06-18T21:59:47.311Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -3531,6 +4149,13 @@
     "id": 467987606,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Christian religious building",
+        "created": "2020-06-18T22:02:16.191Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -3593,6 +4218,13 @@
     "id": 467987833,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T22:08:32.458Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -3630,6 +4262,13 @@
     "type": "Annotation",
     "id": 467987905,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T22:09:57.554Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
@@ -3669,6 +4308,13 @@
     "id": 467987939,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T22:10:58.853Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -3706,6 +4352,13 @@
     "type": "Annotation",
     "id": 467987981,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-18T22:12:22.875Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -3753,6 +4406,13 @@
     "id": 467988025,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-18T22:13:37.682Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -3799,6 +4459,13 @@
     "id": 467988110,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T22:15:26.606Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -3837,6 +4504,13 @@
     "id": 467988144,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T22:16:11.183Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -3874,6 +4548,13 @@
     "type": "Annotation",
     "id": 467988183,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-18T22:17:18.396Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -3921,6 +4602,13 @@
     "id": 467988447,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T22:25:08.337Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -3957,7 +4645,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 467988489,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T22:26:03.754Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      }
+    ],
     "target": {
       "source": "moura2.jpg",
       "selector": {
@@ -3971,6 +4667,13 @@
     "type": "Annotation",
     "id": 467988529,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T22:26:54.707Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -4010,6 +4713,13 @@
     "id": 467988604,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T22:29:19.454Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -4048,6 +4758,13 @@
     "id": 467988755,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T22:34:44.060Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -4085,6 +4802,13 @@
     "type": "Annotation",
     "id": 467988785,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-18T22:36:04.807Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -4132,6 +4856,13 @@
     "id": 467988858,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T22:37:44.618Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -4170,6 +4901,13 @@
     "id": 467988918,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T22:38:58.788Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -4207,6 +4945,13 @@
     "type": "Annotation",
     "id": 467988947,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-18T22:39:46.867Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -4254,6 +4999,13 @@
     "id": 467989001,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-18T22:41:24.012Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -4300,6 +5052,13 @@
     "id": 467989039,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T22:42:37.853Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -4337,6 +5096,13 @@
     "type": "Annotation",
     "id": 467989054,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T22:43:19.916Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -4376,6 +5142,13 @@
     "id": 467989068,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T22:44:13.161Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -4413,6 +5186,13 @@
     "type": "Annotation",
     "id": 467989094,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-18T22:45:05.064Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -4460,6 +5240,13 @@
     "id": 467989122,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T22:46:02.510Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -4497,6 +5284,13 @@
     "type": "Annotation",
     "id": 467989213,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-18T22:50:09.144Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Complete",
@@ -4544,6 +5338,13 @@
     "id": 467989279,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T22:51:48.158Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -4581,6 +5382,13 @@
     "type": "Annotation",
     "id": 467989302,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T22:52:40.064Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -4620,6 +5428,13 @@
     "id": 467989325,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T22:53:34.553Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -4657,6 +5472,13 @@
     "type": "Annotation",
     "id": 467989367,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T22:54:56.586Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -4696,6 +5518,13 @@
     "id": 467989395,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T22:56:06.971Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -4734,6 +5563,13 @@
     "id": 467989413,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T22:57:08.085Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -4771,6 +5607,13 @@
     "type": "Annotation",
     "id": 467989429,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-18T22:57:52.611Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -4818,6 +5661,13 @@
     "id": 467989480,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-18T22:59:52.570Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -4864,6 +5714,13 @@
     "id": 467989528,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T23:01:44.813Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -4901,6 +5758,13 @@
     "type": "Annotation",
     "id": 467989559,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T23:02:49.496Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
@@ -4940,6 +5804,13 @@
     "id": 467989590,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T23:03:49.269Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -4977,6 +5848,13 @@
     "type": "Annotation",
     "id": 467989624,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-18T23:04:58.139Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -5024,6 +5902,13 @@
     "id": 467989649,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T23:06:00.779Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -5061,6 +5946,13 @@
     "type": "Annotation",
     "id": 467989678,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T23:06:59.814Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -5100,6 +5992,13 @@
     "id": 467989705,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T23:08:01.022Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -5137,6 +6036,13 @@
     "type": "Annotation",
     "id": 467989761,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T23:10:19.492Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -5176,6 +6082,13 @@
     "id": 467989779,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T23:11:03.266Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -5213,6 +6126,13 @@
     "type": "Annotation",
     "id": 467989805,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-18T23:12:09.431Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -5260,6 +6180,13 @@
     "id": 467989834,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T23:13:23.016Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Chimney front",
         "purpose": "tagging",
@@ -5297,6 +6224,13 @@
     "type": "Annotation",
     "id": 467989863,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T23:14:23.463Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Chimney side",
@@ -5336,6 +6270,13 @@
     "id": 467989889,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T23:15:24.857Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -5374,6 +6315,13 @@
     "id": 467989906,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T23:16:21.981Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -5411,6 +6359,13 @@
     "type": "Annotation",
     "id": 467989923,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-18T23:17:12.850Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -5458,6 +6413,13 @@
     "id": 467989995,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T23:19:48.847Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -5495,6 +6457,13 @@
     "type": "Annotation",
     "id": 467990020,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-18T23:20:38.735Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -5534,6 +6503,13 @@
     "id": 469547635,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T14:26:50.720Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -5571,6 +6547,13 @@
     "type": "Annotation",
     "id": 469547648,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T14:27:52.473Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -5610,6 +6593,13 @@
     "id": 469549230,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T14:29:06.443Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -5647,6 +6637,13 @@
     "type": "Annotation",
     "id": 469553540,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-19T14:30:02.265Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -5694,6 +6691,13 @@
     "id": 469554397,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-19T14:31:47.394Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -5740,6 +6744,13 @@
     "id": 469556022,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T14:33:31.289Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -5777,6 +6788,13 @@
     "type": "Annotation",
     "id": 469560581,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T14:35:00.963Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -5816,6 +6834,13 @@
     "id": 469560592,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T14:36:16.241Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -5853,6 +6878,13 @@
     "type": "Annotation",
     "id": 469560603,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T14:37:37.363Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -5892,6 +6924,13 @@
     "id": 469560617,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T14:38:49.445Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -5929,6 +6968,13 @@
     "type": "Annotation",
     "id": 469560622,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-19T14:39:40.872Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Complete",
@@ -5976,6 +7022,13 @@
     "id": 469560632,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T14:40:57.072Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -6013,6 +7066,13 @@
     "type": "Annotation",
     "id": 469560643,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-19T14:42:45.938Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Complete",
@@ -6060,6 +7120,13 @@
     "id": 469589789,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T14:43:53.769Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -6096,7 +7163,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 469607679,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T14:45:19.603Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      }
+    ],
     "target": {
       "source": "moura2.jpg",
       "selector": {
@@ -6110,6 +7185,13 @@
     "type": "Annotation",
     "id": 469607684,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T14:46:20.553Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
@@ -6149,6 +7231,13 @@
     "id": 469607699,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T14:47:39.183Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -6186,6 +7275,13 @@
     "type": "Annotation",
     "id": 469607710,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-19T14:49:11.414Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -6233,6 +7329,13 @@
     "id": 469607736,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T14:50:54.309Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -6270,6 +7373,13 @@
     "type": "Annotation",
     "id": 469620640,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-19T15:43:31.761Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -6317,6 +7427,13 @@
     "id": 469620685,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T15:44:49.063Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -6354,6 +7471,13 @@
     "type": "Annotation",
     "id": 469620703,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T15:45:25.473Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -6393,6 +7517,13 @@
     "id": 469620722,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T15:46:14.465Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -6430,6 +7561,13 @@
     "type": "Annotation",
     "id": 469620765,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-19T15:47:55.928Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Complete",
@@ -6477,6 +7615,13 @@
     "id": 469620793,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T15:49:00.715Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -6515,6 +7660,13 @@
     "id": 469620827,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T15:50:09.843Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -6551,7 +7703,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 469689616,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T15:51:43.449Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      }
+    ],
     "target": {
       "source": "moura2.jpg",
       "selector": {
@@ -6565,6 +7725,13 @@
     "type": "Annotation",
     "id": 469699330,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-19T15:54:27.569Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Complete",
@@ -6612,6 +7779,13 @@
     "id": 469771463,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T15:55:47.028Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -6649,6 +7823,13 @@
     "type": "Annotation",
     "id": 469782521,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T15:58:44.459Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
@@ -6688,6 +7869,13 @@
     "id": 469782544,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T16:00:12.603Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -6725,6 +7913,13 @@
     "type": "Annotation",
     "id": 469782570,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-19T16:01:59.755Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -6772,6 +7967,13 @@
     "id": 469782580,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T16:03:18.229Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -6809,6 +8011,13 @@
     "type": "Annotation",
     "id": 469782588,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T16:04:24.148Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
@@ -6848,6 +8057,13 @@
     "id": 469782593,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T16:05:12.138Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -6885,6 +8101,13 @@
     "type": "Annotation",
     "id": 469782613,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-19T16:06:25.425Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -6932,6 +8155,13 @@
     "id": 469782627,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T16:07:20.584Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -6969,6 +8199,13 @@
     "type": "Annotation",
     "id": 469782652,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T16:08:42.843Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
@@ -7008,6 +8245,13 @@
     "id": 469782663,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T16:09:34.759Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -7044,7 +8288,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 469782700,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-19T16:12:34.278Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      }
+    ],
     "target": {
       "source": "moura2.jpg",
       "selector": {
@@ -7058,6 +8310,13 @@
     "type": "Annotation",
     "id": 469782708,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T16:13:39.487Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -7097,6 +8356,13 @@
     "id": 469782718,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T16:14:47.241Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -7134,6 +8400,13 @@
     "type": "Annotation",
     "id": 469782723,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T16:15:45.193Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
@@ -7173,6 +8446,13 @@
     "id": 469782730,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T16:16:56.985Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -7210,6 +8490,13 @@
     "type": "Annotation",
     "id": 469782750,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T16:18:31.692Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
@@ -7249,6 +8536,13 @@
     "id": 469782761,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T16:19:56.196Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -7286,6 +8580,13 @@
     "type": "Annotation",
     "id": 469782775,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-19T16:21:08.931Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -7333,6 +8634,13 @@
     "id": 469792641,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-19T16:44:50.603Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -7379,6 +8687,13 @@
     "id": 469795414,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T16:45:45.506Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -7416,6 +8731,13 @@
     "type": "Annotation",
     "id": 469795454,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T16:46:52.574Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
@@ -7455,6 +8777,13 @@
     "id": 469795487,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T16:47:53.132Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -7492,6 +8821,13 @@
     "type": "Annotation",
     "id": 469795543,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T16:50:53.500Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -7531,6 +8867,13 @@
     "id": 469795566,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T16:51:54.833Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -7568,6 +8911,13 @@
     "type": "Annotation",
     "id": 469795587,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-19T16:53:07.807Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -7615,6 +8965,13 @@
     "id": 469795617,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-19T16:54:50.149Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -7661,6 +9018,13 @@
     "id": 469795627,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T16:55:40.204Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -7698,6 +9062,13 @@
     "type": "Annotation",
     "id": 469795650,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T16:56:55.704Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
@@ -7737,6 +9108,13 @@
     "id": 469795681,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T16:57:53.323Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -7774,6 +9152,13 @@
     "type": "Annotation",
     "id": 469795690,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-19T16:59:08.463Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -7821,6 +9206,13 @@
     "id": 469795718,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T17:00:07.239Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -7858,6 +9250,13 @@
     "type": "Annotation",
     "id": 469795737,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T17:01:33.108Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
@@ -7897,6 +9296,13 @@
     "id": 469795764,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T17:02:39.542Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -7934,6 +9340,13 @@
     "type": "Annotation",
     "id": 469795808,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T17:03:49.894Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -7973,6 +9386,13 @@
     "id": 469795832,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T17:04:30.483Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -8011,6 +9431,13 @@
     "id": 469795884,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T17:05:42.480Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -8048,6 +9475,13 @@
     "type": "Annotation",
     "id": 469795905,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-19T17:06:40.911Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -8095,6 +9529,13 @@
     "id": 469795960,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-19T17:08:42.530Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Complete",
         "purpose": "tagging",
@@ -8141,6 +9582,13 @@
     "id": 469795998,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T17:10:09.127Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -8178,6 +9626,13 @@
     "type": "Annotation",
     "id": 469812676,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T18:09:44.864Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -8217,6 +9672,13 @@
     "id": 469814973,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T18:11:24.656Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -8253,7 +9715,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 469817107,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-19T18:13:01.326Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      }
+    ],
     "target": {
       "source": "moura2.jpg",
       "selector": {
@@ -8267,6 +9737,13 @@
     "type": "Annotation",
     "id": 469820594,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T18:15:24.343Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -8306,6 +9783,13 @@
     "id": 469821632,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T18:16:19.443Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -8343,6 +9827,13 @@
     "type": "Annotation",
     "id": 469821651,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-19T18:18:08.070Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -8390,6 +9881,13 @@
     "id": 469821659,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T18:19:07.972Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -8428,6 +9926,13 @@
     "id": 469821709,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T18:23:57.411Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -8465,6 +9970,13 @@
     "type": "Annotation",
     "id": 469821720,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-19T18:25:29.992Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Complete",
@@ -8512,6 +10024,13 @@
     "id": 469822839,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T18:27:11.735Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -8550,6 +10069,13 @@
     "id": 469826375,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T18:27:55.716Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -8587,6 +10113,13 @@
     "type": "Annotation",
     "id": 469831836,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-19T18:29:18.069Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -8634,6 +10167,13 @@
     "id": 469836690,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T18:30:45.203Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -8671,6 +10211,13 @@
     "type": "Annotation",
     "id": 469841116,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T18:31:49.762Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
@@ -8710,6 +10257,13 @@
     "id": 469843996,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T18:32:38.417Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -8747,6 +10301,13 @@
     "type": "Annotation",
     "id": 469873907,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-19T18:39:33.689Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Complete",
@@ -8794,6 +10355,13 @@
     "id": 469877521,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T18:40:38.830Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -8831,6 +10399,13 @@
     "type": "Annotation",
     "id": 469881506,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T18:42:08.616Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -8870,6 +10445,13 @@
     "id": 469887725,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T18:43:43.631Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -8907,6 +10489,13 @@
     "type": "Annotation",
     "id": 469894179,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-19T18:45:20.598Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -8954,6 +10543,13 @@
     "id": 469900005,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T18:46:33.036Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -8991,6 +10587,13 @@
     "type": "Annotation",
     "id": 469904128,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T18:47:38.383Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -9030,6 +10633,13 @@
     "id": 469913643,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T18:49:57.053Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -9067,6 +10677,13 @@
     "type": "Annotation",
     "id": 469925014,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-19T18:52:54.426Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -9114,6 +10731,13 @@
     "id": 469929578,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T18:54:14.639Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -9151,6 +10775,13 @@
     "type": "Annotation",
     "id": 469933792,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T18:55:10.372Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
@@ -9190,6 +10821,13 @@
     "id": 469940552,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T18:56:53.606Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -9227,6 +10865,13 @@
     "type": "Annotation",
     "id": 469949574,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-19T18:58:46.605Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -9274,6 +10919,13 @@
     "id": 469957418,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T19:00:54.557Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -9311,6 +10963,13 @@
     "type": "Annotation",
     "id": 469961527,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T19:01:47.467Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
@@ -9350,6 +11009,13 @@
     "id": 469965128,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T19:02:50.584Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -9387,6 +11053,13 @@
     "type": "Annotation",
     "id": 469971833,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-19T19:04:23.854Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -9434,6 +11107,13 @@
     "id": 469979257,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T19:06:46.682Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -9471,6 +11151,13 @@
     "type": "Annotation",
     "id": 469987582,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T19:07:51.692Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -9510,6 +11197,13 @@
     "id": 469996118,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T19:10:30.274Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -9548,6 +11242,13 @@
     "id": 469996316,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-19T19:16:38.923Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -9585,6 +11286,13 @@
     "type": "Annotation",
     "id": 469996414,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-19T19:20:20.884Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -9632,6 +11340,13 @@
     "id": 469996423,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-19T19:23:00.384Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -9678,6 +11393,13 @@
     "id": 470753151,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T20:47:09.685Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -9715,6 +11437,13 @@
     "type": "Annotation",
     "id": 470753162,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T20:48:01.792Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
@@ -9754,6 +11483,13 @@
     "id": 470753218,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T20:50:29.595Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -9791,6 +11527,13 @@
     "type": "Annotation",
     "id": 470753256,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-21T20:52:15.186Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -9838,6 +11581,13 @@
     "id": 470753262,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T20:53:10.516Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -9875,6 +11625,13 @@
     "type": "Annotation",
     "id": 470753281,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T20:54:12.253Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
@@ -9914,6 +11671,13 @@
     "id": 470753298,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T20:55:30.627Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -9951,6 +11715,13 @@
     "type": "Annotation",
     "id": 470753324,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T20:57:26.145Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -9990,6 +11761,13 @@
     "id": 470753330,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T20:58:49.839Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -10028,6 +11806,13 @@
     "id": 470753357,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-21T21:00:04.803Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -10065,6 +11850,13 @@
     "type": "Annotation",
     "id": 470753388,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-21T21:01:37.603Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -10112,6 +11904,13 @@
     "id": 470753404,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T21:02:50.520Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -10149,6 +11948,13 @@
     "type": "Annotation",
     "id": 470753410,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T21:03:52.068Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
@@ -10188,6 +11994,13 @@
     "id": 470753423,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T21:04:43.192Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -10225,6 +12038,13 @@
     "type": "Annotation",
     "id": 470753460,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T21:07:13.001Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -10264,6 +12084,13 @@
     "id": 470753527,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T21:08:36.114Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -10301,6 +12128,13 @@
     "type": "Annotation",
     "id": 470753551,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-21T21:09:50.976Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -10348,6 +12182,13 @@
     "id": 470753595,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-21T21:12:20.476Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -10394,6 +12235,13 @@
     "id": 470754106,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T22:09:35.149Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -10431,6 +12279,13 @@
     "type": "Annotation",
     "id": 470754116,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T22:12:04.751Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -10470,6 +12325,13 @@
     "id": 470754127,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T22:14:48.840Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -10507,6 +12369,13 @@
     "type": "Annotation",
     "id": 470806725,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-21T22:21:40.877Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -10554,6 +12423,13 @@
     "id": 470806730,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T22:23:10.439Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -10591,6 +12467,13 @@
     "type": "Annotation",
     "id": 470806734,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T22:24:00.249Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
@@ -10630,6 +12513,13 @@
     "id": 470806761,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T22:28:12.186Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -10667,6 +12557,13 @@
     "type": "Annotation",
     "id": 470808045,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T23:16:25.433Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -10706,6 +12603,13 @@
     "id": 470808058,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T23:17:54.211Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -10743,6 +12647,13 @@
     "type": "Annotation",
     "id": 470808072,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-21T23:18:46.816Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -10788,7 +12699,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 470808081,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-21T23:19:52.101Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      }
+    ],
     "target": {
       "source": "moura2.jpg",
       "selector": {
@@ -10802,6 +12721,13 @@
     "type": "Annotation",
     "id": 470808125,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T23:21:32.491Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -10841,6 +12767,13 @@
     "id": 470808148,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T23:23:16.040Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -10878,6 +12811,13 @@
     "type": "Annotation",
     "id": 470808158,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Christian religious building",
+        "created": "2020-06-21T23:26:12.101Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -10933,6 +12873,13 @@
     "id": 470808179,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Christian religious building",
+        "created": "2020-06-21T23:27:29.867Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -10978,6 +12925,13 @@
     "type": "Annotation",
     "id": 470808219,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Christian religious building",
+        "created": "2020-06-21T23:28:44.566Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -11041,6 +12995,13 @@
     "id": 470808251,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-21T23:29:44.215Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -11086,6 +13047,13 @@
     "type": "Annotation",
     "id": 470808454,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-21T23:35:52.641Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -11133,6 +13101,13 @@
     "id": 470808495,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T23:37:03.279Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -11170,6 +13145,13 @@
     "type": "Annotation",
     "id": 470808543,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T23:38:56.115Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -11209,6 +13191,13 @@
     "id": 470808572,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T23:40:07.711Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -11246,6 +13235,13 @@
     "type": "Annotation",
     "id": 470808622,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T23:41:37.217Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -11285,6 +13281,13 @@
     "id": 470808666,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T23:42:51.066Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -11323,6 +13326,13 @@
     "id": 470808710,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T23:44:08.925Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -11360,6 +13370,13 @@
     "type": "Annotation",
     "id": 470808762,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-21T23:45:34.785Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -11407,6 +13424,13 @@
     "id": 470808809,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T23:47:49.412Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -11444,6 +13468,13 @@
     "type": "Annotation",
     "id": 470808869,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T23:50:05.334Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
@@ -11483,6 +13514,13 @@
     "id": 470808877,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T23:50:54.037Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -11520,6 +13558,13 @@
     "type": "Annotation",
     "id": 470808888,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-21T23:52:21.837Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -11567,6 +13612,13 @@
     "id": 470808908,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T23:54:42.757Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -11605,6 +13657,13 @@
     "id": 470808933,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-21T23:55:45.308Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -11642,6 +13701,13 @@
     "type": "Annotation",
     "id": 470808973,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-21T23:57:06.547Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -11689,6 +13755,13 @@
     "id": 471261359,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T10:25:42.599Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -11726,6 +13799,13 @@
     "type": "Annotation",
     "id": 471261420,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T10:26:43.460Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -11765,6 +13845,13 @@
     "id": 471261488,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T10:28:20.682Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -11801,7 +13888,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 471267243,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T10:29:42.055Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      }
+    ],
     "target": {
       "source": "moura2.jpg",
       "selector": {
@@ -11815,6 +13910,13 @@
     "type": "Annotation",
     "id": 471271262,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T10:31:24.658Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -11862,6 +13964,13 @@
     "id": 471271475,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T10:32:39.185Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -11899,6 +14008,13 @@
     "type": "Annotation",
     "id": 471271553,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T10:33:55.631Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -11938,6 +14054,13 @@
     "id": 471271641,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T10:35:03.360Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -11976,6 +14099,13 @@
     "id": 471271719,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T10:36:03.529Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -12013,6 +14143,13 @@
     "type": "Annotation",
     "id": 471277361,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T10:37:28.432Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -12058,7 +14195,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 471277493,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T10:39:40.903Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      }
+    ],
     "target": {
       "source": "moura2.jpg",
       "selector": {
@@ -12072,6 +14217,13 @@
     "type": "Annotation",
     "id": 471277580,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T10:40:56.414Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -12111,6 +14263,13 @@
     "id": 471277707,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T10:42:19.612Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -12148,6 +14307,13 @@
     "type": "Annotation",
     "id": 471277842,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T10:44:16.223Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -12187,6 +14353,13 @@
     "id": 471277979,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T10:46:55.018Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -12225,6 +14398,13 @@
     "id": 471278246,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T10:48:03.605Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -12262,6 +14442,13 @@
     "type": "Annotation",
     "id": 471278284,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T10:48:54.871Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -12309,6 +14496,13 @@
     "id": 471278426,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T10:51:04.737Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -12355,6 +14549,13 @@
     "id": 471278586,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T10:53:32.033Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -12392,6 +14593,13 @@
     "type": "Annotation",
     "id": 471278660,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T10:54:34.500Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
@@ -12431,6 +14639,13 @@
     "id": 471278748,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T10:56:00.052Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -12468,6 +14683,13 @@
     "type": "Annotation",
     "id": 471278871,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T10:58:19.298Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -12507,6 +14729,13 @@
     "id": 471278931,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T10:59:28.934Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -12545,6 +14774,13 @@
     "id": 471279091,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T11:02:28.263Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -12582,6 +14818,13 @@
     "type": "Annotation",
     "id": 471279204,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T11:04:24.669Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -12629,6 +14872,13 @@
     "id": 471279494,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T11:07:45.244Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -12675,6 +14925,13 @@
     "id": 471279607,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T11:09:26.945Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -12712,6 +14969,13 @@
     "type": "Annotation",
     "id": 471279725,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T11:10:48.460Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
@@ -12751,6 +15015,13 @@
     "id": 471279834,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T11:11:59.633Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -12789,6 +15060,13 @@
     "id": 471279963,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T11:13:20.513Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Chimney round",
         "purpose": "tagging",
@@ -12826,6 +15104,13 @@
     "type": "Annotation",
     "id": 471280162,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T11:15:38.909Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -12873,6 +15158,13 @@
     "id": 471281116,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T11:18:05.633Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -12910,6 +15202,13 @@
     "type": "Annotation",
     "id": 471281227,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T11:19:11.030Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -12949,6 +15248,13 @@
     "id": 471281375,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T11:20:36.618Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -12987,6 +15293,13 @@
     "id": 471281465,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T11:21:32.038Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -13023,7 +15336,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 471281600,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T11:22:54.303Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      }
+    ],
     "target": {
       "source": "moura2.jpg",
       "selector": {
@@ -13036,7 +15357,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 471281793,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T11:24:26.254Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      }
+    ],
     "target": {
       "source": "moura2.jpg",
       "selector": {
@@ -13050,6 +15379,13 @@
     "type": "Annotation",
     "id": 471281926,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T11:25:27.155Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -13089,6 +15425,13 @@
     "id": 471282097,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T11:26:52.309Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -13126,6 +15469,13 @@
     "type": "Annotation",
     "id": 471282211,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T11:28:17.301Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -13165,6 +15515,13 @@
     "id": 471282320,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T11:29:48.342Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -13203,6 +15560,13 @@
     "id": 471282427,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T11:30:59.578Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -13240,6 +15604,13 @@
     "type": "Annotation",
     "id": 471282605,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T11:32:46.988Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Complete",
@@ -13287,6 +15658,13 @@
     "id": 471282704,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T11:34:21.016Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Complete",
         "purpose": "tagging",
@@ -13333,6 +15711,13 @@
     "id": 471282817,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T11:35:33.380Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -13370,6 +15755,13 @@
     "type": "Annotation",
     "id": 471282991,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T11:37:26.249Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -13409,6 +15801,13 @@
     "id": 471283312,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T11:40:13.170Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -13447,6 +15846,13 @@
     "id": 471283392,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T11:41:32.057Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -13484,6 +15890,13 @@
     "type": "Annotation",
     "id": 471283532,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T11:43:00.849Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -13531,6 +15944,13 @@
     "id": 471283685,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T11:44:40.361Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -13577,6 +15997,13 @@
     "id": 471283828,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T11:46:09.581Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -13614,6 +16041,13 @@
     "type": "Annotation",
     "id": 471283983,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T11:47:39.116Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
@@ -13653,6 +16087,13 @@
     "id": 471284094,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T11:49:25.855Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -13690,6 +16131,13 @@
     "type": "Annotation",
     "id": 471284223,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T11:51:40.478Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Complete",
@@ -13737,6 +16185,13 @@
     "id": 471284313,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T11:52:57.307Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -13774,6 +16229,13 @@
     "type": "Annotation",
     "id": 471284387,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T11:54:11.653Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -13813,6 +16275,13 @@
     "id": 471284444,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T11:55:02.691Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Chimney front",
         "purpose": "tagging",
@@ -13850,6 +16319,13 @@
     "type": "Annotation",
     "id": 471284553,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T11:56:25.324Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -13889,6 +16365,13 @@
     "id": 471284640,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T11:57:46.040Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -13926,6 +16409,13 @@
     "type": "Annotation",
     "id": 471288068,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T12:00:56.475Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -13965,6 +16455,13 @@
     "id": 471288576,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T12:01:53.573Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -14002,6 +16499,13 @@
     "type": "Annotation",
     "id": 471288636,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T12:02:58.432Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -14049,6 +16553,13 @@
     "id": 471288793,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T12:06:12.630Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Complete",
         "purpose": "tagging",
@@ -14095,6 +16606,13 @@
     "id": 471291744,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T12:44:38.141Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -14132,6 +16650,13 @@
     "type": "Annotation",
     "id": 471291832,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T12:45:55.402Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -14171,6 +16696,13 @@
     "id": 471291963,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T12:47:34.394Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -14209,6 +16741,13 @@
     "id": 471292043,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T12:48:29.308Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -14246,6 +16785,13 @@
     "type": "Annotation",
     "id": 471292149,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T12:49:41.355Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -14293,6 +16839,13 @@
     "id": 471298866,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T12:52:26.303Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Complete",
         "purpose": "tagging",
@@ -14339,6 +16892,13 @@
     "id": 471305800,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T12:53:31.775Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -14376,6 +16936,13 @@
     "type": "Annotation",
     "id": 471309434,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T12:54:40.836Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -14415,6 +16982,13 @@
     "id": 471309508,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T12:55:43.791Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -14452,6 +17026,13 @@
     "type": "Annotation",
     "id": 471309614,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T12:57:21.069Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -14491,6 +17072,13 @@
     "id": 471309678,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T12:58:46.898Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -14529,6 +17117,13 @@
     "id": 471309738,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T13:00:21.458Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -14566,6 +17161,13 @@
     "type": "Annotation",
     "id": 471310585,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T13:18:37.418Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -14613,6 +17215,13 @@
     "id": 471310655,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T13:20:03.218Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -14659,6 +17268,13 @@
     "id": 471310782,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T13:22:03.946Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -14696,6 +17312,13 @@
     "type": "Annotation",
     "id": 471310830,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T13:23:37.095Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -14735,6 +17358,13 @@
     "id": 471310875,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T13:25:03.639Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -14773,6 +17403,13 @@
     "id": 471310979,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T13:27:12.414Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -14810,6 +17447,13 @@
     "type": "Annotation",
     "id": 471311076,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T13:29:15.205Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Complete",
@@ -14857,6 +17501,13 @@
     "id": 471311577,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T13:34:52.573Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Complete",
         "purpose": "tagging",
@@ -14903,6 +17554,13 @@
     "id": 471311765,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T13:37:55.011Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -14940,6 +17598,13 @@
     "type": "Annotation",
     "id": 471311811,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T13:38:53.952Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -14979,6 +17644,13 @@
     "id": 471311908,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T13:40:49.762Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -15016,6 +17688,13 @@
     "type": "Annotation",
     "id": 471312035,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T13:42:30.928Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -15055,6 +17734,13 @@
     "id": 471312092,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T13:43:47.661Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -15093,6 +17779,13 @@
     "id": 471314952,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T13:44:39.921Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -15130,6 +17823,13 @@
     "type": "Annotation",
     "id": 471321764,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T13:46:13.443Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -15177,6 +17877,13 @@
     "id": 471324381,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T13:48:16.992Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -15223,6 +17930,13 @@
     "id": 471339627,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T14:31:41.327Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -15260,6 +17974,13 @@
     "type": "Annotation",
     "id": 471340346,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T14:35:58.405Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
@@ -15299,6 +18020,13 @@
     "id": 471340491,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T14:39:37.397Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -15336,6 +18064,13 @@
     "type": "Annotation",
     "id": 471340811,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T14:41:06.427Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -15375,6 +18110,13 @@
     "id": 471340854,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T14:42:33.365Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -15412,6 +18154,13 @@
     "type": "Annotation",
     "id": 471340895,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T14:43:46.016Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -15457,7 +18206,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 471340939,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T14:45:17.874Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      }
+    ],
     "target": {
       "source": "moura2.jpg",
       "selector": {
@@ -15471,6 +18228,13 @@
     "type": "Annotation",
     "id": 471340977,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T14:46:37.366Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -15510,6 +18274,13 @@
     "id": 471341032,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T14:48:14.923Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -15547,6 +18318,13 @@
     "type": "Annotation",
     "id": 471341083,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T14:49:37.054Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -15586,6 +18364,13 @@
     "id": 471341193,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T14:52:01.893Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -15624,6 +18409,13 @@
     "id": 471344861,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T14:53:34.428Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -15661,6 +18453,13 @@
     "type": "Annotation",
     "id": 471345164,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T14:54:24.329Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -15706,7 +18505,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 471345226,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T14:55:45.247Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      }
+    ],
     "target": {
       "source": "moura2.jpg",
       "selector": {
@@ -15720,6 +18527,13 @@
     "type": "Annotation",
     "id": 471345782,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T14:57:27.868Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -15759,6 +18573,13 @@
     "id": 471345923,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T14:58:37.462Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -15796,6 +18617,13 @@
     "type": "Annotation",
     "id": 471346267,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T15:00:24.024Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -15835,6 +18663,13 @@
     "id": 471401941,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T15:27:13.397Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -15872,6 +18707,13 @@
     "type": "Annotation",
     "id": 471405818,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T15:28:17.495Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Complete",
@@ -15919,6 +18761,13 @@
     "id": 471409478,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-22T15:33:12.267Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Complete",
         "purpose": "tagging",
@@ -15965,6 +18814,13 @@
     "id": 471409556,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-22T15:35:18.636Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -16002,6 +18858,13 @@
     "type": "Annotation",
     "id": 471429541,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T01:27:39.024Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -16041,6 +18904,13 @@
     "id": 471429557,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T01:29:48.238Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -16078,6 +18948,13 @@
     "type": "Annotation",
     "id": 471429590,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T01:31:22.612Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -16117,6 +18994,13 @@
     "id": 471429618,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T01:33:08.801Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -16154,6 +19038,13 @@
     "type": "Annotation",
     "id": 471429635,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T01:34:16.171Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -16201,6 +19092,13 @@
     "id": 471429682,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T01:36:13.755Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Complete",
         "purpose": "tagging",
@@ -16247,6 +19145,13 @@
     "id": 471430741,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T01:37:55.409Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -16284,6 +19189,13 @@
     "type": "Annotation",
     "id": 471430785,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T01:40:20.013Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -16323,6 +19235,13 @@
     "id": 471430840,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T01:42:42.630Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -16361,6 +19280,13 @@
     "id": 471430862,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T01:43:50.810Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -16398,6 +19324,13 @@
     "type": "Annotation",
     "id": 471430870,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T01:45:02.009Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -16445,6 +19378,13 @@
     "id": 471430886,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T01:46:09.266Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Complete",
         "purpose": "tagging",
@@ -16491,6 +19431,13 @@
     "id": 471430940,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T01:47:47.866Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -16528,6 +19475,13 @@
     "type": "Annotation",
     "id": 471430983,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T01:48:56.812Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -16567,6 +19521,13 @@
     "id": 471431016,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T01:51:28.740Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -16604,6 +19565,13 @@
     "type": "Annotation",
     "id": 471431040,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T01:52:44.754Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -16643,6 +19611,13 @@
     "id": 471431065,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T01:53:47.812Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -16680,6 +19655,13 @@
     "type": "Annotation",
     "id": 471431072,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T01:54:50.537Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -16727,6 +19709,13 @@
     "id": 471431110,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T01:56:58.408Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -16764,6 +19753,13 @@
     "type": "Annotation",
     "id": 471431142,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T01:59:47.970Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
@@ -16803,6 +19799,13 @@
     "id": 471431147,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T02:00:56.666Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -16840,6 +19843,13 @@
     "type": "Annotation",
     "id": 471431157,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T02:02:11.062Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Chimney front",
@@ -16879,6 +19889,13 @@
     "id": 471431187,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T02:04:07.812Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Chimney side",
         "purpose": "tagging",
@@ -16916,6 +19933,13 @@
     "type": "Annotation",
     "id": 471431194,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T02:05:17.719Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -16963,6 +19987,13 @@
     "id": 471431222,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T02:08:07.646Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -17009,6 +20040,13 @@
     "id": 471431262,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T02:09:55.727Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -17047,6 +20085,13 @@
     "id": 471431299,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T02:13:26.315Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -17068,6 +20113,13 @@
     "type": "Annotation",
     "id": 471431330,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T02:14:37.125Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
@@ -17107,6 +20159,13 @@
     "id": 471431356,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T02:15:45.907Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -17144,6 +20203,13 @@
     "type": "Annotation",
     "id": 471431375,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T02:16:39.896Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -17189,7 +20255,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 471431401,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T02:17:47.608Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      }
+    ],
     "target": {
       "source": "moura2.jpg",
       "selector": {
@@ -17203,6 +20277,13 @@
     "type": "Annotation",
     "id": 471431414,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T02:18:36.963Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Chimney side",
@@ -17240,7 +20321,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 471448729,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T02:21:19.738Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      }
+    ],
     "target": {
       "source": "moura2.jpg",
       "selector": {
@@ -17253,7 +20342,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 471448734,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T02:22:09.484Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      }
+    ],
     "target": {
       "source": "moura2.jpg",
       "selector": {
@@ -17267,6 +20364,13 @@
     "type": "Annotation",
     "id": 471448749,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T02:23:12.948Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -17305,6 +20409,13 @@
     "type": "Annotation",
     "id": 471448783,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T02:24:16.015Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -17352,6 +20463,13 @@
     "id": 471448834,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T02:25:41.216Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -17389,6 +20507,13 @@
     "type": "Annotation",
     "id": 471448870,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T02:27:30.023Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -17428,6 +20553,13 @@
     "id": 471448900,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T02:29:25.517Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -17465,6 +20597,13 @@
     "type": "Annotation",
     "id": 471448923,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T02:30:32.934Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Complete",
@@ -17512,6 +20651,13 @@
     "id": 471448936,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T02:31:49.890Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -17549,6 +20695,13 @@
     "type": "Annotation",
     "id": 471448943,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T02:32:53.285Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
@@ -17588,6 +20741,13 @@
     "id": 471448953,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T02:34:12.897Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -17625,6 +20785,13 @@
     "type": "Annotation",
     "id": 471448962,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T02:35:12.124Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Complete",
@@ -17672,6 +20839,13 @@
     "id": 471448973,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-23T02:36:27.570Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Chimney round",
         "purpose": "tagging",
@@ -17709,6 +20883,13 @@
     "type": "Annotation",
     "id": 471449014,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Keep",
+        "created": "2020-06-23T02:41:25.278Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -17796,6 +20977,13 @@
     "id": 471450088,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Keep",
+        "created": "2020-06-23T02:46:47.391Z",
+        "updated": "2020-06-23T15:59:35.854Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -17881,6 +21069,13 @@
     "type": "Annotation",
     "id": 472026378,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-06-23T15:59:32.802Z",
+        "updated": "2020-06-23T16:00:55.977Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",

@@ -5,6 +5,13 @@
     "id": 512652534,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-09-11T18:34:48.608Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100197033,
         "value": "* Tower Shape?: Rectangular",
         "purpose": "tagging",
@@ -83,6 +90,13 @@
     "id": 514601018,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-13T23:47:00.538Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100674414,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -129,6 +143,13 @@
     "id": 515743926,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T00:31:38.078Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100696076,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -166,6 +187,13 @@
     "type": "Annotation",
     "id": 515743928,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T00:33:51.609Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100696082,
         "value": "* Ruined or intact?: Intact",
@@ -205,6 +233,13 @@
     "id": 515743930,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T00:35:53.064Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100696092,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -242,6 +277,13 @@
     "type": "Annotation",
     "id": 515743932,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-16T00:38:21.876Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100696100,
         "value": "* Roof structure type: House",
@@ -289,6 +331,13 @@
     "id": 515743935,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T00:39:42.796Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100696104,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -326,6 +375,13 @@
     "type": "Annotation",
     "id": 515743937,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T00:42:20.942Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100696111,
         "value": "* Ruined or intact?: Intact",
@@ -365,6 +421,13 @@
     "id": 515743944,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T00:44:32.072Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100696117,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -402,6 +465,13 @@
     "type": "Annotation",
     "id": 515743950,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-16T00:45:30.670Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100696121,
         "value": "* Roof structure type: House",
@@ -449,6 +519,13 @@
     "id": 515743952,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T00:46:55.567Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100696129,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -486,6 +563,13 @@
     "type": "Annotation",
     "id": 515743959,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-16T00:48:46.993Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100696134,
         "value": "* Roof structure type: House",
@@ -533,6 +617,13 @@
     "id": 515743962,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T00:50:36.892Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100696144,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -571,6 +662,13 @@
     "id": 515743970,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T00:52:26.668Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100696150,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -608,6 +706,13 @@
     "type": "Annotation",
     "id": 515743972,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-16T00:53:20.563Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100696154,
         "value": "* Roof structure type: House",
@@ -655,6 +760,13 @@
     "id": 515743974,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-16T00:54:33.611Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100696174,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -701,6 +813,13 @@
     "id": 515743993,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T01:02:21.937Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100696180,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -738,6 +857,13 @@
     "type": "Annotation",
     "id": 515743994,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-16T01:02:59.140Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100696184,
         "value": "* Roof structure type: House",
@@ -785,6 +911,13 @@
     "id": 515743996,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T01:03:42.833Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100696187,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -822,6 +955,13 @@
     "type": "Annotation",
     "id": 515744002,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T01:07:51.428Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100696206,
         "value": "* Ruined or intact?: Intact",
@@ -861,6 +1001,13 @@
     "id": 515744013,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T01:09:46.823Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100696217,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -899,6 +1046,13 @@
     "id": 515744027,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T01:11:44.227Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100696223,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -936,6 +1090,13 @@
     "type": "Annotation",
     "id": 512647292,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-09-11T18:02:25.546Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100197007,
         "value": "* Tower Shape?: Rectangular",
@@ -1015,6 +1176,13 @@
     "id": 515744039,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T01:13:15.117Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100696234,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1052,6 +1220,13 @@
     "type": "Annotation",
     "id": 512653114,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-09-11T18:47:30.839Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100197187,
         "value": "* Tower Shape?: Rectangular",
@@ -1131,6 +1306,13 @@
     "id": 515744042,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T01:15:00.337Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100696240,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1168,6 +1350,13 @@
     "type": "Annotation",
     "id": 515744044,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-16T01:16:07.477Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100696252,
         "value": "* Roof structure type: House",
@@ -1215,6 +1404,13 @@
     "id": 515743927,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T00:32:40.398Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100696079,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1252,6 +1448,13 @@
     "type": "Annotation",
     "id": 515743931,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T00:37:32.790Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100696096,
         "value": "* Ruined or intact?: Intact",
@@ -1291,6 +1494,13 @@
     "id": 515743938,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T00:43:19.397Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100696114,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1328,6 +1538,13 @@
     "type": "Annotation",
     "id": 516184470,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T18:51:14.181Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100702890,
         "value": "* Ruined or intact?: Intact",
@@ -1367,6 +1584,13 @@
     "id": 515743954,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T00:47:50.538Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100696128,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1404,6 +1628,13 @@
     "type": "Annotation",
     "id": 516184499,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-16T18:52:21.806Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100702908,
         "value": "* Roof Style: Crosshatched (Tile)",
@@ -1443,6 +1674,13 @@
     "id": 515743963,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T00:51:30.777Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100696147,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1480,6 +1718,13 @@
     "type": "Annotation",
     "id": 516184528,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T18:53:24.030Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100702915,
         "value": "* Ruined or intact?: Intact",
@@ -1519,6 +1764,13 @@
     "id": 515743986,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T01:00:50.559Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100696177,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1556,6 +1808,13 @@
     "type": "Annotation",
     "id": 516184578,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T18:55:39.579Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100702939,
         "value": "* Ruined or intact?: Intact",
@@ -1595,6 +1854,13 @@
     "id": 515744040,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T01:13:57.971Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100696237,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1632,6 +1898,13 @@
     "type": "Annotation",
     "id": 516184590,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T18:56:18.485Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100702950,
         "value": "* Ruined or intact?: Intact",
@@ -1671,6 +1944,13 @@
     "id": 515744078,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Tree",
+        "created": "2020-09-16T01:21:51.029Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100696266,
         "value": "* Singular or sample from a group?: Single",
         "purpose": "tagging",
@@ -1700,6 +1980,13 @@
     "type": "Annotation",
     "id": 516184612,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-16T18:57:04.169Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100702959,
         "value": "* Roof structure type: House",
@@ -1747,6 +2034,13 @@
     "id": 516184439,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T18:50:07.256Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100702883,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1784,6 +2078,13 @@
     "type": "Annotation",
     "id": 516184563,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T18:54:43.365Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100702929,
         "value": "* Ruined or intact?: Intact",
@@ -1823,6 +2124,13 @@
     "id": 516184670,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T18:59:46.034Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100702979,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1860,6 +2168,13 @@
     "type": "Annotation",
     "id": 516184691,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T19:00:27.184Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100703002,
         "value": "* Ruined or intact?: Intact",
@@ -1899,6 +2214,13 @@
     "id": 516184640,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-16T18:58:28.118Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100702966,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1936,6 +2258,13 @@
     "type": "Annotation",
     "id": 516184706,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-16T19:01:04.186Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100703013,
         "value": "* Roof structure type: House",
@@ -1983,6 +2312,13 @@
     "id": 516187899,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T00:18:24.155Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100703446,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2021,6 +2357,13 @@
     "id": 516187906,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T00:19:30.707Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100703449,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2058,6 +2401,13 @@
     "type": "Annotation",
     "id": 516187911,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-17T00:20:27.664Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100703453,
         "value": "* Roof structure type: House",
@@ -2105,6 +2455,13 @@
     "id": 516187916,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T00:21:18.339Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100703456,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2142,6 +2499,13 @@
     "type": "Annotation",
     "id": 516187923,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T00:22:05.461Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100703459,
         "value": "* Ruined or intact?: Intact",
@@ -2181,6 +2545,13 @@
     "id": 516187926,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T00:22:43.081Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100703462,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2218,6 +2589,13 @@
     "type": "Annotation",
     "id": 516187931,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-17T00:23:23.510Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100703466,
         "value": "* Roof structure type: House",
@@ -2265,6 +2643,13 @@
     "id": 516187942,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T00:24:27.047Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100703469,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2303,6 +2688,13 @@
     "id": 516187949,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T00:25:55.943Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100703472,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2340,6 +2732,13 @@
     "type": "Annotation",
     "id": 516187958,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-17T00:26:37.133Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100703476,
         "value": "* Roof structure type: House",
@@ -2386,6 +2785,13 @@
     "type": "Annotation",
     "id": 516189239,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-09-17T01:31:48.252Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100703484,
         "value": "* Tower Shape?: Rectangular",
@@ -2465,6 +2871,13 @@
     "id": 516189317,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-09-17T01:35:01.339Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100703492,
         "value": "* Tower Shape?: Rectangular",
         "purpose": "tagging",
@@ -2543,6 +2956,13 @@
     "id": 516189588,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Mills, Bridges, Wells and Troughs",
+        "created": "2020-09-17T01:44:37.264Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100703502,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2612,6 +3032,13 @@
     "type": "Annotation",
     "id": 516189593,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Mills, Bridges, Wells and Troughs",
+        "created": "2020-09-17T01:46:38.994Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100703509,
         "value": "* Ruined or intact?: Intact",
@@ -2683,6 +3110,13 @@
     "id": 516189594,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Mills, Bridges, Wells and Troughs",
+        "created": "2020-09-17T01:48:29.332Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100703516,
         "value": "* Number of Merlons?: 0",
         "purpose": "tagging",
@@ -2752,6 +3186,13 @@
     "type": "Annotation",
     "id": 516189615,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Mills, Bridges, Wells and Troughs",
+        "created": "2020-09-17T01:50:03.169Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100703523,
         "value": "* Ruined or intact?: Intact",
@@ -2823,6 +3264,13 @@
     "id": 516189639,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Secondary Site",
+        "created": "2020-09-17T01:53:31.254Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100703526,
         "value": "* Secondary Site Type: Background fortress - Castile",
         "purpose": "tagging",
@@ -2844,6 +3292,13 @@
     "type": "Annotation",
     "id": 516189654,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Flag",
+        "created": "2020-09-17T01:55:15.653Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100703528,
         "value": "* Flag shape: Rectangular",
@@ -2874,6 +3329,13 @@
     "type": "Annotation",
     "id": 516292760,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T10:04:18.657Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100704813,
         "value": "* Ruined or intact?: Intact",
@@ -2913,6 +3375,13 @@
     "id": 516292915,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T10:05:47.281Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100704817,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2950,6 +3419,13 @@
     "type": "Annotation",
     "id": 516294440,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-09-17T10:24:05.941Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100704987,
         "value": "* Tower Shape?: Rectangular",
@@ -3029,6 +3505,13 @@
     "id": 516294592,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-09-17T10:25:56.738Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100704998,
         "value": "* Tower Shape?: Rectangular",
         "purpose": "tagging",
@@ -3106,6 +3589,13 @@
     "type": "Annotation",
     "id": 516341109,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-09-17T16:43:06.607Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100706315,
         "value": "* Tower Shape?: Rectangular",
@@ -3185,6 +3675,13 @@
     "id": 516341142,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-09-17T16:45:03.781Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100706327,
         "value": "* Tower Shape?: Rectangular",
         "purpose": "tagging",
@@ -3263,6 +3760,13 @@
     "id": 516341328,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T16:53:37.934Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100706370,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3301,6 +3805,13 @@
     "id": 516341363,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T16:54:57.818Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100706375,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3338,6 +3849,13 @@
     "type": "Annotation",
     "id": 516341376,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-17T16:55:41.611Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100706379,
         "value": "* Roof structure type: House",
@@ -3385,6 +3903,13 @@
     "id": 516341423,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T16:57:37.752Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100706396,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3422,6 +3947,13 @@
     "type": "Annotation",
     "id": 516341466,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T16:59:02.585Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100706408,
         "value": "* Ruined or intact?: Intact",
@@ -3461,6 +3993,13 @@
     "id": 516341490,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T16:59:40.027Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100706413,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3498,6 +4037,13 @@
     "type": "Annotation",
     "id": 516341511,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-17T17:00:27.984Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100706417,
         "value": "* Roof structure type: House",
@@ -3545,6 +4091,13 @@
     "id": 516341538,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-17T17:01:19.683Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100706422,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -3591,6 +4144,13 @@
     "id": 516341607,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T17:03:34.202Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100706432,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3628,6 +4188,13 @@
     "type": "Annotation",
     "id": 516341622,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T17:04:15.523Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100706436,
         "value": "* Ruined or intact?: Intact",
@@ -3667,6 +4234,13 @@
     "id": 516341643,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T17:05:11.523Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100706444,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3704,6 +4278,13 @@
     "type": "Annotation",
     "id": 516341653,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T17:05:48.226Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100706448,
         "value": "* Ruined or intact?: Intact",
@@ -3743,6 +4324,13 @@
     "id": 516341678,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T17:07:05.981Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100706452,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3781,6 +4369,13 @@
     "id": 516341699,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T17:07:41.588Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100706457,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3818,6 +4413,13 @@
     "type": "Annotation",
     "id": 516341722,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-17T17:08:21.247Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100706469,
         "value": "* Roof structure type: House",
@@ -3865,6 +4467,13 @@
     "id": 516341745,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T17:09:46.630Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100706477,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3902,6 +4511,13 @@
     "type": "Annotation",
     "id": 516341770,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T17:11:24.272Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100706483,
         "value": "* Ruined or intact?: Intact",
@@ -3941,6 +4557,13 @@
     "id": 516341784,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T17:12:06.249Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100706486,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3978,6 +4601,13 @@
     "type": "Annotation",
     "id": 516341796,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-17T17:12:50.799Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100706490,
         "value": "* Roof structure type: House",
@@ -4025,6 +4655,13 @@
     "id": 516341824,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T17:14:33.719Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100706495,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4062,6 +4699,13 @@
     "type": "Annotation",
     "id": 516341853,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T17:16:26.675Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100706506,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Chimney round",
@@ -4109,6 +4753,13 @@
     "id": 516341868,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T17:17:43.165Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100706510,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4146,6 +4797,13 @@
     "type": "Annotation",
     "id": 516341877,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T17:18:38.559Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100706513,
         "value": "* Ruined or intact?: Intact",
@@ -4185,6 +4843,13 @@
     "id": 516341882,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T17:19:28.142Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100706516,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4222,6 +4887,13 @@
     "type": "Annotation",
     "id": 516341886,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-17T17:20:09.451Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100706520,
         "value": "* Roof structure type: House",
@@ -4269,6 +4941,13 @@
     "id": 516341891,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T17:21:37.940Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100706527,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4306,6 +4985,13 @@
     "type": "Annotation",
     "id": 516341894,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T17:22:14.940Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100706531,
         "value": "* Ruined or intact?: Intact",
@@ -4345,6 +5031,13 @@
     "id": 516341916,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T17:22:58.091Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100706534,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4382,6 +5075,13 @@
     "type": "Annotation",
     "id": 516341921,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-17T17:23:32.762Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100706544,
         "value": "* Roof structure type: House",
@@ -4429,6 +5129,13 @@
     "id": 516394003,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T23:44:20.902Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100707442,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4466,6 +5173,13 @@
     "type": "Annotation",
     "id": 516394005,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T23:45:41.123Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100707445,
         "value": "* Ruined or intact?: Intact",
@@ -4505,6 +5219,13 @@
     "id": 516394008,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T23:46:25.311Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100707448,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4542,6 +5263,13 @@
     "type": "Annotation",
     "id": 516394009,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-17T23:47:04.327Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100707452,
         "value": "* Roof structure type: House",
@@ -4589,6 +5317,13 @@
     "id": 516394015,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T23:48:06.886Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100707455,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4626,6 +5361,13 @@
     "type": "Annotation",
     "id": 516394022,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T23:49:02.157Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100707458,
         "value": "* Ruined or intact?: Intact",
@@ -4665,6 +5407,13 @@
     "id": 516394029,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T23:49:59.390Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100707461,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4702,6 +5451,13 @@
     "type": "Annotation",
     "id": 516394031,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-17T23:50:36.579Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100707465,
         "value": "* Roof structure type: House",
@@ -4749,6 +5505,13 @@
     "id": 516394035,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T23:51:34.863Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100707468,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4787,6 +5550,13 @@
     "id": 516394038,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T23:52:18.287Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100707471,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4823,7 +5593,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 516394044,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T23:53:12.716Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      }
+    ],
     "target": {
       "source": "monforte2.jpg",
       "selector": {
@@ -4837,6 +5615,13 @@
     "type": "Annotation",
     "id": 516394047,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-17T23:53:47.688Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100707475,
         "value": "* Roof structure type: House",
@@ -4884,6 +5669,13 @@
     "id": 516394052,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T23:54:47.117Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100707478,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4921,6 +5713,13 @@
     "type": "Annotation",
     "id": 516394057,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T23:55:31.710Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100707481,
         "value": "* Ruined or intact?: Intact",
@@ -4960,6 +5759,13 @@
     "id": 516394058,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T23:56:06.381Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100707484,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4997,6 +5803,13 @@
     "type": "Annotation",
     "id": 516394059,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-17T23:57:08.298Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100707488,
         "value": "* Roof structure type: House",
@@ -5044,6 +5857,13 @@
     "id": 516394060,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-17T23:59:29.557Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100707491,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -5081,6 +5901,13 @@
     "type": "Annotation",
     "id": 516394073,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T00:03:16.349Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100707494,
         "value": "* Ruined or intact?: Intact",
@@ -5120,6 +5947,13 @@
     "id": 516394090,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T00:05:06.118Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100707497,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5157,6 +5991,13 @@
     "type": "Annotation",
     "id": 516394115,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-18T00:08:49.394Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100707501,
         "value": "* Roof structure type: House",
@@ -5204,6 +6045,13 @@
     "id": 516394116,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T00:10:41.998Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100707504,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5241,6 +6089,13 @@
     "type": "Annotation",
     "id": 516394119,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T00:11:32.047Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100707507,
         "value": "* Ruined or intact?: Intact",
@@ -5280,6 +6135,13 @@
     "id": 516394122,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T00:13:29.473Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100707510,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5317,6 +6179,13 @@
     "type": "Annotation",
     "id": 516394129,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-18T00:14:06.902Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100707520,
         "value": "* Roof structure type: House",
@@ -5364,6 +6233,13 @@
     "id": 516394130,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T00:14:57.483Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100707523,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5401,6 +6277,13 @@
     "type": "Annotation",
     "id": 516394131,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T00:15:34.584Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100707526,
         "value": "* Ruined or intact?: Intact",
@@ -5440,6 +6323,13 @@
     "id": 516394132,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T00:16:25.424Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100707529,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5477,6 +6367,13 @@
     "type": "Annotation",
     "id": 516394133,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-18T00:17:02.854Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100707533,
         "value": "* Roof structure type: House",
@@ -5524,6 +6421,13 @@
     "id": 516394139,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T00:17:59.020Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100707536,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -5561,6 +6465,13 @@
     "type": "Annotation",
     "id": 516394140,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T00:18:49.294Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100707539,
         "value": "* Ruined or intact?: Intact",
@@ -5600,6 +6511,13 @@
     "id": 516394141,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T00:19:20.503Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100707542,
         "value": "* Partially occluded or Complete?: Complete",
         "purpose": "tagging",
@@ -5637,6 +6555,13 @@
     "type": "Annotation",
     "id": 516394146,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-18T00:20:01.954Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100707546,
         "value": "* Roof structure type: House",
@@ -5684,6 +6609,13 @@
     "id": 516394157,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-18T00:20:51.837Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100707550,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -5730,6 +6662,13 @@
     "id": 516394163,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T00:21:35.288Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100707553,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5767,6 +6706,13 @@
     "type": "Annotation",
     "id": 516394168,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T00:22:05.504Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100707556,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -5806,6 +6752,13 @@
     "id": 516394171,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T00:23:00.253Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100707559,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5843,6 +6796,13 @@
     "type": "Annotation",
     "id": 516394181,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T00:23:43.842Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100707562,
         "value": "* Ruined or intact?: Intact",
@@ -5882,6 +6842,13 @@
     "id": 516394187,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T00:24:19.873Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100707566,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5919,6 +6886,13 @@
     "type": "Annotation",
     "id": 516394194,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-18T00:25:05.399Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100707571,
         "value": "* Roof structure type: House",
@@ -5966,6 +6940,13 @@
     "id": 516394585,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T01:14:34.930Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100707574,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6004,6 +6985,13 @@
     "id": 516394599,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T01:17:03.464Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100707577,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6041,6 +7029,13 @@
     "type": "Annotation",
     "id": 516394603,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-18T01:17:50.803Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100707581,
         "value": "* Roof structure type: House",
@@ -6088,6 +7083,13 @@
     "id": 516394613,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T01:19:01.708Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100707584,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6126,6 +7128,13 @@
     "id": 516394620,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T01:20:00.559Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100707587,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6163,6 +7172,13 @@
     "type": "Annotation",
     "id": 516394623,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-18T01:20:37.168Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100707591,
         "value": "* Roof structure type: House",
@@ -6210,6 +7226,13 @@
     "id": 516394633,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T01:21:30.346Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100707594,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6248,6 +7271,13 @@
     "id": 516394650,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T01:22:09.680Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100707597,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6285,6 +7315,13 @@
     "type": "Annotation",
     "id": 516394660,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-18T01:23:02.470Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100707601,
         "value": "* Roof structure type: House",
@@ -6332,6 +7369,13 @@
     "id": 516394669,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T01:24:14.561Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100707604,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6369,6 +7413,13 @@
     "type": "Annotation",
     "id": 516394683,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T01:25:36.082Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100707607,
         "value": "* Ruined or intact?: Intact",
@@ -6408,6 +7459,13 @@
     "id": 516394697,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T01:26:38.258Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100707611,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6445,6 +7503,13 @@
     "type": "Annotation",
     "id": 516394705,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-18T01:27:19.670Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100707615,
         "value": "* Roof structure type: House",
@@ -6492,6 +7557,13 @@
     "id": 516394713,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T01:29:18.875Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100707621,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6529,6 +7601,13 @@
     "type": "Annotation",
     "id": 516394715,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T01:29:52.043Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100707624,
         "value": "* Ruined or intact?: Intact",
@@ -6568,6 +7647,13 @@
     "id": 516394717,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T01:30:27.319Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100707627,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6605,6 +7691,13 @@
     "type": "Annotation",
     "id": 516394721,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-18T01:31:03.526Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100707632,
         "value": "* Roof structure type: House",
@@ -6652,6 +7745,13 @@
     "id": 516394729,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-18T01:32:10.996Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100707635,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6689,6 +7789,13 @@
     "type": "Annotation",
     "id": 516394733,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-18T01:33:06.379Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100707639,
         "value": "* Roof structure type: House",
@@ -6735,6 +7842,13 @@
     "type": "Annotation",
     "id": 517733701,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-09-18T17:22:46.521Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100822217,
         "value": "* Tower Shape?: Rectangular",
@@ -6814,6 +7928,13 @@
     "id": 517733980,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-09-18T17:28:51.378Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100822244,
         "value": "* Tower Shape?: Rectangular",
         "purpose": "tagging",
@@ -6891,6 +8012,13 @@
     "type": "Annotation",
     "id": 517734109,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-18T17:31:20.678Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100822370,
         "value": "* Number of Merlons?: 6",
@@ -6986,6 +8114,13 @@
     "id": 517734401,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Interior building (not a house)",
+        "created": "2020-09-18T17:36:43.627Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 102755192,
         "value": "Window (Rectangular): null",
         "purpose": "tagging",
@@ -7072,6 +8207,13 @@
     "id": 517734575,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-18T17:40:03.327Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100822424,
         "value": "* Roof structure type: Interior castle building",
         "purpose": "tagging",
@@ -7117,6 +8259,13 @@
     "type": "Annotation",
     "id": 517734603,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-18T17:40:50.106Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100822444,
         "value": "* Roof structure type: Interior castle building",
@@ -7164,6 +8313,13 @@
     "id": 517734737,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-18T17:43:22.665Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100822460,
         "value": "* Roof structure type: Interior castle building",
         "purpose": "tagging",
@@ -7209,6 +8365,13 @@
     "type": "Annotation",
     "id": 517734907,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Keep",
+        "created": "2020-09-18T17:47:06.068Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100822531,
         "value": "Window (Rectangular): null",
@@ -7296,6 +8459,13 @@
     "id": 517739523,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Keep",
+        "created": "2020-09-18T17:48:21.804Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100822529,
         "value": "Window (Rectangular): null",
         "purpose": "tagging",
@@ -7382,6 +8552,13 @@
     "id": 517739602,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-18T17:50:09.558Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100822535,
         "value": "* Roof structure type: Keep",
         "purpose": "tagging",
@@ -7428,6 +8605,13 @@
     "id": 517739637,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-18T17:50:52.449Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100822541,
         "value": "* Roof structure type: Keep",
         "purpose": "tagging",
@@ -7473,6 +8657,13 @@
     "type": "Annotation",
     "id": 518714660,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-20T10:47:09.307Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100835734,
         "value": "* Castle wall or city wall?: City wall",
@@ -7568,6 +8759,13 @@
     "id": 518719446,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-20T11:38:52.949Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100835753,
         "value": "* Outer-most (low) wall, Outer ward wall or Inner ward wall?: Outermost (low) wall",
         "purpose": "tagging",
@@ -7661,6 +8859,13 @@
     "type": "Annotation",
     "id": 518719692,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-20T11:42:41.675Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100835771,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -7756,6 +8961,13 @@
     "id": 518719899,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-20T11:44:36.819Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100835789,
         "value": "* Ruined or intact?: Ruined",
         "purpose": "tagging",
@@ -7849,6 +9061,13 @@
     "type": "Annotation",
     "id": 518720237,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-20T11:47:27.445Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100835799,
         "value": "* Ruined or intact?: Intact",
@@ -7944,6 +9163,13 @@
     "id": 518720391,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Chimney",
+        "created": "2020-09-20T11:49:24.554Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100835801,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Chimney round",
         "purpose": "tagging",
@@ -7981,6 +9207,13 @@
     "type": "Annotation",
     "id": 518720562,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Chimney",
+        "created": "2020-09-20T11:50:50.404Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100835804,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Chimney round",
@@ -8020,6 +9253,13 @@
     "id": 518720740,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Chimney",
+        "created": "2020-09-20T11:51:44.848Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100835807,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Round facade",
         "purpose": "tagging",
@@ -8057,6 +9297,13 @@
     "type": "Annotation",
     "id": 518720915,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-20T11:52:41.254Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100835811,
         "value": "* Ruined or intact?: Intact",
@@ -8096,6 +9343,13 @@
     "id": 518721062,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-20T11:53:22.633Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100835814,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -8134,6 +9388,13 @@
     "id": 518721218,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-20T11:53:54.602Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100835817,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -8171,6 +9432,13 @@
     "type": "Annotation",
     "id": 518721311,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-20T11:54:22.868Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100835821,
         "value": "* Roof structure type: House",
@@ -8218,6 +9486,13 @@
     "id": 518721541,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-20T11:55:23.115Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100835824,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -8255,6 +9530,13 @@
     "type": "Annotation",
     "id": 518721773,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-20T11:56:04.504Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100835829,
         "value": "* Ruined or intact?: Intact",
@@ -8294,6 +9576,13 @@
     "id": 518721929,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-20T11:56:36.698Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100835834,
         "value": "* Partially occluded or Complete?: Complete",
         "purpose": "tagging",
@@ -8331,6 +9620,13 @@
     "type": "Annotation",
     "id": 518723955,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-20T11:57:23.935Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100835843,
         "value": "* Roof structure type: House",
@@ -8378,6 +9674,13 @@
     "id": 518724034,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-20T11:58:13.160Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100835853,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -8415,6 +9718,13 @@
     "type": "Annotation",
     "id": 518724076,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-20T11:58:51.268Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100835862,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -8454,6 +9764,13 @@
     "id": 518724145,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-20T11:59:42.553Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100835876,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -8491,6 +9808,13 @@
     "type": "Annotation",
     "id": 518724504,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-20T12:03:57.960Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100835888,
         "value": "* Ruined or intact?: Intact",
@@ -8530,6 +9854,13 @@
     "id": 518724575,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-20T12:04:33.653Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100835891,
         "value": "* Partially occluded or Complete?: Complete",
         "purpose": "tagging",
@@ -8567,6 +9898,13 @@
     "type": "Annotation",
     "id": 518724654,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-20T12:05:15.429Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100835895,
         "value": "* Roof structure type: House",
@@ -8614,6 +9952,13 @@
     "id": 518775229,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T00:54:20.652Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100869333,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -8652,6 +9997,13 @@
     "id": 518775234,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T00:55:19.468Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100869336,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -8689,6 +10041,13 @@
     "type": "Annotation",
     "id": 518775241,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-21T00:55:47.854Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100869340,
         "value": "* Roof structure type: House",
@@ -8736,6 +10095,13 @@
     "id": 518775255,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T00:56:28.550Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100869343,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -8773,6 +10139,13 @@
     "type": "Annotation",
     "id": 518775261,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T00:56:56.878Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100869346,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -8812,6 +10185,13 @@
     "id": 518775268,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T00:57:37.190Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100869349,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -8849,6 +10229,13 @@
     "type": "Annotation",
     "id": 518775271,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-21T00:58:17.953Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100869353,
         "value": "* Roof structure type: House",
@@ -8896,6 +10283,13 @@
     "id": 518775278,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-21T00:58:58.898Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100869357,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -8942,6 +10336,13 @@
     "id": 518775279,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T00:59:28.334Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100869362,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -8979,6 +10380,13 @@
     "type": "Annotation",
     "id": 518775280,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T00:59:54.464Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100869365,
         "value": "* Ruined or intact?: Intact",
@@ -9018,6 +10426,13 @@
     "id": 518775282,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T01:00:45.702Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100869371,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -9055,6 +10470,13 @@
     "type": "Annotation",
     "id": 518775283,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T01:01:21.160Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100869374,
         "value": "* Ruined or intact?: Intact",
@@ -9094,6 +10516,13 @@
     "id": 518775287,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T01:02:05.730Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 100869377,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -9131,6 +10560,13 @@
     "type": "Annotation",
     "id": 518775289,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-21T01:02:43.268Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 100869381,
         "value": "* Roof structure type: House",
@@ -9178,6 +10614,13 @@
     "id": 522961062,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T18:40:14.343Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101300534,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -9216,6 +10659,13 @@
     "id": 522961081,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T18:41:07.826Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101300537,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -9253,6 +10703,13 @@
     "type": "Annotation",
     "id": 522961092,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T18:41:37.703Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101300542,
         "value": "* Roof structure type: House",
@@ -9300,6 +10757,13 @@
     "id": 522961113,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T18:42:35.290Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101300552,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -9337,6 +10801,13 @@
     "type": "Annotation",
     "id": 522961134,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T18:43:26.228Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101300556,
         "value": "* Roof structure type: House",
@@ -9384,6 +10855,13 @@
     "id": 522961154,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T18:44:26.412Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101300559,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -9422,6 +10900,13 @@
     "id": 522961162,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T18:45:08.577Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101300562,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -9459,6 +10944,13 @@
     "type": "Annotation",
     "id": 522961170,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T18:45:47.229Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101300569,
         "value": "* Roof structure type: House",
@@ -9505,6 +10997,13 @@
     "type": "Annotation",
     "id": 522961194,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-09-24T18:47:34.732Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101300577,
         "value": "* Ruined or intact?: Intact",
@@ -9583,6 +11082,13 @@
     "type": "Annotation",
     "id": 522969100,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-09-24T18:49:25.176Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101300598,
         "value": "Door (Round-headed): null",
@@ -9670,6 +11176,13 @@
     "id": 523053555,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T18:52:55.738Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101300601,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -9708,6 +11221,13 @@
     "id": 523053569,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T18:53:39.773Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101300604,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -9745,6 +11265,13 @@
     "type": "Annotation",
     "id": 523053582,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T18:54:21.618Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101300618,
         "value": "* Roof structure type: House",
@@ -9792,6 +11319,13 @@
     "id": 523053596,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T18:55:12.341Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101300623,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -9829,6 +11363,13 @@
     "type": "Annotation",
     "id": 523054046,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T18:57:18.860Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101301048,
         "value": "* Ruined or intact?: Intact",
@@ -9868,6 +11409,13 @@
     "id": 523054060,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-24T18:58:19.142Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101301052,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -9905,6 +11453,13 @@
     "type": "Annotation",
     "id": 523054067,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-24T18:59:05.219Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101351517,
         "value": "* Roof structure type: House",
@@ -9951,6 +11506,13 @@
     "type": "Annotation",
     "id": 525646648,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Christian religious building",
+        "created": "2020-09-24T23:53:15.295Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101318115,
         "value": "* Religious building type?: Chapel (Small, with tower)",
@@ -10022,6 +11584,13 @@
     "id": 525646671,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Christian religious building",
+        "created": "2020-09-24T23:57:38.073Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101318127,
         "value": "* Religious building type?: Chapel (Small, with tower)",
         "purpose": "tagging",
@@ -10075,6 +11644,13 @@
     "type": "Annotation",
     "id": 525646679,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Christian religious building",
+        "created": "2020-09-25T00:00:12.407Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101318136,
         "value": "* Religious building type?: Chapel (Small, with tower)",
@@ -10138,6 +11714,13 @@
     "id": 525646689,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-25T00:02:21.960Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101351389,
         "value": "* Roof Style: Crosshatched (Tile)",
         "purpose": "tagging",
@@ -10200,6 +11783,13 @@
     "id": 525944566,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-25T14:21:55.011Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101364459,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -10237,6 +11827,13 @@
     "type": "Annotation",
     "id": 525944579,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-25T14:22:48.844Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101364462,
         "value": "* Ruined or intact?: Intact",
@@ -10276,6 +11873,13 @@
     "id": 525944587,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-25T14:23:23.840Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101364465,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -10313,6 +11917,13 @@
     "type": "Annotation",
     "id": 525944672,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-25T14:27:47.259Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101364469,
         "value": "* Roof structure type: House",
@@ -10360,6 +11971,13 @@
     "id": 525944770,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-25T14:34:50.668Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101364472,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -10398,6 +12016,13 @@
     "id": 525944782,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-25T14:35:18.476Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101364475,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -10435,6 +12060,13 @@
     "type": "Annotation",
     "id": 525944795,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-25T14:36:05.021Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101364479,
         "value": "* Roof structure type: House",
@@ -10482,6 +12114,13 @@
     "id": 525945191,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-09-25T14:49:52.096Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101364495,
         "value": "* Singular or sample from a group?: Sample from a group",
         "purpose": "tagging",
@@ -10503,6 +12142,13 @@
     "type": "Annotation",
     "id": 525945474,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Bodies of water",
+        "created": "2020-09-25T14:58:53.410Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101364506,
         "value": "* River, Ocean or Pond?: River",
@@ -10534,6 +12180,13 @@
     "id": 525945552,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Bodies of water",
+        "created": "2020-09-25T15:01:22.557Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101364514,
         "value": "* River, Ocean or Pond?: River",
         "purpose": "tagging",
@@ -10564,6 +12217,13 @@
     "id": 525945606,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Bodies of water",
+        "created": "2020-09-25T15:02:50.493Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101364516,
         "value": "* River, Ocean or Pond?: River",
         "purpose": "tagging",
@@ -10593,6 +12253,13 @@
     "type": "Annotation",
     "id": 525963818,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Interior building (not a house)",
+        "created": "2020-09-25T22:24:11.834Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101365081,
         "value": "Window (Grilled): null",
@@ -10648,6 +12315,13 @@
     "id": 525963823,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-25T22:25:45.580Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101365085,
         "value": "* Roof structure type: Interior castle building",
         "purpose": "tagging",
@@ -10694,6 +12368,13 @@
     "id": 525963842,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-25T22:26:18.101Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101365089,
         "value": "* Roof structure type: Interior castle building",
         "purpose": "tagging",
@@ -10739,6 +12420,13 @@
     "type": "Annotation",
     "id": 525963844,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-25T22:26:57.247Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101365097,
         "value": "* Outer-most (low) wall, Outer ward wall or Inner ward wall?: Outer ward wall",
@@ -10817,6 +12505,13 @@
     "type": "Annotation",
     "id": 525963885,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-09-25T22:45:01.344Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101365123,
         "value": "Window (Round-headed): null",
@@ -10904,6 +12599,13 @@
     "id": 525963887,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-25T22:48:03.911Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101365126,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -10941,6 +12643,13 @@
     "type": "Annotation",
     "id": 525963888,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-25T22:49:48.445Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101365129,
         "value": "* Ruined or intact?: Intact",
@@ -10980,6 +12689,13 @@
     "id": 525963891,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-25T22:50:42.439Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101365133,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -11017,6 +12733,13 @@
     "type": "Annotation",
     "id": 525963894,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-25T22:51:38.112Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101365140,
         "value": "* Ruined or intact?: Intact",
@@ -11056,6 +12779,13 @@
     "id": 525963900,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-09-25T22:52:27.842Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101365172,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -11093,6 +12823,13 @@
     "type": "Annotation",
     "id": 525963948,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-25T23:09:43.916Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101365180,
         "value": "* Ruined or intact?: Intact",
@@ -11132,6 +12869,13 @@
     "id": 525963953,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-25T23:10:36.159Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101365187,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -11170,6 +12914,13 @@
     "id": 525963959,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-25T23:11:51.088Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101365191,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -11207,6 +12958,13 @@
     "type": "Annotation",
     "id": 525963960,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-25T23:12:29.263Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101365195,
         "value": "* Roof structure type: House",
@@ -11254,6 +13012,13 @@
     "id": 525963964,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-09-25T23:14:19.132Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101365197,
         "value": "* Singular or sample from a group?: Single",
         "purpose": "tagging",
@@ -11275,6 +13040,13 @@
     "type": "Annotation",
     "id": 525963965,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-09-25T23:14:42.364Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101365199,
         "value": "* Singular or sample from a group?: Single",
@@ -11298,6 +13070,13 @@
     "id": 525963971,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-09-25T23:15:29.172Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101365203,
         "value": "* Singular or sample from a group?: Single",
         "purpose": "tagging",
@@ -11319,6 +13098,13 @@
     "type": "Annotation",
     "id": 525963976,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Mills, Bridges, Wells and Troughs",
+        "created": "2020-09-25T23:16:59.306Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101365213,
         "value": "* Ruined or intact?: Intact",
@@ -11373,6 +13159,13 @@
     "type": "Annotation",
     "id": 525963982,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Mills, Bridges, Wells and Troughs",
+        "created": "2020-09-25T23:18:38.818Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101365219,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Back side",
@@ -11436,6 +13229,13 @@
     "id": 525963991,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Mills, Bridges, Wells and Troughs",
+        "created": "2020-09-25T23:20:39.226Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101365234,
         "value": "* Mill, Bridge, Well or Trough?: Bridge",
         "purpose": "tagging",
@@ -11497,6 +13297,13 @@
     "type": "Annotation",
     "id": 525963998,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Mills, Bridges, Wells and Troughs",
+        "created": "2020-09-25T23:21:54.746Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101365243,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -11560,6 +13367,13 @@
     "id": 525964008,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Mills, Bridges, Wells and Troughs",
+        "created": "2020-09-25T23:23:32.831Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101365253,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -11621,6 +13435,13 @@
     "type": "Annotation",
     "id": 525964009,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Mills, Bridges, Wells and Troughs",
+        "created": "2020-09-25T23:24:38.857Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101365259,
         "value": "* Mill, Bridge, Well or Trough?: Bridge",
@@ -11684,6 +13505,13 @@
     "id": 525964011,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Mills, Bridges, Wells and Troughs",
+        "created": "2020-09-25T23:25:39.629Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101365265,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -11746,6 +13574,13 @@
     "id": 525964022,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-25T23:38:57.185Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101365282,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -11783,6 +13618,13 @@
     "type": "Annotation",
     "id": 525964025,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-25T23:39:40.178Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101365287,
         "value": "* Ruined or intact?: Intact",
@@ -11822,6 +13664,13 @@
     "id": 525964027,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-25T23:40:12.705Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101365293,
         "value": "* Partially occluded or Complete?: Complete",
         "purpose": "tagging",
@@ -11859,6 +13708,13 @@
     "type": "Annotation",
     "id": 525964028,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-25T23:40:45.549Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101365297,
         "value": "* Roof structure type: House",
@@ -11906,6 +13762,13 @@
     "id": 525964031,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-25T23:41:42.228Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101365300,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -11943,6 +13806,13 @@
     "type": "Annotation",
     "id": 525964033,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-25T23:42:22.403Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101365303,
         "value": "* Ruined or intact?: Intact",
@@ -11982,6 +13852,13 @@
     "id": 525964035,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-25T23:42:59.985Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101365306,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -12019,6 +13896,13 @@
     "type": "Annotation",
     "id": 525964037,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-25T23:43:47.492Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101365310,
         "value": "* Roof structure type: House",
@@ -12066,6 +13950,13 @@
     "id": 525964045,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-25T23:45:04.475Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101365316,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -12104,6 +13995,13 @@
     "id": 525964047,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-25T23:45:22.514Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101365319,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -12141,6 +14039,13 @@
     "type": "Annotation",
     "id": 525964049,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-25T23:46:13.207Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101365323,
         "value": "* Roof structure type: House",
@@ -12188,6 +14093,13 @@
     "id": 525964050,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-25T23:46:42.333Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101365327,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -12234,6 +14146,13 @@
     "id": 525964054,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-25T23:47:23.917Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101365333,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -12271,6 +14190,13 @@
     "type": "Annotation",
     "id": 525964059,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-25T23:47:58.063Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101365336,
         "value": "* Ruined or intact?: Intact",
@@ -12310,6 +14236,13 @@
     "id": 525964060,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-25T23:48:29.112Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101365339,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -12347,6 +14280,13 @@
     "type": "Annotation",
     "id": 525964062,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-25T23:49:01.254Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101365343,
         "value": "* Roof structure type: House",
@@ -12394,6 +14334,13 @@
     "id": 525964063,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-25T23:50:01.301Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101365346,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -12432,6 +14379,13 @@
     "id": 525964064,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-25T23:50:38.602Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101365349,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -12469,6 +14423,13 @@
     "type": "Annotation",
     "id": 525964066,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-25T23:51:14.822Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101365353,
         "value": "* Roof structure type: House",
@@ -12516,6 +14477,13 @@
     "id": 525964067,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-25T23:52:17.879Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101365356,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -12553,6 +14521,13 @@
     "type": "Annotation",
     "id": 525964068,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-25T23:53:13.498Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101365359,
         "value": "* Ruined or intact?: Intact",
@@ -12592,6 +14567,13 @@
     "id": 525964070,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-25T23:53:45.422Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101365362,
         "value": "* Partially occluded or Complete?: Complete",
         "purpose": "tagging",
@@ -12629,6 +14611,13 @@
     "type": "Annotation",
     "id": 525964071,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-25T23:54:20.163Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101365366,
         "value": "* Roof structure type: House",
@@ -12676,6 +14665,13 @@
     "id": 525964073,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-25T23:55:16.986Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101365369,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -12712,7 +14708,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 525964075,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-25T23:56:00.151Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      }
+    ],
     "target": {
       "source": "monforte2.jpg",
       "selector": {
@@ -12726,6 +14730,13 @@
     "type": "Annotation",
     "id": 525964077,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-25T23:56:39.754Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101365373,
         "value": "* Roof structure type: House",
@@ -12773,6 +14784,13 @@
     "id": 525964079,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-25T23:57:14.440Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101365374,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -12810,6 +14828,13 @@
     "type": "Annotation",
     "id": 525964080,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-25T23:57:59.374Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101365379,
         "value": "* Ruined or intact?: Intact",
@@ -12849,6 +14874,13 @@
     "id": 525964081,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-25T23:58:24.523Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 101365382,
         "value": "* Partially occluded or Complete?: Complete",
         "purpose": "tagging",
@@ -12886,6 +14918,13 @@
     "type": "Annotation",
     "id": 525964083,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-25T23:59:06.703Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 101365386,
         "value": "* Roof structure type: House",
@@ -12933,6 +14972,13 @@
     "id": 529948467,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Flag",
+        "created": "2020-09-30T19:05:29.833Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 102731898,
         "value": "* Flag shape: Rectangular",
         "purpose": "tagging",
@@ -12962,6 +15008,13 @@
     "type": "Annotation",
     "id": 529950242,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T21:33:44.935Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 102732332,
         "value": "* Ruined or intact?: Intact",
@@ -13001,6 +15054,13 @@
     "id": 529950284,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T21:35:10.505Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 102732336,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -13038,6 +15098,13 @@
     "type": "Annotation",
     "id": 529950331,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Christian religious building",
+        "created": "2020-09-30T21:37:56.366Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 102732344,
         "value": "Window (Rectangular): null",
@@ -13109,6 +15176,13 @@
     "id": 529950364,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-30T21:39:58.191Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 102732348,
         "value": "* Roof structure type: Church",
         "purpose": "tagging",
@@ -13154,6 +15228,13 @@
     "type": "Annotation",
     "id": 529950386,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Crosses (Religious Monuments)",
+        "created": "2020-09-30T21:41:00.964Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 102732353,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -13209,6 +15290,13 @@
     "id": 529950410,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T21:44:18.313Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 102732363,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -13247,6 +15335,13 @@
     "id": 529950420,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T21:46:30.842Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 102732367,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -13284,6 +15379,13 @@
     "type": "Annotation",
     "id": 529950427,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-30T21:48:28.064Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 102732371,
         "value": "* Roof structure type: House",
@@ -13331,6 +15433,13 @@
     "id": 529950439,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T21:49:38.907Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 102732374,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -13368,6 +15477,13 @@
     "type": "Annotation",
     "id": 529950500,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T21:50:44.700Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 102732393,
         "value": "* Ruined or intact?: Intact",
@@ -13407,6 +15523,13 @@
     "id": 529950507,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T21:51:29.769Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 102732396,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -13445,6 +15568,13 @@
     "id": 529950512,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T21:52:31.605Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 102732399,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -13482,6 +15612,13 @@
     "type": "Annotation",
     "id": 529950520,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-30T21:53:22.475Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 102732403,
         "value": "* Roof structure type: House",
@@ -13529,6 +15666,13 @@
     "id": 529956445,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-10-01T00:05:42.412Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 102732564,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -13566,6 +15710,13 @@
     "type": "Annotation",
     "id": 529956460,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-10-01T00:06:46.118Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 102732567,
         "value": "* Ruined or intact?: Intact",
@@ -13605,6 +15756,13 @@
     "id": 529956470,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Tree",
+        "created": "2020-10-01T00:07:26.008Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 102732570,
         "value": "* Tree Type: Deciduous (Most common, broccoli-like)",
         "purpose": "tagging",
@@ -13643,6 +15801,13 @@
     "id": 529956504,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T00:10:26.929Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 102732573,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -13671,7 +15836,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 529956534,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Path",
+        "created": "2020-10-01T00:12:22.877Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      }
+    ],
     "target": {
       "source": "monforte2.jpg",
       "selector": {
@@ -13685,6 +15858,13 @@
     "type": "Annotation",
     "id": 529956619,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T00:17:50.202Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 102732575,
         "value": "* Landform type: Plain (unfenced field, vacant land)",
@@ -13716,6 +15896,13 @@
     "id": 529956643,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T00:19:43.148Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 102732577,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -13745,6 +15932,13 @@
     "type": "Annotation",
     "id": 529956665,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T00:21:19.604Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 102732580,
         "value": "* Landform type: Hill",
@@ -13776,6 +15970,13 @@
     "id": 529956698,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T00:23:26.094Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 102732582,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -13805,6 +16006,13 @@
     "type": "Annotation",
     "id": 529956721,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T00:24:44.467Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 102732585,
         "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
@@ -13836,6 +16044,13 @@
     "id": 529956751,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T00:27:50.317Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 102732587,
         "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
         "purpose": "tagging",
@@ -13866,6 +16081,13 @@
     "id": 529956773,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T00:31:26.507Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 102732590,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -13895,6 +16117,13 @@
     "type": "Annotation",
     "id": 529956804,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Christian religious building",
+        "created": "2020-10-01T00:34:46.406Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 102732599,
         "value": "Window (Rectangular): null",
@@ -13982,6 +16211,13 @@
     "id": 529956807,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Christian religious building",
+        "created": "2020-10-01T00:36:07.777Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 102732610,
         "value": "* Religious building type?: Chapel (Small, with tower)",
         "purpose": "tagging",
@@ -14052,6 +16288,13 @@
     "id": 529956824,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T00:37:33.544Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 102732636,
         "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
         "purpose": "tagging",
@@ -14081,6 +16324,13 @@
     "type": "Annotation",
     "id": 529956881,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T00:40:49.225Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 102732639,
         "value": "* Landform type: Plain (unfenced field, vacant land)",
@@ -14112,6 +16362,13 @@
     "id": 530244526,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T16:28:47.148Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 102755046,
         "value": "* Landform type: Plain (unfenced field, vacant land)",
         "purpose": "tagging",
@@ -14141,6 +16398,13 @@
     "type": "Annotation",
     "id": 530245253,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T16:38:59.481Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 102755049,
         "value": "* Landform type: Hill",
@@ -14172,6 +16436,13 @@
     "id": 530245294,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T16:42:01.144Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 102755063,
         "value": "* Landform type: Plain (unfenced field, vacant land)",
         "purpose": "tagging",
@@ -14201,6 +16472,13 @@
     "type": "Annotation",
     "id": 530247208,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-10-01T16:50:52.734Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 102755069,
         "value": "* Roof structure type: House",
@@ -14248,6 +16526,13 @@
     "id": 530247285,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-10-01T16:54:07.538Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 102755075,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -14286,6 +16571,13 @@
     "id": 530247490,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-10-01T16:58:09.153Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 102755093,
         "value": "* Singular or sample from a group?: Sample from a group",
         "purpose": "tagging",
@@ -14307,6 +16599,13 @@
     "type": "Annotation",
     "id": 530248309,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-10-01T17:12:15.256Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 102755123,
         "value": "* Roof structure type: House",
@@ -14354,6 +16653,13 @@
     "id": 530248411,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-10-01T17:15:31.728Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 102755144,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -14400,6 +16706,13 @@
     "id": 530248724,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-10-01T17:20:05.528Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 102755182,
         "value": "* Roof structure type: Interior castle building",
         "purpose": "tagging",
@@ -14444,7 +16757,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 530249144,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Sky",
+        "created": "2020-10-01T17:25:40.956Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      }
+    ],
     "target": {
       "source": "monforte2.jpg",
       "selector": {
@@ -14458,6 +16779,13 @@
     "type": "Annotation",
     "id": 530725186,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Scale Bar",
+        "created": "2020-10-02T16:27:15.959Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
       {
         "id": 103046699,
         "value": "Length in meters: 35.35",
@@ -14481,6 +16809,13 @@
     "id": 530725510,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Scale Bar",
+        "created": "2020-10-02T16:31:51.914Z",
+        "updated": "2020-10-02T16:32:48.810Z",
+        "creator": "hthurston"
+      },
+      {
         "id": 103046713,
         "value": "Length in meters: 33",
         "purpose": "tagging",
@@ -14502,6 +16837,13 @@
     "type": "Annotation",
     "id": 530725529,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Location (Latitude, Longitude)",
+        "created": "2020-10-02T16:32:47.784Z",
+        "updated": "2020-10-02T16:32:47.784Z",
+        "creator": "hthurston"
+      },
       {
         "id": 103046717,
         "value": "Latitude and Longitude: 39.054411, -7.439041",

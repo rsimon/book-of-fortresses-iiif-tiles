@@ -5,6 +5,13 @@
     "id": 455524684,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Keep",
+        "created": "2020-06-02T17:02:42.352Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -90,6 +97,13 @@
     "type": "Annotation",
     "id": 455524879,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Keep",
+        "created": "2020-06-02T17:07:20.421Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -177,6 +191,13 @@
     "id": 455525094,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-06-02T17:11:52.875Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -254,6 +275,13 @@
     "type": "Annotation",
     "id": 455525139,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-06-02T17:12:58.590Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -333,6 +361,13 @@
     "id": 455525195,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-06-02T17:16:00.011Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Back side",
         "purpose": "tagging",
@@ -411,6 +446,13 @@
     "id": 455525319,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-06-02T17:21:43.047Z",
+        "updated": "2020-06-16T00:51:25.281Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -488,6 +530,13 @@
     "type": "Annotation",
     "id": 455525361,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-02T17:23:34.043Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -583,6 +632,13 @@
     "id": 455525387,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-02T17:24:55.576Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -676,6 +732,13 @@
     "type": "Annotation",
     "id": 455525455,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-02T17:30:18.396Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -771,6 +834,13 @@
     "id": 455525565,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Bodies of water",
+        "created": "2020-06-02T17:34:19.659Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891649,
         "value": "* River, Ocean or Pond?: River",
         "purpose": "tagging",
@@ -792,6 +862,13 @@
     "type": "Annotation",
     "id": 455525654,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-02T17:37:33.793Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -831,6 +908,13 @@
     "id": 455525667,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-02T17:37:55.177Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -868,6 +952,13 @@
     "type": "Annotation",
     "id": 455525678,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-02T17:38:20.931Z",
+        "updated": "2020-06-16T00:29:15.153Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -915,6 +1006,13 @@
     "id": 455525686,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-02T17:38:36.686Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -936,6 +1034,13 @@
     "type": "Annotation",
     "id": 455525701,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-02T17:39:22.383Z",
+        "updated": "2020-06-16T00:27:59.707Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Complete",
@@ -983,6 +1088,13 @@
     "id": 455525741,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Tree",
+        "created": "2020-06-02T17:41:07.332Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891637,
         "value": "* Singular or sample from a group?: Single",
         "purpose": "tagging",
@@ -1020,6 +1132,13 @@
     "type": "Annotation",
     "id": 455525808,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Tree",
+        "created": "2020-06-02T17:43:30.804Z",
+        "updated": "2020-06-14T23:20:52.083Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891637,
         "value": "* Singular or sample from a group?: Single",
@@ -1059,6 +1178,13 @@
     "id": 455525835,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Tree",
+        "created": "2020-06-02T17:45:00.698Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891637,
         "value": "* Singular or sample from a group?: Single",
         "purpose": "tagging",
@@ -1096,6 +1222,13 @@
     "type": "Annotation",
     "id": 456895995,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-06-03T14:30:26.643Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -1174,6 +1307,13 @@
     "type": "Annotation",
     "id": 456896102,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-06-03T14:33:23.927Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -1260,6 +1400,13 @@
     "type": "Annotation",
     "id": 456896680,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-03T14:45:32.748Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -1355,6 +1502,13 @@
     "id": 456896903,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-03T14:51:55.004Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -1424,6 +1578,13 @@
     "type": "Annotation",
     "id": 456897091,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-03T15:01:19.239Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -1503,6 +1664,13 @@
     "id": 456983070,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-03T15:17:13.549Z",
+        "updated": "2020-06-16T00:23:38.257Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1557,6 +1725,13 @@
     "id": 457196570,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-03T15:55:11.696Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Complete",
         "purpose": "tagging",
@@ -1602,6 +1777,13 @@
     "type": "Annotation",
     "id": 457196583,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-06-03T15:56:29.308Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -1681,6 +1863,13 @@
     "id": 457196612,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-06-03T15:58:25.546Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -1759,6 +1948,13 @@
     "id": 457196652,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-03T16:00:40.766Z",
+        "updated": "2020-06-16T00:23:08.544Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -1804,6 +2000,13 @@
     "type": "Annotation",
     "id": 457196676,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-03T16:01:59.883Z",
+        "updated": "2020-06-16T00:22:17.422Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -1851,6 +2054,13 @@
     "id": 457196691,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T16:02:54.555Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -1888,6 +2098,13 @@
     "type": "Annotation",
     "id": 457197568,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T16:03:33.562Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
@@ -1927,6 +2144,13 @@
     "id": 457198127,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T16:04:05.779Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Chimney side",
         "purpose": "tagging",
@@ -1965,6 +2189,13 @@
     "id": 457232256,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T18:43:19.975Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -2002,6 +2233,13 @@
     "type": "Annotation",
     "id": 457232273,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T18:44:16.252Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -2049,6 +2287,13 @@
     "id": 457232276,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T18:44:25.652Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -2086,6 +2331,13 @@
     "type": "Annotation",
     "id": 457232278,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-03T18:44:30.715Z",
+        "updated": "2020-06-16T00:28:30.495Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -2133,6 +2385,13 @@
     "id": 457232288,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Container",
+        "created": "2020-06-03T18:44:59.525Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891655,
         "value": "* Container type: Trees",
         "purpose": "tagging",
@@ -2162,6 +2421,13 @@
     "type": "Annotation",
     "id": 457234045,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-03T18:56:08.547Z",
+        "updated": "2020-06-16T00:29:52.973Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -2209,6 +2475,13 @@
     "id": 457244077,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T20:38:26.267Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -2255,6 +2528,13 @@
     "id": 457244117,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T20:41:31.456Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -2292,6 +2572,13 @@
     "type": "Annotation",
     "id": 457244142,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-03T20:42:51.196Z",
+        "updated": "2020-06-16T00:27:16.389Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Complete",
@@ -2339,6 +2626,13 @@
     "id": 457244170,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T20:44:25.177Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -2377,6 +2671,13 @@
     "id": 457244264,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T20:48:39.545Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -2414,6 +2715,13 @@
     "type": "Annotation",
     "id": 457244277,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T20:49:41.792Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -2461,6 +2769,13 @@
     "id": 457244353,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T20:54:54.755Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -2498,6 +2813,13 @@
     "type": "Annotation",
     "id": 457244375,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T20:55:57.922Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -2545,6 +2867,13 @@
     "id": 457244395,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-03T20:56:45.242Z",
+        "updated": "2020-06-16T00:26:53.949Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Complete",
         "purpose": "tagging",
@@ -2591,6 +2920,13 @@
     "id": 457244411,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T20:57:36.070Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -2635,7 +2971,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 457244504,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Path",
+        "created": "2020-06-03T21:02:40.438Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      }
+    ],
     "target": {
       "source": "melgaco2.jpg",
       "selector": {
@@ -2649,6 +2993,13 @@
     "type": "Annotation",
     "id": 457244556,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Tree",
+        "created": "2020-06-03T21:08:23.331Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891637,
         "value": "* Singular or sample from a group?: Single",
@@ -2687,6 +3038,13 @@
     "type": "Annotation",
     "id": 457244577,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-03T21:09:15.595Z",
+        "updated": "2020-06-16T00:21:08.401Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Complete",
@@ -2734,6 +3092,13 @@
     "id": 457244613,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T21:10:24.735Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -2771,6 +3136,13 @@
     "type": "Annotation",
     "id": 457244629,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T21:11:13.323Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Chimney front",
@@ -2810,6 +3182,13 @@
     "id": 457244639,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T21:11:45.413Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Chimney side",
         "purpose": "tagging",
@@ -2847,6 +3226,13 @@
     "type": "Annotation",
     "id": 457244653,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T21:12:19.009Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -2886,6 +3272,13 @@
     "id": 457244842,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Tree",
+        "created": "2020-06-03T21:19:50.616Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891637,
         "value": "* Singular or sample from a group?: Single",
         "purpose": "tagging",
@@ -2923,6 +3316,13 @@
     "type": "Annotation",
     "id": 457244853,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T21:20:22.076Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -2962,6 +3362,13 @@
     "id": 457244866,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T21:21:08.754Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -2999,6 +3406,13 @@
     "type": "Annotation",
     "id": 457244894,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T21:22:00.095Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Back side",
@@ -3038,6 +3452,13 @@
     "id": 457245270,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T21:40:33.567Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Top",
         "purpose": "tagging",
@@ -3075,6 +3496,13 @@
     "type": "Annotation",
     "id": 457245283,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T21:41:12.892Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Top",
@@ -3114,6 +3542,13 @@
     "id": 457245290,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T21:41:41.072Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -3151,6 +3586,13 @@
     "type": "Annotation",
     "id": 457245301,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T21:42:05.935Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -3190,6 +3632,13 @@
     "id": 457245360,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T21:44:56.038Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -3227,6 +3676,13 @@
     "type": "Annotation",
     "id": 457245448,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T21:50:45.285Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
@@ -3266,6 +3722,13 @@
     "id": 457245464,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T21:51:40.146Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3303,6 +3766,13 @@
     "type": "Annotation",
     "id": 457245475,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T21:52:51.105Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
@@ -3342,6 +3812,13 @@
     "id": 457245488,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T21:54:02.274Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3379,6 +3856,13 @@
     "type": "Annotation",
     "id": 457245492,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T21:54:45.411Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
@@ -3418,6 +3902,13 @@
     "id": 457245496,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T21:55:29.486Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3455,6 +3946,13 @@
     "type": "Annotation",
     "id": 457245501,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T21:56:07.937Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
@@ -3494,6 +3992,13 @@
     "id": 457245506,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T21:56:49.424Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3531,6 +4036,13 @@
     "type": "Annotation",
     "id": 457245511,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T21:57:19.136Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
@@ -3570,6 +4082,13 @@
     "id": 457245522,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T21:58:01.612Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3607,6 +4126,13 @@
     "type": "Annotation",
     "id": 457245528,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T21:58:39.112Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
@@ -3646,6 +4172,13 @@
     "id": 457245535,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T21:59:10.434Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3683,6 +4216,13 @@
     "type": "Annotation",
     "id": 457245538,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T21:59:41.345Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
@@ -3722,6 +4262,13 @@
     "id": 457245544,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T22:00:35.196Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3759,6 +4306,13 @@
     "type": "Annotation",
     "id": 457245547,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T22:01:24.620Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
@@ -3798,6 +4352,13 @@
     "id": 457245554,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T22:01:50.012Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3835,6 +4396,13 @@
     "type": "Annotation",
     "id": 457245640,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T22:18:54.789Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
@@ -3874,6 +4442,13 @@
     "id": 457245644,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T22:19:35.050Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3911,6 +4486,13 @@
     "type": "Annotation",
     "id": 457245649,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T22:20:20.577Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
@@ -3950,6 +4532,13 @@
     "id": 457245652,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T22:21:25.472Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3987,6 +4576,13 @@
     "type": "Annotation",
     "id": 457245653,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T22:21:55.326Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
@@ -4026,6 +4622,13 @@
     "id": 457245654,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T22:22:47.889Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4063,6 +4666,13 @@
     "type": "Annotation",
     "id": 457245655,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T22:23:37.660Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
@@ -4102,6 +4712,13 @@
     "id": 457245656,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T22:24:30.626Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4139,6 +4756,13 @@
     "type": "Annotation",
     "id": 457245657,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T22:25:07.861Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
@@ -4178,6 +4802,13 @@
     "id": 457245658,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T22:26:02.002Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4215,6 +4846,13 @@
     "type": "Annotation",
     "id": 457245659,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T22:26:44.696Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
@@ -4254,6 +4892,13 @@
     "id": 457245660,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T22:28:17.635Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -4291,6 +4936,13 @@
     "type": "Annotation",
     "id": 457245661,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-03T22:28:59.525Z",
+        "updated": "2020-06-16T00:18:57.923Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -4338,6 +4990,13 @@
     "id": 457245662,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T22:29:36.909Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -4375,6 +5034,13 @@
     "type": "Annotation",
     "id": 457245663,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T22:30:21.561Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -4414,6 +5080,13 @@
     "id": 457245664,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T22:30:56.553Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -4451,6 +5124,13 @@
     "type": "Annotation",
     "id": 457245665,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-03T22:31:39.446Z",
+        "updated": "2020-06-16T00:21:37.892Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -4498,6 +5178,13 @@
     "id": 457245666,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T22:32:07.959Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
         "purpose": "tagging",
@@ -4535,6 +5222,13 @@
     "type": "Annotation",
     "id": 457245667,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T22:33:11.374Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -4574,6 +5268,13 @@
     "id": 457245668,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T22:34:02.180Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Chimney front",
         "purpose": "tagging",
@@ -4611,6 +5312,13 @@
     "type": "Annotation",
     "id": 457245669,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-03T22:34:39.676Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Chimney side",
@@ -4650,6 +5358,13 @@
     "id": 457245670,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T22:35:23.374Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4687,6 +5402,13 @@
     "type": "Annotation",
     "id": 457245673,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T22:42:34.399Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
@@ -4726,6 +5448,13 @@
     "id": 457245674,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T22:44:47.300Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4763,6 +5492,13 @@
     "type": "Annotation",
     "id": 457245675,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T22:45:51.019Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
@@ -4802,6 +5538,13 @@
     "id": 457245677,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-03T22:47:19.622Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4839,6 +5582,13 @@
     "type": "Annotation",
     "id": 457323857,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-04T15:12:01.505Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
@@ -4878,6 +5628,13 @@
     "id": 457323915,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-04T15:13:59.059Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4915,6 +5672,13 @@
     "type": "Annotation",
     "id": 457344273,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-04T15:41:20.443Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
@@ -4954,6 +5718,13 @@
     "id": 457348129,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-04T15:42:53.384Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4991,6 +5762,13 @@
     "type": "Annotation",
     "id": 457350233,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-04T15:43:41.802Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
@@ -5030,6 +5808,13 @@
     "id": 457353183,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-04T15:44:48.581Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5067,6 +5852,13 @@
     "type": "Annotation",
     "id": 457355234,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-04T15:45:44.553Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
@@ -5106,6 +5898,13 @@
     "id": 457356707,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-04T15:46:46.122Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5143,6 +5942,13 @@
     "type": "Annotation",
     "id": 457356729,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-04T15:48:28.839Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
@@ -5182,6 +5988,13 @@
     "id": 457356750,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-04T15:50:00.911Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5220,6 +6033,13 @@
     "id": 457469030,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-06-04T17:40:00.909Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891637,
         "value": "* Singular or sample from a group?: Single",
         "purpose": "tagging",
@@ -5250,6 +6070,13 @@
     "id": 457469109,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-04T17:42:17.096Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891659,
         "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
         "purpose": "tagging",
@@ -5279,6 +6106,13 @@
     "type": "Annotation",
     "id": 457469538,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-06-04T17:50:47.628Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Chimney side",
@@ -5317,6 +6151,13 @@
     "type": "Annotation",
     "id": 457469921,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-04T17:59:03.615Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Top",
@@ -5387,6 +6228,13 @@
     "type": "Annotation",
     "id": 457469993,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-04T18:01:13.903Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Top",
@@ -5466,6 +6314,13 @@
     "id": 457470090,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-06-04T18:05:14.743Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891571,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Back side",
         "purpose": "tagging",
@@ -5544,6 +6399,13 @@
     "id": 457470170,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Tree",
+        "created": "2020-06-04T18:08:19.899Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891637,
         "value": "* Singular or sample from a group?: Sample from a group",
         "purpose": "tagging",
@@ -5582,6 +6444,13 @@
     "id": 457470348,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Container",
+        "created": "2020-06-04T18:14:34.895Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891655,
         "value": "* Container type: Reeds",
         "purpose": "tagging",
@@ -5611,6 +6480,13 @@
     "type": "Annotation",
     "id": 457473299,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Tree",
+        "created": "2020-06-04T19:48:06.177Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891637,
         "value": "* Singular or sample from a group?: Sample from a group",
@@ -5650,6 +6526,13 @@
     "id": 457473386,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Tree",
+        "created": "2020-06-04T19:52:24.301Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891637,
         "value": "* Singular or sample from a group?: Sample from a group",
         "purpose": "tagging",
@@ -5688,6 +6571,13 @@
     "id": 457473464,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Container",
+        "created": "2020-06-04T19:57:54.147Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891655,
         "value": "* Container type: Reeds",
         "purpose": "tagging",
@@ -5717,6 +6607,13 @@
     "type": "Annotation",
     "id": 457473824,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Flag",
+        "created": "2020-06-04T20:23:43.679Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891801,
         "value": "* Partially occluded or Complete?: Complete",
@@ -5756,6 +6653,13 @@
     "id": 457485023,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-04T21:15:03.418Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5793,6 +6697,13 @@
     "type": "Annotation",
     "id": 457485046,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-04T21:16:50.043Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
@@ -5832,6 +6743,13 @@
     "id": 457485052,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-04T21:18:48.406Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5869,6 +6787,13 @@
     "type": "Annotation",
     "id": 457485071,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-04T21:22:43.168Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
@@ -5908,6 +6833,13 @@
     "id": 457488279,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-04T21:31:52.071Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5945,6 +6877,13 @@
     "type": "Annotation",
     "id": 457488440,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-04T21:34:53.272Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
@@ -5984,6 +6923,13 @@
     "id": 457488453,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-04T21:36:02.489Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6022,6 +6968,13 @@
     "id": 457491192,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-04T21:40:30.317Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891659,
         "value": "* Hill or mountain location (Fore, middle, background?): Foreground",
         "purpose": "tagging",
@@ -6051,6 +7004,13 @@
     "type": "Annotation",
     "id": 457493762,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-04T21:44:28.928Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891659,
         "value": "* Hill or mountain location (Fore, middle, background?): Foreground",
@@ -6082,6 +7042,13 @@
     "id": 457493837,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-04T21:49:18.930Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891659,
         "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
         "purpose": "tagging",
@@ -6111,6 +7078,13 @@
     "type": "Annotation",
     "id": 457493887,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-04T21:52:04.609Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891659,
         "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
@@ -6142,6 +7116,13 @@
     "id": 457496974,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-04T21:54:30.229Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891659,
         "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
         "purpose": "tagging",
@@ -6172,6 +7153,13 @@
     "id": 457497174,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-04T22:06:32.792Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891659,
         "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
         "purpose": "tagging",
@@ -6201,6 +7189,13 @@
     "type": "Annotation",
     "id": 457525639,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-05T14:47:27.127Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
@@ -6240,6 +7235,13 @@
     "id": 457525696,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-05T14:49:51.185Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6277,6 +7279,13 @@
     "type": "Annotation",
     "id": 457531162,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-05T15:04:25.034Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
@@ -6316,6 +7325,13 @@
     "id": 457531630,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-05T15:05:51.709Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6353,6 +7369,13 @@
     "type": "Annotation",
     "id": 457535168,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-05T15:09:43.856Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
@@ -6392,6 +7415,13 @@
     "id": 457602132,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-05T19:25:04.155Z",
+        "updated": "2020-06-16T00:16:47.957Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891659,
         "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
         "purpose": "tagging",
@@ -6421,6 +7451,13 @@
     "type": "Annotation",
     "id": 457535987,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-05T15:11:29.546Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
@@ -6460,6 +7497,13 @@
     "id": 457537596,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-05T15:13:10.376Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6497,6 +7541,13 @@
     "type": "Annotation",
     "id": 457538975,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-05T15:15:21.499Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
@@ -6536,6 +7587,13 @@
     "id": 457542871,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-05T15:34:46.288Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6574,6 +7632,13 @@
     "id": 458473226,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-06T15:58:25.571Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891659,
         "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
         "purpose": "tagging",
@@ -6603,6 +7668,13 @@
     "type": "Annotation",
     "id": 457542936,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-05T15:36:01.158Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
@@ -6642,6 +7714,13 @@
     "id": 457543741,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Fields, fences and non-fortified walls",
+        "created": "2020-06-05T15:41:37.901Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891581,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6679,6 +7758,13 @@
     "type": "Annotation",
     "id": 457543829,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Tree",
+        "created": "2020-06-05T15:44:28.468Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891637,
         "value": "* Singular or sample from a group?: Sample from a group",
@@ -6718,6 +7804,13 @@
     "id": 457543960,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Tree",
+        "created": "2020-06-05T15:50:05.590Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891637,
         "value": "* Singular or sample from a group?: Sample from a group",
         "purpose": "tagging",
@@ -6756,6 +7849,13 @@
     "id": 457602001,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-05T19:09:09.350Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891659,
         "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
         "purpose": "tagging",
@@ -6785,6 +7885,13 @@
     "type": "Annotation",
     "id": 457602025,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-05T19:12:28.005Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891659,
         "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
@@ -6816,6 +7923,13 @@
     "id": 457602038,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-05T19:13:28.919Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891659,
         "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
         "purpose": "tagging",
@@ -6845,6 +7959,13 @@
     "type": "Annotation",
     "id": 457602081,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-05T19:18:58.626Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891659,
         "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
@@ -6876,6 +7997,13 @@
     "id": 457602069,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-05T19:16:49.657Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891659,
         "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
         "purpose": "tagging",
@@ -6905,6 +8033,13 @@
     "type": "Annotation",
     "id": 457602104,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-05T19:21:43.649Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891659,
         "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
@@ -6936,6 +8071,13 @@
     "id": 458474369,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-06T17:11:55.909Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891659,
         "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
         "purpose": "tagging",
@@ -6965,6 +8107,13 @@
     "type": "Annotation",
     "id": 458472843,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-06T15:47:29.406Z",
+        "updated": "2020-06-16T00:19:27.638Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891659,
         "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
@@ -6996,6 +8145,13 @@
     "id": 458473565,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-06T16:09:35.674Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891659,
         "value": "* Hill or mountain location (Fore, middle, background?): Background",
         "purpose": "tagging",
@@ -7024,7 +8180,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 458474378,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Sky",
+        "created": "2020-06-06T17:13:48.982Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      }
+    ],
     "target": {
       "source": "melgaco2.jpg",
       "selector": {
@@ -7038,6 +8202,13 @@
     "type": "Annotation",
     "id": 458473585,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-06T16:13:01.705Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891659,
         "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
@@ -7068,6 +8239,13 @@
     "type": "Annotation",
     "id": 458473613,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Tree",
+        "created": "2020-06-06T16:15:55.534Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891637,
         "value": "* Singular or sample from a group?: Sample from a group",
@@ -7105,7 +8283,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 458474382,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Sky",
+        "created": "2020-06-06T17:16:01.922Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      }
+    ],
     "target": {
       "source": "melgaco2.jpg",
       "selector": {
@@ -7119,6 +8305,13 @@
     "type": "Annotation",
     "id": 458473623,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Tree",
+        "created": "2020-06-06T16:18:38.667Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891637,
         "value": "* Singular or sample from a group?: Sample from a group",
@@ -7158,6 +8351,13 @@
     "id": 458473654,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Tree",
+        "created": "2020-06-06T16:22:02.482Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891637,
         "value": "* Singular or sample from a group?: Sample from a group",
         "purpose": "tagging",
@@ -7194,7 +8394,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 458474388,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Sky",
+        "created": "2020-06-06T17:16:53.393Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      }
+    ],
     "target": {
       "source": "melgaco2.jpg",
       "selector": {
@@ -7208,6 +8416,13 @@
     "type": "Annotation",
     "id": 458473798,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Container",
+        "created": "2020-06-06T16:31:47.335Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891655,
         "value": "* Container type: Reeds",
@@ -7237,7 +8452,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 458474103,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Sky",
+        "created": "2020-06-06T16:50:23.024Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      }
+    ],
     "target": {
       "source": "melgaco2.jpg",
       "selector": {
@@ -7251,6 +8474,13 @@
     "type": "Annotation",
     "id": 458474333,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-06T17:06:53.719Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891659,
         "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
@@ -7282,6 +8512,13 @@
     "id": 458474572,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-06T17:30:09.775Z",
+        "updated": "2020-06-16T00:54:06.887Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891659,
         "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
         "purpose": "tagging",
@@ -7311,6 +8548,13 @@
     "type": "Annotation",
     "id": 458474465,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-06T17:21:24.758Z",
+        "updated": "2020-06-16T00:53:20.985Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891659,
         "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
@@ -7342,6 +8586,13 @@
     "id": 457602176,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-06-05T19:29:58.752Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891659,
         "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
         "purpose": "tagging",
@@ -7372,6 +8623,13 @@
     "id": 460007098,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Location (Latitude, Longitude)",
+        "created": "2020-06-09T16:43:52.497Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27927000,
         "value": "Latitude and Longitude: 42.114584, -8.260162",
         "purpose": "tagging",
@@ -7394,6 +8652,13 @@
     "id": 460007157,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Scale Bar",
+        "created": "2020-06-09T16:46:37.472Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27926999,
         "value": "Length in meters: 8.2",
         "purpose": "tagging",
@@ -7415,6 +8680,13 @@
     "type": "Annotation",
     "id": 464360740,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Tree",
+        "created": "2020-06-14T22:29:59.880Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891637,
         "value": "* Singular or sample from a group?: Single",
@@ -7454,6 +8726,13 @@
     "id": 464360772,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Container",
+        "created": "2020-06-14T22:35:05.435Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891655,
         "value": "* Container type: Trees",
         "purpose": "tagging",
@@ -7484,6 +8763,13 @@
     "id": 464360801,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Container",
+        "created": "2020-06-14T22:38:44.500Z",
+        "updated": "2020-06-14T23:20:32.100Z",
+        "creator": "edtriplett"
+      },
+      {
         "id": 27891655,
         "value": "* Container type: Trees",
         "purpose": "tagging",
@@ -7513,6 +8799,13 @@
     "type": "Annotation",
     "id": 464360920,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Container",
+        "created": "2020-06-14T23:17:47.814Z",
+        "updated": "2020-06-14T23:20:36.660Z",
+        "creator": "edtriplett"
+      },
       {
         "id": 27891655,
         "value": "* Container type: Trees",

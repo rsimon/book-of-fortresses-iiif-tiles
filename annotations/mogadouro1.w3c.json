@@ -5,6 +5,13 @@
     "id": 512647177,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-11T17:56:31.492Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100196770,
         "value": "* Outer-most (low) wall, Outer ward wall or Inner ward wall?: Outer ward wall",
         "purpose": "tagging",
@@ -99,6 +106,13 @@
     "id": 512649975,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-11T18:25:45.104Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100196965,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -136,6 +150,13 @@
     "type": "Annotation",
     "id": 512652799,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-11T18:41:37.033Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100197080,
         "value": "* Outer-most (low) wall, Outer ward wall or Inner ward wall?: Outer ward wall",
@@ -223,6 +244,13 @@
     "id": 512653281,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "People",
+        "created": "2020-09-11T18:51:31.404Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100197209,
         "value": "* Person type?: Duarte de Armas on horseback",
         "purpose": "tagging",
@@ -252,6 +280,13 @@
     "type": "Annotation",
     "id": 512653437,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "People",
+        "created": "2020-09-11T18:55:24.789Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100197223,
         "value": "* Person type?: Footman",
@@ -283,6 +318,13 @@
     "id": 512709358,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-09-12T01:50:16.894Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100241533,
         "value": "* Singular or sample from a group?: Sample from a group",
         "purpose": "tagging",
@@ -304,6 +346,13 @@
     "type": "Annotation",
     "id": 512797189,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-09-12T03:41:57.816Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100241543,
         "value": "* Hill or mountain location (Fore, middle, background?): Background",
@@ -333,7 +382,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 512797337,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-09-12T04:42:09.049Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      }
+    ],
     "target": {
       "source": "mogadouro1.jpg",
       "selector": {
@@ -347,6 +404,13 @@
     "type": "Annotation",
     "id": 512797339,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-09-12T04:42:23.870Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100241546,
         "value": "* Landform type: Hill",
@@ -378,6 +442,13 @@
     "id": 512797342,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-09-12T04:46:13.877Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100241548,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -408,6 +479,13 @@
     "id": 512849890,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-09-12T16:37:54.362Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100243332,
         "value": "* Singular or sample from a group?: Sample from a group",
         "purpose": "tagging",
@@ -430,6 +508,13 @@
     "id": 512850222,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-09-12T17:00:53.464Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100243372,
         "value": "* Singular or sample from a group?: Sample from a group",
         "purpose": "tagging",
@@ -451,6 +536,13 @@
     "type": "Annotation",
     "id": 512850343,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-12T17:07:07.312Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100243382,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -490,6 +582,13 @@
     "id": 512858015,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-12T17:11:32.710Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100243412,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -527,6 +626,13 @@
     "type": "Annotation",
     "id": 512858027,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-12T17:12:34.922Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100243418,
         "value": "* Ruined or intact?: Intact",
@@ -566,6 +672,13 @@
     "id": 514611307,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Flag",
+        "created": "2020-09-14T04:06:13.004Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100678380,
         "value": "* Flag shape: Rectangular",
         "purpose": "tagging",
@@ -595,6 +708,13 @@
     "type": "Annotation",
     "id": 514611361,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-14T04:11:09.741Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100678391,
         "value": "* Roof structure type: Interior castle building",
@@ -642,6 +762,13 @@
     "id": 514611401,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Chimney",
+        "created": "2020-09-14T04:15:45.350Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100678396,
         "value": "* Partially occluded or Complete?: Complete",
         "purpose": "tagging",
@@ -680,6 +807,13 @@
     "id": 514611427,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Chimney",
+        "created": "2020-09-14T04:17:36.099Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100678399,
         "value": "* Partially occluded or Complete?: Complete",
         "purpose": "tagging",
@@ -717,6 +851,13 @@
     "type": "Annotation",
     "id": 514611447,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-09-14T04:19:24.538Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100678407,
         "value": "* Tower Shape?: Polygonal",
@@ -796,6 +937,13 @@
     "id": 514611483,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-09-14T04:21:08.583Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100678415,
         "value": "* Tower Shape?: Polygonal",
         "purpose": "tagging",
@@ -874,6 +1022,13 @@
     "id": 514611549,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-09-14T04:24:16.139Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100678423,
         "value": "* Tower Shape?: Polygonal",
         "purpose": "tagging",
@@ -951,6 +1106,13 @@
     "type": "Annotation",
     "id": 514611626,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-14T04:27:19.511Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100678433,
         "value": "* Ruined or intact?: Intact",
@@ -1046,6 +1208,13 @@
     "id": 514611689,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-14T04:31:11.384Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100678449,
         "value": "* Ruined or intact?: Ruined",
         "purpose": "tagging",
@@ -1140,6 +1309,13 @@
     "id": 514611785,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-14T04:34:04.727Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100678460,
         "value": "* Curved wall or straight?: Straight",
         "purpose": "tagging",
@@ -1225,6 +1401,13 @@
     "type": "Annotation",
     "id": 514612120,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Keep",
+        "created": "2020-09-14T04:43:49.201Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100678493,
         "value": "Arrow slits (Individual): null",
@@ -1312,6 +1495,13 @@
     "id": 514612250,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Interior building (not a house)",
+        "created": "2020-09-14T04:48:23.487Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100678496,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -1349,6 +1539,13 @@
     "type": "Annotation",
     "id": 514612309,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-14T04:50:55.875Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100678500,
         "value": "* Roof structure type: Interior castle building",
@@ -1396,6 +1593,13 @@
     "id": 514612370,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Chimney",
+        "created": "2020-09-14T04:54:16.958Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100678503,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -1433,6 +1637,13 @@
     "type": "Annotation",
     "id": 514612439,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Interior building (not a house)",
+        "created": "2020-09-14T04:56:03.897Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100678507,
         "value": "* Ruined or intact?: Intact",
@@ -1480,6 +1691,13 @@
     "id": 514612516,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-14T05:00:42.309Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100678515,
         "value": "* Roof structure type: Interior castle building",
         "purpose": "tagging",
@@ -1526,6 +1744,13 @@
     "id": 514612532,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Chimney",
+        "created": "2020-09-14T05:01:58.903Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100678518,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -1563,6 +1788,13 @@
     "type": "Annotation",
     "id": 514612638,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-14T05:06:18.323Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100678527,
         "value": "* Ruined or intact?: Intact",
@@ -1650,6 +1882,13 @@
     "id": 515075443,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-15T00:17:16.929Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100683213,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1735,6 +1974,13 @@
     "type": "Annotation",
     "id": 515075495,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-15T00:21:54.728Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100683231,
         "value": "* Ruined or intact?: Intact",
@@ -1822,6 +2068,13 @@
     "id": 515086289,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-15T04:01:21.637Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100683519,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -1868,6 +2121,13 @@
     "id": 515086360,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-15T04:07:54.667Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100683533,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -1905,6 +2165,13 @@
     "type": "Annotation",
     "id": 515086377,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-15T04:09:08.025Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100683542,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -1944,6 +2211,13 @@
     "id": 515086394,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-15T04:10:05.784Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100683556,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -1981,6 +2255,13 @@
     "type": "Annotation",
     "id": 515086447,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-15T04:11:35.828Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100683567,
         "value": "* Roof structure type: House",
@@ -2028,6 +2309,13 @@
     "id": 515086496,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-15T04:13:36.460Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100683580,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -2065,6 +2353,13 @@
     "type": "Annotation",
     "id": 515086532,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-15T04:16:41.132Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100683588,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -2104,6 +2399,13 @@
     "id": 515086548,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-15T04:17:39.863Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100683595,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2141,6 +2443,13 @@
     "type": "Annotation",
     "id": 515086602,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-15T04:19:31.538Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100683603,
         "value": "* Roof Side: Roof front",
@@ -2188,6 +2497,13 @@
     "id": 515086637,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-15T04:22:19.025Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100683619,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -2225,6 +2541,13 @@
     "type": "Annotation",
     "id": 515086656,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-15T04:23:26.156Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100683629,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -2264,6 +2587,13 @@
     "id": 515086675,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-15T04:25:02.731Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100683645,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2301,6 +2631,13 @@
     "type": "Annotation",
     "id": 515086742,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-15T04:26:58.823Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100683654,
         "value": "* Roof Side: Roof front",
@@ -2348,6 +2685,13 @@
     "id": 515086765,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-15T04:29:30.266Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100683674,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -2385,6 +2729,13 @@
     "type": "Annotation",
     "id": 515086792,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-15T04:30:34.307Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100683683,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
@@ -2424,6 +2775,13 @@
     "id": 515086797,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-15T04:31:53.646Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100683693,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2461,6 +2819,13 @@
     "type": "Annotation",
     "id": 515086802,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-15T04:33:08.110Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100683696,
         "value": "* Roof Side: Roof front",
@@ -2508,6 +2873,13 @@
     "id": 515086843,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-15T04:36:43.570Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100683706,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
         "purpose": "tagging",
@@ -2546,6 +2918,13 @@
     "id": 515086866,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-15T04:38:03.218Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100683723,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -2583,6 +2962,13 @@
     "type": "Annotation",
     "id": 515086886,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-15T04:39:12.971Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100683733,
         "value": "* Roof Side: Roof front",
@@ -2630,6 +3016,13 @@
     "id": 515086905,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-15T04:41:37.754Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100683737,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
         "purpose": "tagging",
@@ -2667,6 +3060,13 @@
     "type": "Annotation",
     "id": 515086913,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-15T04:43:09.865Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100683743,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
@@ -2706,6 +3106,13 @@
     "id": 518569019,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Container",
+        "created": "2020-09-18T23:07:43.314Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100832589,
         "value": "* Number of rocks or trees in the container?: 5",
         "purpose": "tagging",
@@ -2735,6 +3142,13 @@
     "type": "Annotation",
     "id": 518649442,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-19T16:39:08.997Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100834757,
         "value": "* Ruined or intact?: Ruined",
@@ -2822,6 +3236,13 @@
     "id": 518649649,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-09-19T16:45:38.143Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834773,
         "value": "* Tower Shape?: Rectangular",
         "purpose": "tagging",
@@ -2891,6 +3312,13 @@
     "type": "Annotation",
     "id": 518649693,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-09-19T16:46:52.075Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100834772,
         "value": "* Tower Shape?: Rectangular",
@@ -2962,6 +3390,13 @@
     "id": 518649746,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Tower",
+        "created": "2020-09-19T16:48:20.652Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834780,
         "value": "* Tower Shape?: Rectangular",
         "purpose": "tagging",
@@ -3031,6 +3466,13 @@
     "type": "Annotation",
     "id": 518649814,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Wall",
+        "created": "2020-09-19T16:49:57.726Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100834791,
         "value": "Door (Flat-headed): null",
@@ -3126,6 +3568,13 @@
     "id": 518650015,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-19T16:55:17.454Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834796,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -3172,6 +3621,13 @@
     "id": 518650086,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T16:57:08.457Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834801,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3209,6 +3665,13 @@
     "type": "Annotation",
     "id": 518650150,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T16:58:43.161Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100834806,
         "value": "* Ruined or intact?: Intact",
@@ -3248,6 +3711,13 @@
     "id": 518650231,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T17:00:22.966Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834811,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3285,6 +3755,13 @@
     "type": "Annotation",
     "id": 518650291,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-19T17:01:35.422Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100834817,
         "value": "* Roof structure type: House",
@@ -3332,6 +3809,13 @@
     "id": 518650348,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T17:03:19.824Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834820,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3369,6 +3853,13 @@
     "type": "Annotation",
     "id": 518650420,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T17:06:22.911Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100834825,
         "value": "* Ruined or intact?: Intact",
@@ -3408,6 +3899,13 @@
     "id": 518650452,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T17:07:22.009Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834828,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3446,6 +3944,13 @@
     "id": 518650506,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T17:08:45.147Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834831,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3483,6 +3988,13 @@
     "type": "Annotation",
     "id": 518650549,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-19T17:09:53.574Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100834837,
         "value": "* Roof structure type: House",
@@ -3530,6 +4042,13 @@
     "id": 518650624,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T17:11:37.666Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834840,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3567,6 +4086,13 @@
     "type": "Annotation",
     "id": 518650651,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T17:12:32.798Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100834843,
         "value": "* Ruined or intact?: Intact",
@@ -3606,6 +4132,13 @@
     "id": 518650698,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T17:14:10.545Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834846,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3643,6 +4176,13 @@
     "type": "Annotation",
     "id": 518650735,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-19T17:15:18.690Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100834850,
         "value": "* Roof structure type: House",
@@ -3690,6 +4230,13 @@
     "id": 518650800,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T17:18:03.530Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834853,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3727,6 +4274,13 @@
     "type": "Annotation",
     "id": 518650862,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T17:19:53.258Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100834856,
         "value": "* Ruined or intact?: Intact",
@@ -3766,6 +4320,13 @@
     "id": 518650929,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T17:22:06.562Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834859,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3803,6 +4364,13 @@
     "type": "Annotation",
     "id": 518650957,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-19T17:23:10.183Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100834863,
         "value": "* Roof structure type: House",
@@ -3850,6 +4418,13 @@
     "id": 518651029,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T17:27:56.919Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834868,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3888,6 +4463,13 @@
     "id": 518665856,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T17:30:05.584Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834871,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -3925,6 +4507,13 @@
     "type": "Annotation",
     "id": 518665876,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-19T17:31:08.174Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100834875,
         "value": "* Roof structure type: House",
@@ -3972,6 +4561,13 @@
     "id": 518665927,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T17:33:05.296Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834878,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4009,6 +4605,13 @@
     "type": "Annotation",
     "id": 518665948,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T17:33:46.354Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100834881,
         "value": "* Ruined or intact?: Intact",
@@ -4048,6 +4651,13 @@
     "id": 518665984,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T17:35:24.593Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834884,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4085,6 +4695,13 @@
     "type": "Annotation",
     "id": 518666016,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-19T17:36:31.484Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100834888,
         "value": "* Roof structure type: House",
@@ -4132,6 +4749,13 @@
     "id": 518666076,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T17:38:36.508Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834891,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4169,6 +4793,13 @@
     "type": "Annotation",
     "id": 518666091,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T17:39:17.709Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100834894,
         "value": "* Ruined or intact?: Intact",
@@ -4208,6 +4839,13 @@
     "id": 518666129,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T17:40:40.734Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834897,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4245,6 +4883,13 @@
     "type": "Annotation",
     "id": 518666160,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-19T17:41:51.877Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100834901,
         "value": "* Roof structure type: House",
@@ -4292,6 +4937,13 @@
     "id": 518666217,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T17:44:17.972Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834904,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4329,6 +4981,13 @@
     "type": "Annotation",
     "id": 518666239,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T17:45:07.489Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100834907,
         "value": "* Ruined or intact?: Intact",
@@ -4368,6 +5027,13 @@
     "id": 518666271,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T17:46:22.689Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834910,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4405,6 +5071,13 @@
     "type": "Annotation",
     "id": 518666286,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-19T17:47:23.975Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100834914,
         "value": "* Roof structure type: House",
@@ -4452,6 +5125,13 @@
     "id": 518666326,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T17:49:48.270Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834917,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4489,6 +5169,13 @@
     "type": "Annotation",
     "id": 518666344,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T17:50:47.806Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100834920,
         "value": "* Ruined or intact?: Intact",
@@ -4528,6 +5215,13 @@
     "id": 518666358,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T17:51:39.766Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834923,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4565,6 +5259,13 @@
     "type": "Annotation",
     "id": 518666552,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-19T18:08:39.408Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100834927,
         "value": "* Roof structure type: House",
@@ -4612,6 +5313,13 @@
     "id": 518666722,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T18:12:24.330Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834930,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4649,6 +5357,13 @@
     "type": "Annotation",
     "id": 518666782,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-19T18:13:57.990Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100834934,
         "value": "* Roof structure type: House",
@@ -4696,6 +5411,13 @@
     "id": 518666877,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Chimney",
+        "created": "2020-09-19T18:16:38.805Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834936,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Chimney front",
         "purpose": "tagging",
@@ -4733,6 +5455,13 @@
     "type": "Annotation",
     "id": 518666916,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Chimney",
+        "created": "2020-09-19T18:17:26.106Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100834939,
         "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Chimney side",
@@ -4772,6 +5501,13 @@
     "id": 518667143,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T18:23:40.922Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834943,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4809,6 +5545,13 @@
     "type": "Annotation",
     "id": 518667202,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T18:25:06.846Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100834946,
         "value": "* Ruined or intact?: Intact",
@@ -4848,6 +5591,13 @@
     "id": 518667239,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T18:26:06.002Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834949,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4885,6 +5635,13 @@
     "type": "Annotation",
     "id": 518667273,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-19T18:27:17.276Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100834953,
         "value": "* Roof structure type: House",
@@ -4932,6 +5689,13 @@
     "id": 518667440,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T18:31:56.032Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834959,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -4970,6 +5734,13 @@
     "id": 518667474,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T18:32:41.702Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834962,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5007,6 +5778,13 @@
     "type": "Annotation",
     "id": 518667516,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-19T18:33:45.081Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100834966,
         "value": "* Roof structure type: House",
@@ -5054,6 +5832,13 @@
     "id": 518667642,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T18:36:28.328Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834969,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5091,6 +5876,13 @@
     "type": "Annotation",
     "id": 518667686,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T18:37:27.702Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100834972,
         "value": "* Ruined or intact?: Intact",
@@ -5130,6 +5922,13 @@
     "id": 518667741,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T18:38:17.311Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834975,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5167,6 +5966,13 @@
     "type": "Annotation",
     "id": 518667822,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-19T18:39:53.145Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100834979,
         "value": "* Roof structure type: House",
@@ -5214,6 +6020,13 @@
     "id": 518667987,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T18:43:53.582Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834982,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5251,6 +6064,13 @@
     "type": "Annotation",
     "id": 518668014,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T18:44:53.544Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100834985,
         "value": "* Ruined or intact?: Intact",
@@ -5290,6 +6110,13 @@
     "id": 518668042,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T18:45:57.351Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834988,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5327,6 +6154,13 @@
     "type": "Annotation",
     "id": 518668080,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-19T18:47:24.708Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100834992,
         "value": "* Roof structure type: House",
@@ -5374,6 +6208,13 @@
     "id": 518669004,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T19:15:30.188Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100834996,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5411,6 +6252,13 @@
     "type": "Annotation",
     "id": 518669033,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T19:16:26.561Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100835004,
         "value": "* Ruined or intact?: Intact",
@@ -5450,6 +6298,13 @@
     "id": 518669084,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T19:17:43.091Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100835009,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5487,6 +6342,13 @@
     "type": "Annotation",
     "id": 518669121,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-19T19:18:54.590Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100835016,
         "value": "* Roof structure type: House",
@@ -5534,6 +6396,13 @@
     "id": 518669210,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T19:21:19.783Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100835019,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5571,6 +6440,13 @@
     "type": "Annotation",
     "id": 518669255,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-19T19:22:46.457Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100835023,
         "value": "* Roof structure type: House",
@@ -5618,6 +6494,13 @@
     "id": 518669313,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T19:25:18.850Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100835026,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5655,6 +6538,13 @@
     "type": "Annotation",
     "id": 518669342,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T19:26:36.478Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100835035,
         "value": "* Ruined or intact?: Intact",
@@ -5694,6 +6584,13 @@
     "id": 518669375,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T19:27:54.341Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100835042,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5731,6 +6628,13 @@
     "type": "Annotation",
     "id": 518669418,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-19T19:28:57.302Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100835055,
         "value": "* Roof structure type: House",
@@ -5778,6 +6682,13 @@
     "id": 518669525,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T19:31:34.998Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100835070,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5816,6 +6727,13 @@
     "id": 518669575,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T19:32:43.040Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100835082,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5853,6 +6771,13 @@
     "type": "Annotation",
     "id": 518669633,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-19T19:33:59.881Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100835092,
         "value": "* Roof structure type: House",
@@ -5900,6 +6825,13 @@
     "id": 518669746,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T19:37:06.391Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100835095,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -5937,6 +6869,13 @@
     "type": "Annotation",
     "id": 518669784,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T19:38:20.161Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100835098,
         "value": "* Ruined or intact?: Intact",
@@ -5976,6 +6915,13 @@
     "id": 518669925,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T19:42:13.934Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100835101,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6013,6 +6959,13 @@
     "type": "Annotation",
     "id": 518669979,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-19T19:43:47.365Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100835105,
         "value": "* Roof structure type: House",
@@ -6060,6 +7013,13 @@
     "id": 518670015,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T19:45:39.836Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100835108,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6097,6 +7057,13 @@
     "type": "Annotation",
     "id": 518670040,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T19:46:36.561Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100835111,
         "value": "* Ruined or intact?: Intact",
@@ -6136,6 +7103,13 @@
     "id": 518670060,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T19:47:35.098Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100835114,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6173,6 +7147,13 @@
     "type": "Annotation",
     "id": 518670078,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-19T19:48:55.412Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100835118,
         "value": "* Roof structure type: House",
@@ -6220,6 +7201,13 @@
     "id": 518670160,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Gallows and pillories",
+        "created": "2020-09-19T19:53:25.780Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100835122,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6265,6 +7253,13 @@
     "type": "Annotation",
     "id": 518670192,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Gallows and pillories",
+        "created": "2020-09-19T19:55:24.288Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100835126,
         "value": "* Ruined or intact?: Intact",
@@ -6312,6 +7307,13 @@
     "id": 518670224,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Gallows and pillories",
+        "created": "2020-09-19T19:56:35.477Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100835130,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6357,6 +7359,13 @@
     "type": "Annotation",
     "id": 518670263,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Gallows and pillories",
+        "created": "2020-09-19T19:58:15.482Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100835135,
         "value": "* Ruined or intact?: Intact",
@@ -6404,6 +7413,13 @@
     "id": 518670311,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Gallows and pillories",
+        "created": "2020-09-19T20:00:40.417Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100835139,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6449,6 +7465,13 @@
     "type": "Annotation",
     "id": 518670334,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Gallows and pillories",
+        "created": "2020-09-19T20:01:55.664Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100835143,
         "value": "* Ruined or intact?: Intact",
@@ -6496,6 +7519,13 @@
     "id": 518670426,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T20:08:19.432Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100835149,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6533,6 +7563,13 @@
     "type": "Annotation",
     "id": 518670443,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T20:09:37.600Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100835152,
         "value": "* Ruined or intact?: Intact",
@@ -6572,6 +7609,13 @@
     "id": 518670452,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T20:10:17.344Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100835155,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6609,6 +7653,13 @@
     "type": "Annotation",
     "id": 518670473,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-19T20:11:26.638Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100835159,
         "value": "* Roof structure type: House",
@@ -6656,6 +7707,13 @@
     "id": 518670523,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T20:14:02.876Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100835162,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6694,6 +7752,13 @@
     "id": 518670557,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-19T20:15:38.450Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100835165,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -6731,6 +7796,13 @@
     "type": "Annotation",
     "id": 518670583,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-19T20:16:55.358Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100835169,
         "value": "* Roof structure type: House",
@@ -6777,6 +7849,13 @@
     "type": "Annotation",
     "id": 518670618,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Interior building (not a house)",
+        "created": "2020-09-19T20:19:13.742Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100835175,
         "value": "* Ruined or intact?: Intact",
@@ -6840,6 +7919,13 @@
     "id": 518670647,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-19T20:21:16.162Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100835186,
         "value": "* Roof structure type: Interior castle building",
         "purpose": "tagging",
@@ -6886,6 +7972,13 @@
     "id": 518670664,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-19T20:22:12.854Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100835190,
         "value": "* Roof structure type: Interior castle building",
         "purpose": "tagging",
@@ -6931,6 +8024,13 @@
     "type": "Annotation",
     "id": 518670697,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Interior building (not a house)",
+        "created": "2020-09-19T20:23:56.368Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100835196,
         "value": "* Ruined or intact?: Intact",
@@ -6994,6 +8094,13 @@
     "id": 518670728,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Chimney",
+        "created": "2020-09-19T20:25:23.224Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100835199,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -7031,6 +8138,13 @@
     "type": "Annotation",
     "id": 518670778,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Interior building (not a house)",
+        "created": "2020-09-19T20:29:32.635Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100835205,
         "value": "* Ruined or intact?: Intact",
@@ -7094,6 +8208,13 @@
     "id": 518670790,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-19T20:30:31.505Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100835209,
         "value": "* Roof structure type: Interior castle building",
         "purpose": "tagging",
@@ -7139,6 +8260,13 @@
     "type": "Annotation",
     "id": 518670811,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-19T20:32:28.164Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100835213,
         "value": "* Roof structure type: Interior castle building",
@@ -7186,6 +8314,13 @@
     "id": 518670819,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-19T20:33:34.175Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100835217,
         "value": "* Roof structure type: Interior castle building",
         "purpose": "tagging",
@@ -7232,6 +8367,13 @@
     "id": 518670884,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Chimney",
+        "created": "2020-09-19T20:37:45.994Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100835220,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -7269,6 +8411,13 @@
     "type": "Annotation",
     "id": 518670994,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Interior building (not a house)",
+        "created": "2020-09-19T20:44:34.009Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100835243,
         "value": "* Ruined or intact?: Intact",
@@ -7332,6 +8481,13 @@
     "id": 518671065,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Chimney",
+        "created": "2020-09-19T20:49:05.807Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100835250,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -7369,6 +8525,13 @@
     "type": "Annotation",
     "id": 518671095,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Chimney",
+        "created": "2020-09-19T20:50:50.520Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100835253,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -7408,6 +8571,13 @@
     "id": 519652030,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T20:06:08.723Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100912808,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -7445,6 +8615,13 @@
     "type": "Annotation",
     "id": 519652041,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T20:07:32.627Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100912815,
         "value": "* Ruined or intact?: Intact",
@@ -7484,6 +8661,13 @@
     "id": 519652051,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T20:08:36.623Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100912820,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -7521,6 +8705,13 @@
     "type": "Annotation",
     "id": 519652065,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-21T20:09:36.525Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100912830,
         "value": "* Roof structure type: House",
@@ -7568,6 +8759,13 @@
     "id": 519652100,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T20:12:53.532Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100912838,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -7605,6 +8803,13 @@
     "type": "Annotation",
     "id": 519652110,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T20:13:53.468Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100912845,
         "value": "* Ruined or intact?: Intact",
@@ -7644,6 +8849,13 @@
     "id": 519652124,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T20:15:24.403Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100912851,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -7681,6 +8893,13 @@
     "type": "Annotation",
     "id": 519652155,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-21T20:16:53.946Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 100912861,
         "value": "* Roof structure type: House",
@@ -7728,6 +8947,13 @@
     "id": 519652183,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T20:19:26.714Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 100912876,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -7765,6 +8991,13 @@
     "type": "Annotation",
     "id": 520079806,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T22:51:35.152Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 101143665,
         "value": "* Ruined or intact?: Intact",
@@ -7804,6 +9037,13 @@
     "id": 520079819,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T22:53:42.766Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 101144626,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -7841,6 +9081,13 @@
     "type": "Annotation",
     "id": 520080788,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-21T22:59:13.656Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 101144649,
         "value": "* Roof structure type: House",
@@ -7888,6 +9135,13 @@
     "id": 520080807,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Chimney",
+        "created": "2020-09-21T23:01:19.670Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 101144655,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -7925,6 +9179,13 @@
     "type": "Annotation",
     "id": 520080814,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Chimney",
+        "created": "2020-09-21T23:02:09.674Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 101144660,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -7964,6 +9225,13 @@
     "id": 520080828,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T23:03:53.221Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 101144680,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -8002,6 +9270,13 @@
     "id": 520080853,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T23:06:05.941Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 101144693,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -8039,6 +9314,13 @@
     "type": "Annotation",
     "id": 520081258,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-21T23:07:07.346Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 101144704,
         "value": "* Roof structure type: House",
@@ -8086,6 +9368,13 @@
     "id": 520083097,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-21T23:08:08.157Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 101144713,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -8132,6 +9421,13 @@
     "id": 520083961,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T23:09:32.396Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 101144723,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -8169,6 +9465,13 @@
     "type": "Annotation",
     "id": 520083981,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T23:11:23.205Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 101144728,
         "value": "* Ruined or intact?: Intact",
@@ -8208,6 +9511,13 @@
     "id": 520093369,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T23:12:29.055Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 101154121,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -8245,6 +9555,13 @@
     "type": "Annotation",
     "id": 520093381,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-21T23:13:42.716Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 101154131,
         "value": "* Roof structure type: House",
@@ -8292,6 +9609,13 @@
     "id": 520093399,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Chimney",
+        "created": "2020-09-21T23:15:22.769Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 101154136,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -8329,6 +9653,13 @@
     "type": "Annotation",
     "id": 520093402,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Chimney",
+        "created": "2020-09-21T23:16:06.525Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 101158871,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -8368,6 +9699,13 @@
     "id": 520098146,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Chimney",
+        "created": "2020-09-21T23:16:55.105Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 101158874,
         "value": "* Partially occluded or Complete?: Complete",
         "purpose": "tagging",
@@ -8405,6 +9743,13 @@
     "type": "Annotation",
     "id": 520098154,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Chimney",
+        "created": "2020-09-21T23:17:40.687Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 101158877,
         "value": "* Partially occluded or Complete?: Complete",
@@ -8444,6 +9789,13 @@
     "id": 520161005,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T23:27:46.386Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 101200916,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -8481,6 +9833,13 @@
     "type": "Annotation",
     "id": 520175377,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-21T23:29:01.830Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 101205226,
         "value": "* Ruined or intact?: Intact",
@@ -8520,6 +9879,13 @@
     "id": 525648388,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Secondary Site",
+        "created": "2020-09-25T03:00:33.452Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 101318410,
         "value": "* Secondary Site Type: Background fortress - Portugal",
         "purpose": "tagging",
@@ -8540,7 +9906,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 527812491,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Path",
+        "created": "2020-09-27T20:38:31.775Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      }
+    ],
     "target": {
       "source": "mogadouro1.jpg",
       "selector": {
@@ -8554,6 +9928,13 @@
     "type": "Annotation",
     "id": 527812515,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Container",
+        "created": "2020-09-27T20:44:05.558Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102502065,
         "value": "* Number of rocks or trees in the container?: 7",
@@ -8585,6 +9966,13 @@
     "id": 527812551,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Container",
+        "created": "2020-09-27T20:53:09.277Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102502085,
         "value": "* Number of rocks or trees in the container?: 16",
         "purpose": "tagging",
@@ -8614,6 +10002,13 @@
     "type": "Annotation",
     "id": 527812593,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-27T21:03:12.707Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102502089,
         "value": "* Roof structure type: House",
@@ -8661,6 +10056,13 @@
     "id": 527812597,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-27T21:04:18.229Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102502092,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -8699,6 +10101,13 @@
     "id": 527812603,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-27T21:06:07.795Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102502095,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -8736,6 +10145,13 @@
     "type": "Annotation",
     "id": 527812610,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-27T21:07:36.359Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102502099,
         "value": "* Roof structure type: House",
@@ -8783,6 +10199,13 @@
     "id": 527812615,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-27T21:08:43.227Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102502102,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -8820,6 +10243,13 @@
     "type": "Annotation",
     "id": 527812618,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-27T21:09:48.180Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102502105,
         "value": "* Ruined or intact?: Intact",
@@ -8859,6 +10289,13 @@
     "id": 527812632,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-27T21:14:24.366Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102502111,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -8896,6 +10333,13 @@
     "type": "Annotation",
     "id": 527812636,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-27T21:15:04.936Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102502114,
         "value": "* Ruined or intact?: Intact",
@@ -8935,6 +10379,13 @@
     "id": 527812639,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-27T21:16:11.926Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102502120,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -8971,7 +10422,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 527812669,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-27T21:18:06.962Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      }
+    ],
     "target": {
       "source": "mogadouro1.jpg",
       "selector": {
@@ -8985,6 +10444,13 @@
     "type": "Annotation",
     "id": 527812690,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-27T21:19:37.631Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102502131,
         "value": "* Ruined or intact?: Intact",
@@ -9024,6 +10490,13 @@
     "id": 527812701,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-27T21:20:25.591Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102502135,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -9061,6 +10534,13 @@
     "type": "Annotation",
     "id": 527812714,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-27T21:21:17.379Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102502142,
         "value": "* Roof structure type: House",
@@ -9108,6 +10588,13 @@
     "id": 527812723,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-27T21:22:22.117Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102502148,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -9145,6 +10632,13 @@
     "type": "Annotation",
     "id": 527812730,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-27T21:25:21.549Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102502151,
         "value": "* Ruined or intact?: Intact",
@@ -9184,6 +10678,13 @@
     "id": 527812735,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-27T21:27:07.772Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102502156,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -9222,6 +10723,13 @@
     "id": 527812752,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-27T21:28:33.063Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102502161,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -9259,6 +10767,13 @@
     "type": "Annotation",
     "id": 527812758,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-27T21:30:15.377Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102502165,
         "value": "* Roof structure type: House",
@@ -9306,6 +10821,13 @@
     "id": 527812767,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-27T21:33:02.164Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102502168,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -9344,6 +10866,13 @@
     "id": 527812776,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-27T21:34:33.771Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102502171,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -9381,6 +10910,13 @@
     "type": "Annotation",
     "id": 527812797,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-27T21:36:42.284Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102502180,
         "value": "* Roof structure type: House",
@@ -9428,6 +10964,13 @@
     "id": 527812912,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-27T21:44:38.545Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102502202,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -9465,6 +11008,13 @@
     "type": "Annotation",
     "id": 527812926,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-27T21:46:04.759Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102502205,
         "value": "* Ruined or intact?: Intact",
@@ -9504,6 +11054,13 @@
     "id": 527812941,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-27T21:47:35.306Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102502208,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -9541,6 +11098,13 @@
     "type": "Annotation",
     "id": 527812960,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-27T21:49:01.622Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102502212,
         "value": "* Roof structure type: House",
@@ -9588,6 +11152,13 @@
     "id": 527812970,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-27T21:51:08.868Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102502215,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -9626,6 +11197,13 @@
     "id": 527812975,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-27T21:52:22.729Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102502218,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -9662,7 +11240,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 527812986,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-27T21:55:12.032Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      }
+    ],
     "target": {
       "source": "mogadouro1.jpg",
       "selector": {
@@ -9676,6 +11262,13 @@
     "type": "Annotation",
     "id": 527812992,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-27T21:56:40.744Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102502222,
         "value": "* Roof structure type: House",
@@ -9723,6 +11316,13 @@
     "id": 528880068,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-28T22:44:37.970Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570657,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -9760,6 +11360,13 @@
     "type": "Annotation",
     "id": 528880092,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-28T22:45:34.000Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570660,
         "value": "* Ruined or intact?: Intact",
@@ -9799,6 +11406,13 @@
     "id": 528880095,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-28T22:46:29.475Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570663,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -9836,6 +11450,13 @@
     "type": "Annotation",
     "id": 528880113,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-28T22:47:37.754Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570667,
         "value": "* Roof structure type: House",
@@ -9883,6 +11504,13 @@
     "id": 528880188,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-28T22:51:05.510Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570673,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -9921,6 +11549,13 @@
     "id": 528880191,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-28T22:51:52.149Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570676,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -9958,6 +11593,13 @@
     "type": "Annotation",
     "id": 528880193,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-28T22:53:21.089Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570680,
         "value": "* Roof structure type: House",
@@ -10005,6 +11647,13 @@
     "id": 528880201,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-28T22:54:51.101Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570683,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -10042,6 +11691,13 @@
     "type": "Annotation",
     "id": 528880211,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-28T22:55:50.494Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570686,
         "value": "* Ruined or intact?: Intact",
@@ -10081,6 +11737,13 @@
     "id": 528880222,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-28T22:56:54.014Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570689,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -10118,6 +11781,13 @@
     "type": "Annotation",
     "id": 528880230,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-28T22:57:40.946Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570693,
         "value": "* Roof structure type: House",
@@ -10165,6 +11835,13 @@
     "id": 528880250,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-28T22:59:28.514Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570696,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -10202,6 +11879,13 @@
     "type": "Annotation",
     "id": 528880263,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-28T23:00:33.516Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570699,
         "value": "* Ruined or intact?: Intact",
@@ -10241,6 +11925,13 @@
     "id": 528880273,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-28T23:01:29.081Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570702,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -10278,6 +11969,13 @@
     "type": "Annotation",
     "id": 528880286,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-28T23:02:25.814Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570706,
         "value": "* Roof structure type: House",
@@ -10325,6 +12023,13 @@
     "id": 528880311,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-28T23:04:55.271Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570709,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -10362,6 +12067,13 @@
     "type": "Annotation",
     "id": 528880329,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-28T23:06:34.234Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570712,
         "value": "* Ruined or intact?: Intact",
@@ -10401,6 +12113,13 @@
     "id": 528880339,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-28T23:07:41.069Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570715,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -10438,6 +12157,13 @@
     "type": "Annotation",
     "id": 528880350,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-28T23:09:05.397Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570719,
         "value": "* Roof structure type: House",
@@ -10485,6 +12211,13 @@
     "id": 528880356,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-28T23:12:17.525Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570722,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -10522,6 +12255,13 @@
     "type": "Annotation",
     "id": 528880357,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-28T23:14:30.835Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570725,
         "value": "* Ruined or intact?: Intact",
@@ -10561,6 +12301,13 @@
     "id": 528880358,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-28T23:15:41.604Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570728,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -10598,6 +12345,13 @@
     "type": "Annotation",
     "id": 528880360,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-28T23:16:45.781Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570732,
         "value": "* Roof structure type: House",
@@ -10645,6 +12399,13 @@
     "id": 528880361,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-28T23:19:25.913Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570735,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -10682,6 +12443,13 @@
     "type": "Annotation",
     "id": 528880362,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-28T23:20:18.300Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570738,
         "value": "* Ruined or intact?: Intact",
@@ -10721,6 +12489,13 @@
     "id": 528880364,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-28T23:22:00.956Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570741,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -10758,6 +12533,13 @@
     "type": "Annotation",
     "id": 528880365,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-28T23:23:02.703Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570746,
         "value": "* Roof structure type: House",
@@ -10805,6 +12587,13 @@
     "id": 528880367,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-28T23:25:48.341Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570752,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -10842,6 +12631,13 @@
     "type": "Annotation",
     "id": 528880371,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-28T23:28:35.164Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570760,
         "value": "* Ruined or intact?: Intact",
@@ -10881,6 +12677,13 @@
     "id": 528880372,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-28T23:29:53.095Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570763,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -10919,6 +12722,13 @@
     "id": 528880373,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-28T23:30:54.348Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570766,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -10956,6 +12766,13 @@
     "type": "Annotation",
     "id": 528880374,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-28T23:31:56.017Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570770,
         "value": "* Roof structure type: House",
@@ -11003,6 +12820,13 @@
     "id": 528880403,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-28T23:43:55.121Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570801,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -11040,6 +12864,13 @@
     "type": "Annotation",
     "id": 528880406,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-28T23:45:16.277Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570804,
         "value": "* Ruined or intact?: Intact",
@@ -11079,6 +12910,13 @@
     "id": 528880407,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-28T23:46:50.804Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570807,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -11116,6 +12954,13 @@
     "type": "Annotation",
     "id": 528880408,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-28T23:47:44.775Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570811,
         "value": "* Roof structure type: House",
@@ -11163,6 +13008,13 @@
     "id": 528880410,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Chimney",
+        "created": "2020-09-28T23:49:01.661Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570814,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -11200,6 +13052,13 @@
     "type": "Annotation",
     "id": 528880411,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Chimney",
+        "created": "2020-09-28T23:49:56.550Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570817,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -11239,6 +13098,13 @@
     "id": 528880479,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-28T23:56:01.124Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570830,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -11276,6 +13142,13 @@
     "type": "Annotation",
     "id": 528880488,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-28T23:57:07.634Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570833,
         "value": "* Ruined or intact?: Intact",
@@ -11315,6 +13188,13 @@
     "id": 528880491,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-28T23:58:50.132Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570836,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -11352,6 +13232,13 @@
     "type": "Annotation",
     "id": 528880494,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-28T23:59:42.209Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570841,
         "value": "* Roof structure type: House",
@@ -11399,6 +13286,13 @@
     "id": 528880509,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-29T00:02:29.360Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570847,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -11436,6 +13330,13 @@
     "type": "Annotation",
     "id": 528880514,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-29T00:03:59.690Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570851,
         "value": "* Ruined or intact?: Intact",
@@ -11475,6 +13376,13 @@
     "id": 528880521,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-29T00:05:01.358Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570855,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -11512,6 +13420,13 @@
     "type": "Annotation",
     "id": 528880527,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-29T00:06:02.495Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570863,
         "value": "* Roof structure type: House",
@@ -11559,6 +13474,13 @@
     "id": 528880534,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-29T00:08:03.526Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570871,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -11596,6 +13518,13 @@
     "type": "Annotation",
     "id": 528880536,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-29T00:09:27.787Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570875,
         "value": "* Ruined or intact?: Intact",
@@ -11635,6 +13564,13 @@
     "id": 528880540,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-29T00:10:53.947Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570879,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -11672,6 +13608,13 @@
     "type": "Annotation",
     "id": 528880541,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-29T00:12:08.364Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570884,
         "value": "* Roof structure type: House",
@@ -11719,6 +13662,13 @@
     "id": 528880544,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-29T00:14:20.869Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570894,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -11756,6 +13706,13 @@
     "type": "Annotation",
     "id": 528880552,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-29T00:23:13.255Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570897,
         "value": "* Ruined or intact?: Intact",
@@ -11795,6 +13752,13 @@
     "id": 528880554,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-29T00:24:52.448Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570900,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -11832,6 +13796,13 @@
     "type": "Annotation",
     "id": 528880555,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-29T00:25:44.172Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570904,
         "value": "* Roof structure type: House",
@@ -11879,6 +13850,13 @@
     "id": 528880556,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-29T00:28:16.588Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570907,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -11916,6 +13894,13 @@
     "type": "Annotation",
     "id": 528880557,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-29T00:29:24.885Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570910,
         "value": "* Ruined or intact?: Intact",
@@ -11955,6 +13940,13 @@
     "id": 528880558,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-29T00:31:08.597Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570913,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -11992,6 +13984,13 @@
     "type": "Annotation",
     "id": 528880559,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-29T00:32:04.608Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570917,
         "value": "* Roof structure type: House",
@@ -12039,6 +14038,13 @@
     "id": 528880561,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-29T00:33:50.116Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570922,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -12076,6 +14082,13 @@
     "type": "Annotation",
     "id": 528880569,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-29T00:35:58.113Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570926,
         "value": "* Ruined or intact?: Intact",
@@ -12115,6 +14128,13 @@
     "id": 528880574,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-29T00:36:55.746Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570931,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -12152,6 +14172,13 @@
     "type": "Annotation",
     "id": 528880579,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-29T00:38:06.140Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570938,
         "value": "* Roof structure type: House",
@@ -12199,6 +14226,13 @@
     "id": 528880593,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-29T00:40:37.668Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570945,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -12236,6 +14270,13 @@
     "type": "Annotation",
     "id": 528880596,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-29T00:41:39.013Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570949,
         "value": "* Roof structure type: House",
@@ -12283,6 +14324,13 @@
     "id": 528880603,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Chimney",
+        "created": "2020-09-29T00:43:31.769Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102570954,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -12320,6 +14368,13 @@
     "type": "Annotation",
     "id": 528880604,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Chimney",
+        "created": "2020-09-29T00:44:45.940Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102570957,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -12359,6 +14414,13 @@
     "id": 529638430,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T04:27:57.741Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102709555,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -12396,6 +14458,13 @@
     "type": "Annotation",
     "id": 529638516,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T04:29:41.105Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102709558,
         "value": "* Ruined or intact?: Intact",
@@ -12435,6 +14504,13 @@
     "id": 529638547,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T04:30:59.624Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102709561,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -12472,6 +14548,13 @@
     "type": "Annotation",
     "id": 529638590,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-30T04:31:59.084Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102709565,
         "value": "* Roof structure type: House",
@@ -12519,6 +14602,13 @@
     "id": 529638616,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T04:33:51.348Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102709568,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -12557,6 +14647,13 @@
     "id": 529638650,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T04:35:09.384Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102709571,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -12594,6 +14691,13 @@
     "type": "Annotation",
     "id": 529638669,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-30T04:36:17.328Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102709575,
         "value": "* Roof structure type: House",
@@ -12641,6 +14745,13 @@
     "id": 529638747,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T04:38:02.038Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102709578,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -12678,6 +14789,13 @@
     "type": "Annotation",
     "id": 529638909,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T04:42:19.421Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102709581,
         "value": "* Ruined or intact?: Intact",
@@ -12717,6 +14835,13 @@
     "id": 529638941,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T04:43:33.699Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102709584,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -12754,6 +14879,13 @@
     "type": "Annotation",
     "id": 529638958,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-30T04:44:49.351Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102709588,
         "value": "* Roof structure type: House",
@@ -12801,6 +14933,13 @@
     "id": 529638978,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T04:46:20.024Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102709591,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -12838,6 +14977,13 @@
     "type": "Annotation",
     "id": 529639001,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T04:48:25.500Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102709594,
         "value": "* Ruined or intact?: Intact",
@@ -12877,6 +15023,13 @@
     "id": 529639034,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T04:50:13.891Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102709597,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -12914,6 +15067,13 @@
     "type": "Annotation",
     "id": 529639048,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-30T04:51:16.122Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102709601,
         "value": "* Roof structure type: House",
@@ -12961,6 +15121,13 @@
     "id": 529639114,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T04:54:05.175Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102709604,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -12998,6 +15165,13 @@
     "type": "Annotation",
     "id": 529639128,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T04:55:12.703Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102709607,
         "value": "* Ruined or intact?: Intact",
@@ -13037,6 +15211,13 @@
     "id": 529639156,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T04:56:12.354Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102709610,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -13074,6 +15255,13 @@
     "type": "Annotation",
     "id": 529639178,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-30T04:57:28.160Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102709614,
         "value": "* Roof structure type: House",
@@ -13121,6 +15309,13 @@
     "id": 529639258,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T05:02:04.781Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102709617,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -13158,6 +15353,13 @@
     "type": "Annotation",
     "id": 529639267,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T05:03:26.535Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102709620,
         "value": "* Ruined or intact?: Intact",
@@ -13197,6 +15399,13 @@
     "id": 529639293,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T05:04:35.563Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102709623,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -13234,6 +15443,13 @@
     "type": "Annotation",
     "id": 529639351,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-30T05:05:56.686Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102709627,
         "value": "* Roof structure type: House",
@@ -13281,6 +15497,13 @@
     "id": 529639424,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T05:08:12.778Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102709630,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -13319,6 +15542,13 @@
     "id": 529639465,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T05:09:54.285Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102709633,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -13356,6 +15586,13 @@
     "type": "Annotation",
     "id": 529639492,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-30T05:10:53.632Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102709637,
         "value": "* Roof structure type: House",
@@ -13403,6 +15640,13 @@
     "id": 529639535,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Chimney",
+        "created": "2020-09-30T05:12:48.293Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102709640,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -13440,6 +15684,13 @@
     "type": "Annotation",
     "id": 529639567,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Chimney",
+        "created": "2020-09-30T05:13:42.903Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102709643,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -13479,6 +15730,13 @@
     "id": 529639624,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T05:15:47.509Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102709646,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -13516,6 +15774,13 @@
     "type": "Annotation",
     "id": 529639657,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T05:17:30.889Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102709649,
         "value": "* Ruined or intact?: Intact",
@@ -13555,6 +15820,13 @@
     "id": 529639715,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T05:18:55.143Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102709652,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -13592,6 +15864,13 @@
     "type": "Annotation",
     "id": 529639774,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-30T05:20:23.204Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102709656,
         "value": "* Roof structure type: House",
@@ -13639,6 +15918,13 @@
     "id": 529639865,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T05:22:40.602Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102709659,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -13676,6 +15962,13 @@
     "type": "Annotation",
     "id": 529639907,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T05:23:56.451Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102709662,
         "value": "* Ruined or intact?: Intact",
@@ -13715,6 +16008,13 @@
     "id": 529639969,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-30T05:25:05.968Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102709665,
         "value": "* Roof Style: Crosshatched (Tile)",
         "purpose": "tagging",
@@ -13752,6 +16052,13 @@
     "type": "Annotation",
     "id": 529640066,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T05:27:08.561Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102709668,
         "value": "* Ruined or intact?: Intact",
@@ -13791,6 +16098,13 @@
     "id": 529640112,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T05:28:24.073Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102709671,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -13828,6 +16142,13 @@
     "type": "Annotation",
     "id": 529640162,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-30T05:29:39.456Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102709675,
         "value": "* Roof structure type: House",
@@ -13875,6 +16196,13 @@
     "id": 529640237,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T05:31:38.659Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102709678,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -13912,6 +16240,13 @@
     "type": "Annotation",
     "id": 529640297,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T05:33:10.370Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102709681,
         "value": "* Ruined or intact?: Intact",
@@ -13951,6 +16286,13 @@
     "id": 529640359,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T05:34:21.230Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102709684,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -13988,6 +16330,13 @@
     "type": "Annotation",
     "id": 529640407,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-30T05:35:27.262Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102709688,
         "value": "* Roof structure type: House",
@@ -14035,6 +16384,13 @@
     "id": 529640469,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T05:37:35.733Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102709691,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -14073,6 +16429,13 @@
     "id": 529640491,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "House part",
+        "created": "2020-09-30T05:38:48.205Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102709694,
         "value": "* Ruined or intact?: Intact",
         "purpose": "tagging",
@@ -14110,6 +16473,13 @@
     "type": "Annotation",
     "id": 529640531,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-30T05:39:55.347Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102709698,
         "value": "* Roof structure type: House",
@@ -14157,6 +16527,13 @@
     "id": 529640571,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-09-30T05:41:06.477Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102709702,
         "value": "* Roof structure type: House",
         "purpose": "tagging",
@@ -14203,6 +16580,13 @@
     "id": 529640610,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "(Fortification) Chimney",
+        "created": "2020-09-30T05:42:35.945Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102709705,
         "value": "* Partially occluded or Complete?: Partially Occluded",
         "purpose": "tagging",
@@ -14240,6 +16624,13 @@
     "type": "Annotation",
     "id": 529640629,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Chimney",
+        "created": "2020-09-30T05:43:25.614Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102709708,
         "value": "* Partially occluded or Complete?: Partially Occluded",
@@ -14279,6 +16670,13 @@
     "id": 529961983,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T05:24:20.718Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102732870,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -14308,6 +16706,13 @@
     "type": "Annotation",
     "id": 529962056,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T05:28:58.717Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102732879,
         "value": "* Landform type: Hill",
@@ -14339,6 +16744,13 @@
     "id": 529962123,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T05:31:02.916Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102732897,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -14368,6 +16780,13 @@
     "type": "Annotation",
     "id": 529962258,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T05:37:13.830Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102732907,
         "value": "* Landform type: Hill",
@@ -14399,6 +16818,13 @@
     "id": 529962399,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T05:43:37.724Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102732916,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -14429,6 +16855,13 @@
     "id": 529962495,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Secondary Site",
+        "created": "2020-10-01T05:49:25.735Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102732922,
         "value": "* Secondary Site Type: Background fortress - Portugal",
         "purpose": "tagging",
@@ -14450,6 +16883,13 @@
     "type": "Annotation",
     "id": 529962526,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Secondary Site",
+        "created": "2020-10-01T05:50:49.931Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102732924,
         "value": "* Secondary Site Type: Background fortress - Portugal",
@@ -14473,6 +16913,13 @@
     "id": 529962540,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Secondary Site",
+        "created": "2020-10-01T05:51:42.083Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102732926,
         "value": "* Secondary Site Type: Background fortress - Portugal",
         "purpose": "tagging",
@@ -14494,6 +16941,13 @@
     "type": "Annotation",
     "id": 529962554,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Secondary Site",
+        "created": "2020-10-01T05:52:27.123Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102732925,
         "value": "* Secondary Site Type: Background fortress - Portugal",
@@ -14517,6 +16971,13 @@
     "id": 529962572,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Rocks",
+        "created": "2020-10-01T05:54:04.260Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102732929,
         "value": "* Singular or sample from a group?: Single",
         "purpose": "tagging",
@@ -14538,6 +16999,13 @@
     "type": "Annotation",
     "id": 529962606,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T05:56:02.849Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102732934,
         "value": "* Landform type: Hill",
@@ -14569,6 +17037,13 @@
     "id": 529962731,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T06:03:17.271Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102732940,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -14598,6 +17073,13 @@
     "type": "Annotation",
     "id": 529962844,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T06:07:23.264Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102732943,
         "value": "* Landform type: Hill",
@@ -14629,6 +17111,13 @@
     "id": 530249800,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T17:34:53.908Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102755281,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -14657,7 +17146,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 530249849,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Path",
+        "created": "2020-10-01T17:38:16.387Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      }
+    ],
     "target": {
       "source": "mogadouro1.jpg",
       "selector": {
@@ -14671,6 +17168,13 @@
     "type": "Annotation",
     "id": 530249909,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T17:40:27.482Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102755324,
         "value": "* Landform type: Hill",
@@ -14702,6 +17206,13 @@
     "id": 530250100,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T17:51:11.754Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102755385,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -14731,6 +17242,13 @@
     "type": "Annotation",
     "id": 530250125,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T17:54:25.188Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102755411,
         "value": "* Landform type: Hill",
@@ -14762,6 +17280,13 @@
     "id": 530250154,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T17:57:26.879Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102755434,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -14791,6 +17316,13 @@
     "type": "Annotation",
     "id": 530250242,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T18:02:34.659Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102755453,
         "value": "* Landform type: Hill",
@@ -14822,6 +17354,13 @@
     "id": 530250253,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T18:04:07.863Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102755533,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -14851,6 +17390,13 @@
     "type": "Annotation",
     "id": 530250682,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T18:11:22.239Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102755567,
         "value": "* Landform type: Hill",
@@ -14882,6 +17428,13 @@
     "id": 530250695,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T18:13:57.778Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102755574,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -14911,6 +17464,13 @@
     "type": "Annotation",
     "id": 530250700,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T18:14:54.917Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102755577,
         "value": "* Landform type: Hill",
@@ -14942,6 +17502,13 @@
     "id": 530250714,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T18:16:39.681Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102755579,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -14972,6 +17539,13 @@
     "id": 530250737,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T18:19:04.453Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102755582,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -15000,7 +17574,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 530250765,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Path",
+        "created": "2020-10-01T18:22:27.436Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      }
+    ],
     "target": {
       "source": "mogadouro1.jpg",
       "selector": {
@@ -15014,6 +17596,13 @@
     "type": "Annotation",
     "id": 530253171,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T21:17:47.433Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 102755805,
         "value": "* Landform type: Hill",
@@ -15045,6 +17634,13 @@
     "id": 530253248,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T21:22:21.895Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102755807,
         "value": "* Landform type: Hill",
         "purpose": "tagging",
@@ -15075,6 +17671,13 @@
     "id": 530253416,
     "body": [
       {
+        "purpose": "classifying",
+        "value": "Hill or landform",
+        "created": "2020-10-01T21:31:45.682Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
+      {
         "id": 102755817,
         "value": "* Landform type: Plain (unfenced field, vacant land)",
         "purpose": "tagging",
@@ -15103,7 +17706,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 530253475,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Sky",
+        "created": "2020-10-01T21:35:51.667Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      }
+    ],
     "target": {
       "source": "mogadouro1.jpg",
       "selector": {
@@ -15116,7 +17727,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 530253800,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Sky",
+        "created": "2020-10-01T21:57:01.442Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      }
+    ],
     "target": {
       "source": "mogadouro1.jpg",
       "selector": {
@@ -15129,7 +17748,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 530253804,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Sky",
+        "created": "2020-10-01T21:58:08.888Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      }
+    ],
     "target": {
       "source": "mogadouro1.jpg",
       "selector": {
@@ -15142,7 +17769,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 530253805,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Sky",
+        "created": "2020-10-01T21:58:57.075Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      }
+    ],
     "target": {
       "source": "mogadouro1.jpg",
       "selector": {
@@ -15155,7 +17790,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 530253806,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Path",
+        "created": "2020-10-01T22:00:42.804Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      }
+    ],
     "target": {
       "source": "mogadouro1.jpg",
       "selector": {
@@ -15168,7 +17811,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 530253808,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Path",
+        "created": "2020-10-01T22:01:57.336Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      }
+    ],
     "target": {
       "source": "mogadouro1.jpg",
       "selector": {
@@ -15181,7 +17832,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 530253814,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Path",
+        "created": "2020-10-01T22:04:07.568Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      }
+    ],
     "target": {
       "source": "mogadouro1.jpg",
       "selector": {
@@ -15194,7 +17853,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 530253822,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Path",
+        "created": "2020-10-01T22:07:09.898Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      }
+    ],
     "target": {
       "source": "mogadouro1.jpg",
       "selector": {
@@ -15207,7 +17874,15 @@
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "type": "Annotation",
     "id": 530253828,
-    "body": [],
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Path",
+        "created": "2020-10-01T22:10:12.234Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      }
+    ],
     "target": {
       "source": "mogadouro1.jpg",
       "selector": {
@@ -15221,6 +17896,13 @@
     "type": "Annotation",
     "id": 534587351,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Breteche'",
+        "created": "2020-10-08T16:47:08.657Z",
+        "updated": "2020-10-08T16:51:26.071Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 104329249,
         "value": "* Partially occluded or Complete?: Complete",
@@ -15259,6 +17941,13 @@
     "type": "Annotation",
     "id": 534587440,
     "body": [
+      {
+        "purpose": "classifying",
+        "value": "(Fortification) Breteche'",
+        "created": "2020-10-08T16:51:24.250Z",
+        "updated": "2020-10-08T16:52:19.312Z",
+        "creator": "molly_borowiak"
+      },
       {
         "id": 104329252,
         "value": "* Partially occluded or Complete?: Complete",
