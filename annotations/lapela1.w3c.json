@@ -1,0 +1,4451 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516183470,
+    "body": [
+      {
+        "id": 100702230,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:02:04.332Z",
+        "updated": "2020-09-16T18:02:04.332Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702229,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:01:59.767Z",
+        "updated": "2020-09-16T18:01:59.767Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702228,
+        "value": "* Number of Merlons?: 15",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:01:57.053Z",
+        "updated": "2020-09-16T18:01:57.053Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702227,
+        "value": "* Outer-most (low) wall, Outer ward wall or Inner ward wall?: Outermost (low) wall",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:01:53.162Z",
+        "updated": "2020-09-16T18:01:53.162Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702226,
+        "value": "* Merlon shape?: Pointed",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:01:49.632Z",
+        "updated": "2020-09-16T18:01:49.632Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702225,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:01:45.431Z",
+        "updated": "2020-09-16T18:01:45.431Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702224,
+        "value": "* Curved wall or straight?: Straight",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:01:39.716Z",
+        "updated": "2020-09-16T18:01:39.716Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702223,
+        "value": "* Crenellated, flat or both?: Crenellated",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:01:35.566Z",
+        "updated": "2020-09-16T18:01:35.566Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702222,
+        "value": "* Coursed, blank or both?: Coursed",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:01:33.361Z",
+        "updated": "2020-09-16T18:01:33.361Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702221,
+        "value": "* Castle wall or city wall?: Castle wall",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:01:31.015Z",
+        "updated": "2020-09-16T18:01:31.015Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"2545,2154.5 2526,2153.5 2453,2138.5 2376,2133.5 2328,2132.5 2282,2132.5 2097,2145.5 2095.5,2054 2095.5,1783 2112,1766.5 2117,1763.5 2128.5,1780 2126.5,1819 2155,1813.5 2157.5,1812 2158.5,1777 2176,1760.5 2190.5,1776 2188.5,1809 2211,1806.5 2214.5,1805 2216.5,1770 2235,1753.5 2238,1752.5 2248.5,1769 2248.5,1802 2270,1800.5 2274.5,1799 2275.5,1764 2292,1748.5 2295,1747.5 2308.5,1764 2308.5,1793 2331,1791.5 2335.5,1790 2337.5,1758 2355,1740.5 2365.5,1756 2365.5,1788 2384,1787.5 2390.5,1786 2393.5,1753 2410,1737.5 2424.5,1751 2423.5,1785 2445,1783.5 2449.5,1782 2451.5,1752 2470,1735.5 2481.5,1743 2481.5,1781 2500,1780.5 2506.5,1779 2507.5,1744 2527,1729.5 2539.5,1741 2539.5,1774 2560,1773.5 2567.5,1772 2569.5,1740 2587,1725.5 2599.5,1734 2599.5,1771 2622,1770.5 2629.5,1769 2628.5,1735 2650,1722.5 2656.5,1728 2663.5,1737 2663.5,1769 2686,1768.5 2693.5,1767 2691.5,1734 2713,1716.5 2716.5,1718 2726.5,1734 2726.5,1765 2751,1764.5 2753.5,1727 2770,1709.5 2776.5,1715 2783.5,1724 2782,1758.5 2796.5,1754 2799.5,1719 2807,1704.5 2822.5,1711 2821.5,1748 2831,1747.5 2834.5,1746 2834.5,1711 2843.5,1690 2845,1689.5 2846.5,1692 2851.5,1706 2850.5,1739 2852,1739.5 2866.5,1736 2868.5,1702 2882,1687.5 2884,1687.5 2888.5,1962 2888.5,2061 2883,2064.5 2861,2072.5 2841,2092.5 2705,2110.5 2645,2127.5 2642,2129.5 2545,2154.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516183592,
+    "body": [
+      {
+        "id": 100702248,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:07:52.061Z",
+        "updated": "2020-09-16T18:07:52.061Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702247,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:07:48.763Z",
+        "updated": "2020-09-16T18:07:48.763Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702245,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:07:46.184Z",
+        "updated": "2020-09-16T18:07:46.184Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1981,2196.5 1977.5,2196 1977.5,2075 2071,2068.5 2097,2068.5 2097.5,2154 2076,2158.5 2027,2173.5 2025,2175.5 2005,2182.5 1981,2196.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516183651,
+    "body": [
+      {
+        "id": 100702273,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:10:15.055Z",
+        "updated": "2020-09-16T18:10:15.055Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702272,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:10:11.552Z",
+        "updated": "2020-09-16T18:10:11.552Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702271,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:10:09.211Z",
+        "updated": "2020-09-16T18:10:09.211Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1960,2207.5 1955.5,2207 1955.5,2184 1962.5,2178 1937,2158.5 1919.5,2141 1904,2120.5 1882,2126.5 1879.5,2126 1879.5,2064 1889.5,2058 1879.5,2049 1917,2019.5 1921,2019.5 1923.5,2022 1966,2076.5 1978.5,2074 1978.5,2197 1960,2207.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516183687,
+    "body": [
+      {
+        "id": 100702300,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:11:51.917Z",
+        "updated": "2020-09-16T18:11:51.917Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702299,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:11:48.461Z",
+        "updated": "2020-09-16T18:11:48.461Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702298,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:11:45.225Z",
+        "updated": "2020-09-16T18:11:45.225Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1710,2183.5 1707.5,2183 1708.5,2160 1704.5,2123 1704.5,2105 1706,2103.5 1809,2081.5 1862,2068.5 1872,2066.5 1878.5,2067 1878.5,2126 1877,2127.5 1847,2134.5 1804,2149.5 1726,2166.5 1710,2183.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516183703,
+    "body": [
+      {
+        "id": 100702315,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:13:03.256Z",
+        "updated": "2020-09-16T18:13:03.256Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702314,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:12:59.358Z",
+        "updated": "2020-09-16T18:12:59.358Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702313,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:12:56.469Z",
+        "updated": "2020-09-16T18:12:56.469Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1671,2225.5 1668,2225.5 1662.5,2219 1660.5,2151 1663.5,2148 1664.5,2143 1640,2123.5 1630.5,2114 1622.5,2105 1614.5,2092 1614.5,2088 1632.5,2073 1645,2055.5 1649.5,2057 1663.5,2078 1673,2086.5 1687,2096.5 1706.5,2106 1705.5,2143 1707.5,2160 1707.5,2187 1693.5,2206 1671,2225.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516183739,
+    "body": [
+      {
+        "id": 100702322,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:14:46.351Z",
+        "updated": "2020-09-16T18:14:46.351Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702321,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:14:42.834Z",
+        "updated": "2020-09-16T18:14:42.834Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702320,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:14:40.725Z",
+        "updated": "2020-09-16T18:14:40.725Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1795,2290.5 1790.5,2290 1790.5,2233 1792,2231.5 1919,2193.5 1948,2183.5 1954.5,2184 1954,2210.5 1926,2220.5 1885,2246.5 1795,2290.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516183765,
+    "body": [
+      {
+        "id": 100702330,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:15:48.541Z",
+        "updated": "2020-09-16T18:15:48.541Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702329,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:15:45.242Z",
+        "updated": "2020-09-16T18:15:45.242Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702328,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:15:43.171Z",
+        "updated": "2020-09-16T18:15:43.171Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1739,2327.5 1735,2327.5 1733.5,2326 1719,2305.5 1679,2311.5 1674.5,2264 1674.5,2244 1685.5,2242 1679.5,2237 1733,2183.5 1736,2183.5 1741.5,2189 1780,2234.5 1784,2235.5 1788,2233.5 1790.5,2234 1791.5,2249 1791.5,2294 1739,2327.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516183784,
+    "body": [
+      {
+        "id": 100702338,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:16:51.703Z",
+        "updated": "2020-09-16T18:16:51.703Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702337,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:16:48.115Z",
+        "updated": "2020-09-16T18:16:48.115Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702336,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:16:46.344Z",
+        "updated": "2020-09-16T18:16:46.344Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1524,2340.5 1514.5,2340 1514,2280.5 1665,2247.5 1673.5,2248 1677.5,2292 1677,2312.5 1524,2340.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516183799,
+    "body": [
+      {
+        "id": 100702344,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:17:40.797Z",
+        "updated": "2020-09-16T18:17:40.797Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702342,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:17:37.342Z",
+        "updated": "2020-09-16T18:17:37.342Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702341,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:17:34.990Z",
+        "updated": "2020-09-16T18:17:34.990Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1662,2219.5 1638.5,2197 1627,2181.5 1560,2199.5 1545.5,2202 1545.5,2163 1563,2151.5 1579.5,2136 1604,2100.5 1608.5,2102 1624,2124.5 1659.5,2153 1662.5,2195 1662,2219.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516183827,
+    "body": [
+      {
+        "id": 100702358,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:18:54.598Z",
+        "updated": "2020-09-16T18:18:54.598Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702356,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:18:50.938Z",
+        "updated": "2020-09-16T18:18:50.938Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702355,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:18:47.943Z",
+        "updated": "2020-09-16T18:18:47.943Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1491,2218.5 1484.5,2218 1483.5,2202 1483.5,2185 1490.5,2180 1464,2167.5 1442,2148.5 1438.5,2145 1439,2143.5 1450,2143.5 1544.5,2157 1544.5,2202 1491,2218.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516183853,
+    "body": [
+      {
+        "id": 100702474,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:20:03.608Z",
+        "updated": "2020-09-16T18:20:03.608Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702473,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:19:59.421Z",
+        "updated": "2020-09-16T18:19:59.421Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702472,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:19:57.588Z",
+        "updated": "2020-09-16T18:19:57.588Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1534,2452.5 1530.5,2452 1527.5,2434 1511,2408.5 1468.5,2414 1471,2409.5 1500.5,2386 1514,2363.5 1517.5,2364 1549.5,2424 1551,2425.5 1560.5,2424 1560.5,2436 1534,2452.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516183900,
+    "body": [
+      {
+        "id": 100702484,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:21:09.625Z",
+        "updated": "2020-09-16T18:21:09.625Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702483,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:21:06.440Z",
+        "updated": "2020-09-16T18:21:06.440Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702481,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:21:02.376Z",
+        "updated": "2020-09-16T18:21:02.376Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1466,2399.5 1462.5,2399 1459.5,2336 1468.5,2315 1420.5,2285 1420.5,2282 1456,2245.5 1462,2247.5 1495,2278.5 1512.5,2280 1512.5,2340 1508.5,2343 1500.5,2360 1487.5,2378 1477,2390.5 1466,2399.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516183939,
+    "body": [
+      {
+        "id": 100702500,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:23:07.762Z",
+        "updated": "2020-09-16T18:23:07.762Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702499,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:23:04.201Z",
+        "updated": "2020-09-16T18:23:04.201Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702498,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:23:02.319Z",
+        "updated": "2020-09-16T18:23:02.319Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1357,2284.5 1351.5,2284 1349.5,2240 1349.5,2195 1385,2165.5 1410,2138.5 1414,2138.5 1437,2159.5 1482.5,2187 1483.5,2217 1470,2224.5 1453,2227.5 1428.5,2262 1411,2280.5 1408,2279.5 1398,2270.5 1357,2284.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516183971,
+    "body": [
+      {
+        "id": 100702514,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:24:35.392Z",
+        "updated": "2020-09-16T18:24:35.392Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702513,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:24:31.156Z",
+        "updated": "2020-09-16T18:24:31.156Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702512,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:24:28.916Z",
+        "updated": "2020-09-16T18:24:28.916Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1267,2315.5 1261.5,2315 1260.5,2304 1258.5,2244 1262.5,2239 1263.5,2234 1244.5,2196 1232,2182.5 1215.5,2173 1216,2164.5 1225,2164.5 1252,2169.5 1283,2172.5 1348.5,2183 1350.5,2285 1267,2315.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516183995,
+    "body": [
+      {
+        "id": 100702533,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:26:15.242Z",
+        "updated": "2020-09-16T18:26:15.242Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702532,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:26:11.971Z",
+        "updated": "2020-09-16T18:26:11.971Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702531,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:26:08.954Z",
+        "updated": "2020-09-16T18:26:08.954Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1307,2438.5 1299.5,2438 1297.5,2412 1297.5,2385 1299,2383.5 1415,2337.5 1423,2335.5 1425,2333.5 1433,2331.5 1453,2322.5 1458.5,2323 1462.5,2401 1463.5,2410 1467.5,2414 1467,2416.5 1440,2416.5 1406,2425.5 1388,2425.5 1374,2432.5 1370,2431.5 1363,2426.5 1360,2426.5 1348,2434.5 1319,2434.5 1307,2438.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516184024,
+    "body": [
+      {
+        "id": 100702553,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:27:40.391Z",
+        "updated": "2020-09-16T18:27:40.391Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702552,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:27:34.116Z",
+        "updated": "2020-09-16T18:27:34.116Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702550,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:27:31.646Z",
+        "updated": "2020-09-16T18:27:31.646Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1238,2481.5 1231,2479.5 1195.5,2458 1194.5,2406 1213.5,2393 1224.5,2375 1239.5,2357 1244.5,2343 1248,2341.5 1266.5,2373 1289,2392.5 1294,2390.5 1297.5,2391 1297.5,2438 1278,2441.5 1262,2448.5 1247.5,2463 1241.5,2477 1238,2481.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516184044,
+    "body": [
+      {
+        "id": 100702558,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:29:01.909Z",
+        "updated": "2020-09-16T18:29:01.909Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702557,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:28:57.576Z",
+        "updated": "2020-09-16T18:28:57.576Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702556,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:28:54.517Z",
+        "updated": "2020-09-16T18:28:54.517Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1200,2386.5 1197.5,2386 1196.5,2319 1212.5,2316 1182.5,2268 1181.5,2257 1186.5,2236 1207.5,2194 1212,2193.5 1219,2198.5 1238.5,2218 1248.5,2232 1258.5,2240 1260.5,2317 1244,2322.5 1241.5,2325 1225.5,2357 1215.5,2371 1200,2386.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516184069,
+    "body": [
+      {
+        "id": 100702566,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:30:30.766Z",
+        "updated": "2020-09-16T18:30:30.766Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702565,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:30:27.385Z",
+        "updated": "2020-09-16T18:30:27.385Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702564,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:30:25.100Z",
+        "updated": "2020-09-16T18:30:25.100Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1195,2457.5 1192,2457.5 1182,2452.5 1073,2391.5 1072.5,2344 1186,2321.5 1195,2321.5 1197.5,2354 1197.5,2390 1182.5,2404 1193.5,2410 1195,2457.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516184080,
+    "body": [
+      {
+        "id": 100702571,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:31:17.519Z",
+        "updated": "2020-09-16T18:31:17.519Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702570,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:31:14.411Z",
+        "updated": "2020-09-16T18:31:14.411Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702569,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:31:11.025Z",
+        "updated": "2020-09-16T18:31:11.025Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1072,2390.5 1069,2390.5 983,2347.5 980.5,2345 983,2340.5 1005.5,2322 1027,2296.5 1030.5,2297 1062.5,2347 1070,2343.5 1072.5,2344 1072,2390.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516184088,
+    "body": [
+      {
+        "id": 100702577,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:32:21.983Z",
+        "updated": "2020-09-16T18:32:21.983Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702576,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:32:18.625Z",
+        "updated": "2020-09-16T18:32:18.625Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702575,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:32:16.473Z",
+        "updated": "2020-09-16T18:32:16.473Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"997,2307.5 995.5,2307 995.5,2283 1009.5,2258 1009,2242.5 1034,2242.5 1067,2245.5 1181.5,2250 1181,2262.5 1173,2258.5 1047,2284.5 1020,2287.5 997,2307.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516184105,
+    "body": [
+      {
+        "id": 100702580,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:33:39.289Z",
+        "updated": "2020-09-16T18:33:39.289Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702579,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:33:35.897Z",
+        "updated": "2020-09-16T18:33:35.897Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702578,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:33:33.779Z",
+        "updated": "2020-09-16T18:33:33.779Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"966,2338.5 961,2338.5 929,2319.5 903,2308.5 899,2305.5 864,2293.5 862.5,2291 925,2284.5 995,2282.5 995.5,2311 966,2338.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516184119,
+    "body": [
+      {
+        "id": 100702589,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:34:50.926Z",
+        "updated": "2020-09-16T18:34:50.926Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702588,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:34:47.698Z",
+        "updated": "2020-09-16T18:34:47.698Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702587,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:34:45.618Z",
+        "updated": "2020-09-16T18:34:45.618Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"826,2277.5 818,2276.5 780.5,2263 780.5,2260 793.5,2239 798.5,2225 805,2216.5 807,2216.5 810.5,2221 822.5,2248 826.5,2266 826,2277.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516184134,
+    "body": [
+      {
+        "id": 100702593,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:35:45.351Z",
+        "updated": "2020-09-16T18:35:45.351Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702592,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:35:41.512Z",
+        "updated": "2020-09-16T18:35:41.512Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702591,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:35:39.524Z",
+        "updated": "2020-09-16T18:35:39.524Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1304,2522.5 1290,2515.5 1254.5,2492 1254.5,2488 1271,2454.5 1274.5,2455 1290.5,2482 1299.5,2502 1304.5,2517 1304,2522.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516184139,
+    "body": [
+      {
+        "id": 100702603,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:36:19.342Z",
+        "updated": "2020-09-16T18:36:19.342Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702602,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:36:12.341Z",
+        "updated": "2020-09-16T18:36:12.341Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702595,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:36:10.436Z",
+        "updated": "2020-09-16T18:36:10.436Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1374,2564.5 1368,2564.5 1307,2527.5 1305.5,2526 1305.5,2518 1315,2520.5 1330,2520.5 1371,2515.5 1431,2503.5 1490,2487.5 1495.5,2488 1422,2537.5 1416,2539.5 1374,2564.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516184182,
+    "body": [
+      {
+        "id": 100702622,
+        "value": "* Roof structure type: House",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:38:08.377Z",
+        "updated": "2020-09-16T18:38:08.377Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702621,
+        "value": "* Roof Style: Parallel wavy lines (Thatch)",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:38:05.005Z",
+        "updated": "2020-09-16T18:38:05.005Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702620,
+        "value": "* Roof Side: Roof front",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:38:00.052Z",
+        "updated": "2020-09-16T18:38:00.052Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702619,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:37:57.618Z",
+        "updated": "2020-09-16T18:37:57.618Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"881,2290.5 861,2290.5 825.5,2277 823.5,2254 821.5,2251 818.5,2238 806.5,2214 807,2209.5 949,2191.5 963,2191.5 973,2197.5 985.5,2210 1009.5,2242 1009.5,2258 995,2285.5 978,2282.5 968,2282.5 881,2290.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516184212,
+    "body": [
+      {
+        "id": 100702628,
+        "value": "* Roof structure type: House",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:39:10.267Z",
+        "updated": "2020-09-16T18:39:10.267Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702627,
+        "value": "* Roof Style: Crosshatched (Tile)",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:39:08.274Z",
+        "updated": "2020-09-16T18:39:08.274Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702626,
+        "value": "* Roof Side: Roof front",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:39:06.411Z",
+        "updated": "2020-09-16T18:39:06.411Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702625,
+        "value": "* Partially occluded or Complete?: Complete",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:39:04.522Z",
+        "updated": "2020-09-16T18:39:04.522Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1071,2344.5 1060.5,2344 1029.5,2297 1022.5,2291 1023,2288.5 1156,2261.5 1176,2259.5 1184.5,2268 1210.5,2313 1210.5,2316 1208,2317.5 1197,2318.5 1145,2330.5 1071,2344.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516184237,
+    "body": [
+      {
+        "id": 100702634,
+        "value": "* Roof structure type: House",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:40:19.135Z",
+        "updated": "2020-09-16T18:40:19.135Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702633,
+        "value": "* Roof Style: Parallel wavy lines (Thatch)",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:40:15.741Z",
+        "updated": "2020-09-16T18:40:15.741Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702632,
+        "value": "* Roof Side: Roof side",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:40:11.433Z",
+        "updated": "2020-09-16T18:40:11.433Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702631,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:40:05.855Z",
+        "updated": "2020-09-16T18:40:05.855Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1181,2249.5 1161,2249.5 1113,2245.5 1010,2242.5 982.5,2206 982.5,2201 996.5,2182 1010,2168.5 1019,2161.5 1032,2154.5 1055,2154.5 1123,2159.5 1165,2163.5 1195,2169.5 1214,2170.5 1214.5,2175 1208.5,2190 1199.5,2206 1189.5,2233 1181,2249.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516184264,
+    "body": [
+      {
+        "id": 100702651,
+        "value": "* Roof structure type: House",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:42:25.086Z",
+        "updated": "2020-09-16T18:42:25.086Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702650,
+        "value": "* Roof Style: Crosshatched (Tile)",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:42:23.300Z",
+        "updated": "2020-09-16T18:42:23.300Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702647,
+        "value": "* Roof Side: Roof front",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:42:20.588Z",
+        "updated": "2020-09-16T18:42:20.588Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702646,
+        "value": "* Partially occluded or Complete?: Complete",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:42:18.318Z",
+        "updated": "2020-09-16T18:42:18.318Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1294,2390.5 1284,2389.5 1265.5,2374 1253.5,2353 1242.5,2329 1242.5,2325 1244,2323.5 1394,2272.5 1401,2272.5 1405,2274.5 1468.5,2313 1467.5,2320 1462,2330.5 1455,2322.5 1451,2323.5 1442,2328.5 1404,2342.5 1402,2344.5 1375,2355.5 1307,2380.5 1300,2383.5 1297.5,2389 1294,2390.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516184285,
+    "body": [
+      {
+        "id": 100702671,
+        "value": "* Roof structure type: House",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:44:06.349Z",
+        "updated": "2020-09-16T18:44:06.349Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702669,
+        "value": "* Roof Style: Parallel wavy lines (Thatch)",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:44:01.980Z",
+        "updated": "2020-09-16T18:44:01.980Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702660,
+        "value": "* Roof Side: Roof front",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:43:57.342Z",
+        "updated": "2020-09-16T18:43:57.342Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702659,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:43:55.297Z",
+        "updated": "2020-09-16T18:43:55.297Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1339,2519.5 1320,2519.5 1303.5,2514 1297.5,2497 1270.5,2448 1271,2443.5 1302,2437.5 1351,2433.5 1362,2426.5 1374,2432.5 1389,2425.5 1410,2425.5 1439,2418.5 1501,2410.5 1513,2410.5 1528.5,2436 1533.5,2450 1533.5,2456 1493,2488.5 1466,2496.5 1404,2507.5 1363,2516.5 1339,2519.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516184306,
+    "body": [
+      {
+        "id": 100702707,
+        "value": "* Roof structure type: House",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:46:10.037Z",
+        "updated": "2020-09-16T18:46:10.037Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702706,
+        "value": "* Roof Style: Crosshatched (Tile)",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:46:05.802Z",
+        "updated": "2020-09-16T18:46:05.802Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702704,
+        "value": "* Roof Side: Roof side",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:46:03.683Z",
+        "updated": "2020-09-16T18:46:03.683Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702703,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:45:58.807Z",
+        "updated": "2020-09-16T18:45:58.807Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1352,2182.5 1340,2182.5 1280,2171.5 1237,2165.5 1217,2166.5 1215,2171.5 1211,2171.5 1138,2161.5 1135,2160.5 1134.5,2158 1154.5,2139 1164.5,2127 1179.5,2107 1190.5,2089 1193,2087.5 1223,2090.5 1314,2106.5 1393,2113.5 1399,2114.5 1414.5,2123 1413,2126.5 1406,2130.5 1383.5,2152 1369,2169.5 1360,2174.5 1352,2182.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516184341,
+    "body": [
+      {
+        "id": 100702722,
+        "value": "* Roof structure type: House",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:47:46.643Z",
+        "updated": "2020-09-16T18:47:46.643Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702721,
+        "value": "* Roof Style: Crosshatched (Tile)",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:47:40.806Z",
+        "updated": "2020-09-16T18:47:40.806Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702720,
+        "value": "* Roof Side: Roof side",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:47:38.244Z",
+        "updated": "2020-09-16T18:47:38.244Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702718,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:47:34.499Z",
+        "updated": "2020-09-16T18:47:34.499Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1549,2159.5 1546,2159.5 1543,2155.5 1539,2154.5 1485,2147.5 1438,2143.5 1430,2137.5 1417,2123.5 1402,2112.5 1343,2108.5 1337,2107.5 1336.5,2105 1387,2050.5 1398,2050.5 1487,2064.5 1610,2086.5 1610.5,2090 1604.5,2100 1584.5,2129 1569,2145.5 1549,2159.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516184381,
+    "body": [
+      {
+        "id": 100702736,
+        "value": "* Roof structure type: House",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:49:33.284Z",
+        "updated": "2020-09-16T18:49:33.284Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702735,
+        "value": "* Roof Style: Crosshatched (Tile)",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:49:31.377Z",
+        "updated": "2020-09-16T18:49:31.377Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702732,
+        "value": "* Roof Side: Roof front",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:49:23.188Z",
+        "updated": "2020-09-16T18:49:23.188Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702730,
+        "value": "* Partially occluded or Complete?: Complete",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:49:18.505Z",
+        "updated": "2020-09-16T18:49:18.505Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1511,2279.5 1498,2279.5 1493,2277.5 1456.5,2244 1451.5,2233 1451.5,2229 1453,2227.5 1551,2202.5 1611,2185.5 1626,2183.5 1637.5,2199 1664,2226.5 1682.5,2239 1682,2242.5 1673,2245.5 1649,2249.5 1511,2279.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516184482,
+    "body": [
+      {
+        "id": 100702896,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:52:04.738Z",
+        "updated": "2020-09-16T18:52:04.738Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702895,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:52:01.424Z",
+        "updated": "2020-09-16T18:52:01.424Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702892,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Chimney side",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:51:57.391Z",
+        "updated": "2020-09-16T18:51:57.391Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1158,2134.5 1155.5,2134 1154.5,2126 1154,2080.5 1161.5,2081 1164.5,2108 1164.5,2125 1158,2134.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516184505,
+    "body": [
+      {
+        "id": 100702900,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:52:40.582Z",
+        "updated": "2020-09-16T18:52:40.582Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702899,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:52:37.374Z",
+        "updated": "2020-09-16T18:52:37.374Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702898,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Chimney front",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:52:34.347Z",
+        "updated": "2020-09-16T18:52:34.347Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1167,2123.5 1164.5,2123 1163.5,2113 1164,2081.5 1167,2081.5 1172.5,2085 1172.5,2101 1174.5,2102 1174.5,2105 1172.5,2106 1172.5,2113 1167,2123.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516184539,
+    "body": [
+      {
+        "id": 100702918,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:54:15.577Z",
+        "updated": "2020-09-16T18:54:15.577Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702917,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:54:09.915Z",
+        "updated": "2020-09-16T18:54:09.915Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702916,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Chimney side",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:54:07.948Z",
+        "updated": "2020-09-16T18:54:07.948Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1524,2069.5 1513.5,2069 1513.5,2019 1515,2015.5 1524.5,2016 1524,2069.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516184562,
+    "body": [
+      {
+        "id": 100702923,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:54:49.985Z",
+        "updated": "2020-09-16T18:54:49.985Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702922,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:54:46.531Z",
+        "updated": "2020-09-16T18:54:46.531Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100702920,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Chimney front",
+        "purpose": "tagging",
+        "created": "2020-09-16T18:54:42.069Z",
+        "updated": "2020-09-16T18:54:42.069Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1532,2070.5 1526,2070.5 1523.5,2069 1524,2015.5 1526,2015.5 1531.5,2021 1533.5,2053 1532,2070.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516184910,
+    "body": [
+      {
+        "id": 100703092,
+        "value": "* Roof structure type: House",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:08:02.619Z",
+        "updated": "2020-09-16T19:08:02.619Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703091,
+        "value": "* Roof Style: Crosshatched (Tile)",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:08:00.304Z",
+        "updated": "2020-09-16T19:08:00.304Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703090,
+        "value": "* Roof Side: Roof front",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:07:57.649Z",
+        "updated": "2020-09-16T19:07:57.649Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703089,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:07:55.321Z",
+        "updated": "2020-09-16T19:07:55.321Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1562,2421.5 1549.5,2421 1515.5,2361 1513.5,2352 1514,2343.5 1709,2308.5 1719,2308.5 1733.5,2327 1733.5,2331 1724,2338.5 1676,2364.5 1638,2389.5 1594,2415.5 1589,2417.5 1562,2421.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516184947,
+    "body": [
+      {
+        "id": 100703102,
+        "value": "* Roof structure type: House",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:09:47.456Z",
+        "updated": "2020-09-16T19:09:47.456Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703100,
+        "value": "* Roof Style: Crosshatched (Tile)",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:09:45.119Z",
+        "updated": "2020-09-16T19:09:45.119Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703098,
+        "value": "* Roof Side: Roof front",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:09:42.608Z",
+        "updated": "2020-09-16T19:09:42.608Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703097,
+        "value": "* Partially occluded or Complete?: Complete",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:09:39.324Z",
+        "updated": "2020-09-16T19:09:39.324Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1711,2101.5 1701,2101.5 1695,2099.5 1693,2097.5 1688,2096.5 1670,2084.5 1648.5,2056 1642.5,2047 1642.5,2044 1826,2005.5 1835,2005.5 1887.5,2056 1886.5,2060 1878,2065.5 1862,2069.5 1835,2073.5 1801,2082.5 1752,2091.5 1711,2101.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516184999,
+    "body": [
+      {
+        "id": 100703112,
+        "value": "* Roof structure type: House",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:11:01.670Z",
+        "updated": "2020-09-16T19:11:01.670Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703110,
+        "value": "* Roof Style: Crosshatched (Tile)",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:10:59.683Z",
+        "updated": "2020-09-16T19:10:59.683Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703109,
+        "value": "* Roof Side: Roof front",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:10:57.904Z",
+        "updated": "2020-09-16T19:10:57.904Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703107,
+        "value": "* Partially occluded or Complete?: Complete",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:10:55.578Z",
+        "updated": "2020-09-16T19:10:55.578Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1788,2232.5 1781,2232.5 1764.5,2215 1734.5,2181 1727.5,2170 1728,2166.5 1805,2149.5 1844,2135.5 1898,2121.5 1906,2121.5 1918,2139.5 1960.5,2176 1960.5,2180 1955,2185.5 1945,2183.5 1788,2232.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516185047,
+    "body": [
+      {
+        "id": 100703168,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:13:53.740Z",
+        "updated": "2020-09-16T19:13:53.740Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703167,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:13:49.631Z",
+        "updated": "2020-09-16T19:13:49.631Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703166,
+        "value": "* Outer-most (low) wall, Outer ward wall or Inner ward wall?: Inner ward wall (There may not be an inner ward)",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:13:42.734Z",
+        "updated": "2020-09-16T19:13:42.734Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703165,
+        "value": "* Number of Merlons?: 11",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:13:37.313Z",
+        "updated": "2020-09-16T19:13:37.313Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703164,
+        "value": "* Merlon shape?: Pointed",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:13:12.071Z",
+        "updated": "2020-09-16T19:13:12.071Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703163,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:13:08.526Z",
+        "updated": "2020-09-16T19:13:08.526Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703162,
+        "value": "* Curved wall or straight?: Straight",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:13:03.073Z",
+        "updated": "2020-09-16T19:13:03.073Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703161,
+        "value": "* Crenellated, flat or both?: Crenellated",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:12:55.762Z",
+        "updated": "2020-09-16T19:12:55.762Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703160,
+        "value": "* Coursed, blank or both?: Coursed",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:12:53.986Z",
+        "updated": "2020-09-16T19:12:53.986Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703159,
+        "value": "* Castle wall or city wall?: Castle wall",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:12:52.038Z",
+        "updated": "2020-09-16T19:12:52.038Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"2333,1788.5 2311.5,1788 2311.5,1765 2296,1743.5 2277,1760.5 2273.5,1761 2272.5,1566 2268.5,1535 2268.5,1519 2283,1504.5 2295.5,1516 2296,1552.5 2320.5,1551 2318.5,1520 2337,1503.5 2339.5,1505 2346.5,1517 2347.5,1549 2368,1549.5 2369.5,1511 2386,1500.5 2388,1500.5 2395.5,1510 2398.5,1546 2407,1546.5 2417.5,1545 2418.5,1512 2436,1497.5 2439.5,1499 2445.5,1509 2447.5,1540 2458,1540.5 2469.5,1539 2471.5,1505 2489,1492.5 2491,1492.5 2501.5,1505 2501.5,1536 2506,1536.5 2525.5,1534 2528.5,1504 2544,1489.5 2555.5,1499 2554.5,1532 2557,1532.5 2579.5,1529 2578.5,1499 2599,1485.5 2603.5,1488 2608.5,1497 2610.5,1498 2611,1525.5 2636,1523.5 2639.5,1494 2659,1479.5 2671.5,1491 2670.5,1522 2683,1522.5 2696.5,1521 2699.5,1488 2719,1476.5 2723,1477.5 2734.5,1487 2731,1517.5 2759,1516.5 2758.5,1480 2772,1470.5 2777,1470.5 2786.5,1477 2785.5,1506 2787,1506.5 2798,1500.5 2800.5,1501 2801.5,1527 2803.5,1710 2796.5,1721 2795,1752.5 2787,1756.5 2784.5,1756 2786.5,1724 2769,1707.5 2751.5,1727 2749,1762.5 2729.5,1764 2727.5,1731 2714,1715.5 2691,1732.5 2689.5,1735 2691,1765.5 2665.5,1766 2665.5,1738 2650,1721.5 2626.5,1736 2626,1768.5 2601,1768.5 2601.5,1734 2588,1722.5 2566.5,1738 2565.5,1771 2542,1772.5 2543.5,1739 2529,1727.5 2526,1727.5 2504.5,1741 2503,1778.5 2483.5,1779 2484.5,1744 2470,1732.5 2449.5,1750 2448.5,1781 2425,1783.5 2427.5,1751 2410,1735.5 2389.5,1750 2388.5,1787 2368,1787.5 2367.5,1755 2355,1737.5 2334.5,1757 2333,1788.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516185340,
+    "body": [
+      {
+        "id": 100703262,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:28:44.092Z",
+        "updated": "2020-09-16T19:28:44.092Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703261,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:28:40.431Z",
+        "updated": "2020-09-16T19:28:40.431Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703260,
+        "value": "* Outer-most (low) wall, Outer ward wall or Inner ward wall?: Inner ward wall (There may not be an inner ward)",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:28:36.419Z",
+        "updated": "2020-09-16T19:28:36.419Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703259,
+        "value": "* Number of Merlons?: 5",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:28:32.436Z",
+        "updated": "2020-09-16T19:28:32.436Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703258,
+        "value": "* Merlon shape?: Pointed",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:28:26.115Z",
+        "updated": "2020-09-16T19:28:26.115Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703257,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:28:20.858Z",
+        "updated": "2020-09-16T19:28:20.858Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703256,
+        "value": "* Curved wall or straight?: Straight",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:28:15.112Z",
+        "updated": "2020-09-16T19:28:15.112Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703211,
+        "value": "* Crenellated, flat or both?: Crenellated",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:28:10.848Z",
+        "updated": "2020-09-16T19:28:10.848Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703210,
+        "value": "* Coursed, blank or both?: Coursed",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:28:09.001Z",
+        "updated": "2020-09-16T19:28:09.001Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703209,
+        "value": "* Castle wall or city wall?: Castle wall",
+        "purpose": "tagging",
+        "created": "2020-09-16T19:28:07.231Z",
+        "updated": "2020-09-16T19:28:07.231Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"2832,1745.5 2823.5,1745 2823.5,1711 2803.5,1702 2802.5,1516 2804.5,1459 2808,1459.5 2816.5,1466 2816.5,1496 2818,1496.5 2829.5,1491 2829.5,1454 2838,1443.5 2845.5,1452 2846,1488.5 2859.5,1481 2859.5,1444 2868,1436.5 2871,1435.5 2877.5,1442 2878,1476.5 2892.5,1471 2892.5,1436 2906,1423.5 2917.5,1434 2917.5,1467 2922,1467.5 2938,1463.5 2939.5,1427 2951,1420.5 2951.5,1475 2948.5,1508 2951.5,1600 2950.5,1731 2936.5,1731 2936.5,1698 2927,1688.5 2916.5,1700 2916.5,1732 2899,1732.5 2898.5,1699 2881,1685.5 2867.5,1701 2863.5,1736 2855,1738.5 2854.5,1705 2846.5,1688 2844,1686.5 2832.5,1710 2832,1745.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516191358,
+    "body": [
+      {
+        "id": 100703565,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-17T03:28:18.223Z",
+        "updated": "2020-09-17T03:28:18.223Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703564,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-17T03:28:13.837Z",
+        "updated": "2020-09-17T03:28:13.837Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703563,
+        "value": "* Outer-most (low) wall, Outer ward wall or Inner ward wall?: Inner ward wall (There may not be an inner ward)",
+        "purpose": "tagging",
+        "created": "2020-09-17T03:28:05.308Z",
+        "updated": "2020-09-17T03:28:05.308Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703562,
+        "value": "* Number of Merlons?: 4",
+        "purpose": "tagging",
+        "created": "2020-09-17T03:28:00.107Z",
+        "updated": "2020-09-17T03:28:00.107Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703561,
+        "value": "* Merlon shape?: Pointed",
+        "purpose": "tagging",
+        "created": "2020-09-17T03:27:48.584Z",
+        "updated": "2020-09-17T03:27:48.584Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703560,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Back side",
+        "purpose": "tagging",
+        "created": "2020-09-17T03:27:44.455Z",
+        "updated": "2020-09-17T03:27:44.455Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703559,
+        "value": "* Curved wall or straight?: Straight",
+        "purpose": "tagging",
+        "created": "2020-09-17T03:27:37.220Z",
+        "updated": "2020-09-17T03:27:37.220Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703558,
+        "value": "* Crenellated, flat or both?: Crenellated",
+        "purpose": "tagging",
+        "created": "2020-09-17T03:27:33.550Z",
+        "updated": "2020-09-17T03:27:33.550Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703557,
+        "value": "* Coursed, blank or both?: Coursed",
+        "purpose": "tagging",
+        "created": "2020-09-17T03:27:31.790Z",
+        "updated": "2020-09-17T03:27:31.790Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703556,
+        "value": "* Castle wall or city wall?: Castle wall",
+        "purpose": "tagging",
+        "created": "2020-09-17T03:27:29.968Z",
+        "updated": "2020-09-17T03:27:29.968Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"2853,1483.5 2848.5,1483 2847.5,1452 2840,1441.5 2836,1443.5 2833.5,1443 2831.5,1378 2831.5,1308 2834,1302.5 2838.5,1307 2837.5,1342 2842,1342.5 2848.5,1341 2849,1303.5 2855,1301.5 2859.5,1307 2859,1338.5 2872.5,1335 2872,1301.5 2881,1297.5 2884.5,1302 2885.5,1331 2887,1331.5 2897.5,1329 2896.5,1300 2903,1297.5 2909,1297.5 2910.5,1424 2906,1420.5 2890.5,1435 2891,1470.5 2879.5,1472 2881.5,1442 2873,1434.5 2869,1432.5 2857.5,1444 2857.5,1481 2853,1483.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516191448,
+    "body": [
+      {
+        "id": 100703568,
+        "value": "* Tree Type: Deciduous (Most common, broccoli-like)",
+        "purpose": "tagging",
+        "created": "2020-09-17T03:32:17.335Z",
+        "updated": "2020-09-17T03:32:17.335Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703567,
+        "value": "* Singular or sample from a group?: Sample from a group",
+        "purpose": "tagging",
+        "created": "2020-09-17T03:31:58.364Z",
+        "updated": "2020-09-17T03:31:58.364Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703566,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-17T03:31:54.008Z",
+        "updated": "2020-09-17T03:31:54.008Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"3249.5,2538 3253.5,2530 3263.5,2519 3263.5,2402 3251.5,2375 3242.5,2361 3237,2357.5 3230.5,2365 3228.5,2384 3219,2388.5 3214,2387.5 3185,2370.5 3183.5,2369 3183.5,2359 3179.5,2352 3166.5,2341 3163.5,2334 3157.5,2327 3157.5,2309 3166.5,2301 3163.5,2287 3170.5,2275 3181,2266.5 3207,2240.5 3223,2239.5 3230,2233.5 3236,2238.5 3242,2232.5 3249,2230.5 3255,2222.5 3271,2222.5 3282,2229.5 3292,2229.5 3299,2226.5 3332,2226.5 3337.5,2229 3340.5,2243 3349.5,2247 3350.5,2254 3353,2257.5 3357.5,2260 3358.5,2265 3366.5,2266 3366.5,2273 3371.5,2276 3370.5,2283 3378,2285.5 3380,2291.5 3386.5,2292 3385.5,2317 3391.5,2322 3391.5,2334 3385,2343.5 3377.5,2346 3376.5,2352 3369.5,2364 3351,2375.5 3346,2370.5 3338,2378.5 3320,2375.5 3320.5,2355 3319,2354.5 3312.5,2359 3294.5,2382 3288.5,2392 3284.5,2404 3281.5,2446 3281.5,2468 3282.5,2482 3285.5,2495 3285.5,2514 3294.5,2523 3296.5,2527 3295.5,2533 3294,2535.5 3287,2534.5 3285,2540.5 3273,2540.5 3269,2538.5 3262,2538.5 3251,2544.5 3247.5,2544 3249.5,2538\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516197063,
+    "body": [
+      {
+        "id": 100707367,
+        "value": "Embrasures: null",
+        "purpose": "tagging",
+        "created": "2020-09-17T21:22:57.083Z",
+        "updated": "2020-09-17T21:22:57.083Z",
+        "creator": "edtriplett"
+      },
+      {
+        "id": 100703577,
+        "value": "* Tower Shape?: Rectangular",
+        "purpose": "tagging",
+        "created": "2020-09-17T03:40:16.702Z",
+        "updated": "2020-09-17T03:40:16.702Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703576,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-17T03:40:12.080Z",
+        "updated": "2020-09-17T03:40:12.080Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703575,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-17T03:40:08.352Z",
+        "updated": "2020-09-17T03:40:08.352Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703574,
+        "value": "* Number of Merlons?: 5",
+        "purpose": "tagging",
+        "created": "2020-09-17T03:40:05.703Z",
+        "updated": "2020-09-17T03:40:05.703Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703573,
+        "value": "* Merlon shape?: Pointed",
+        "purpose": "tagging",
+        "created": "2020-09-17T03:39:51.063Z",
+        "updated": "2020-09-17T03:39:51.063Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703572,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
+        "purpose": "tagging",
+        "created": "2020-09-17T03:39:47.009Z",
+        "updated": "2020-09-17T03:39:47.009Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703571,
+        "value": "* Crenellated, flat or both?: Crenellated",
+        "purpose": "tagging",
+        "created": "2020-09-17T03:39:41.559Z",
+        "updated": "2020-09-17T03:39:41.559Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703570,
+        "value": "* Coursed, blank or both?: Coursed",
+        "purpose": "tagging",
+        "created": "2020-09-17T03:39:39.875Z",
+        "updated": "2020-09-17T03:39:39.875Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"3683,2365.5 3678,2365.5 3673.5,2363 3669.5,2338 3660.5,2326 3648.5,2264 3641.5,2245 3640,2243.5 3633,2244.5 3631.5,2236 3630,2234.5 3618.5,2232 3614,2216.5 3610,2220.5 3606.5,2221 3602.5,2167 3596.5,2134 3592,2131.5 3587,2137.5 3584,2125.5 3579,2122.5 3572,2125.5 3571.5,2113 3567,2106.5 3562.5,2109 3560,2115.5 3548,2121.5 3546.5,2121 3546.5,2098 3543.5,2082 3543.5,2061 3529.5,2036 3522.5,2031 3524.5,1899 3531,1891.5 3539.5,1899 3537.5,1928 3547,1928.5 3557.5,1927 3558.5,1900 3569,1888.5 3570.5,1889 3575.5,1901 3575,1927.5 3597.5,1926 3598.5,1898 3610,1886.5 3613.5,1888 3617.5,1896 3617,1925.5 3635.5,1926 3635.5,1898 3651,1888.5 3653.5,1891 3656.5,1900 3656.5,1925 3677,1925.5 3676.5,1898 3691.5,1890 3691.5,1957 3685.5,2204 3685.5,2327 3683,2365.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516197425,
+    "body": [
+      {
+        "id": 100707373,
+        "value": "Arrow slits (Individual): null",
+        "purpose": "tagging",
+        "created": "2020-09-17T21:25:57.605Z",
+        "updated": "2020-09-17T21:25:57.605Z",
+        "creator": "edtriplett"
+      },
+      {
+        "id": 100703597,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-17T03:55:17.784Z",
+        "updated": "2020-09-17T03:55:17.784Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703596,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-17T03:55:14.205Z",
+        "updated": "2020-09-17T03:55:14.205Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703595,
+        "value": "* Number of Merlons?: 7",
+        "purpose": "tagging",
+        "created": "2020-09-17T03:55:09.638Z",
+        "updated": "2020-09-17T03:55:09.638Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703594,
+        "value": "* Merlon shape?: Pointed",
+        "purpose": "tagging",
+        "created": "2020-09-17T03:54:59.290Z",
+        "updated": "2020-09-17T03:54:59.290Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703593,
+        "value": "* Keep Shape?: Rectangular",
+        "purpose": "tagging",
+        "created": "2020-09-17T03:54:55.755Z",
+        "updated": "2020-09-17T03:54:55.755Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703592,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
+        "purpose": "tagging",
+        "created": "2020-09-17T03:54:52.979Z",
+        "updated": "2020-09-17T03:54:52.979Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703591,
+        "value": "* Crenellated, flat or both?: Crenellated",
+        "purpose": "tagging",
+        "created": "2020-09-17T03:54:48.687Z",
+        "updated": "2020-09-17T03:54:48.687Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100703590,
+        "value": "* Coursed, blank or both?: Coursed",
+        "purpose": "tagging",
+        "created": "2020-09-17T03:54:47.053Z",
+        "updated": "2020-09-17T03:54:47.053Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"3103,1467.5 3087.5,1467 3089.5,1436 3082,1424.5 3068.5,1434 3068.5,1465 3056,1465.5 3055.5,1433 3048,1421.5 3036.5,1433 3036.5,1462 3025,1461.5 3025.5,1430 3016,1417.5 3006.5,1428 3005.5,1459 2992,1461.5 2991.5,1426 2984,1414.5 2972.5,1426 2972,1458.5 2961.5,1457 2963.5,1426 2952,1416.5 2937.5,1426 2936.5,1462 2925,1464.5 2920.5,1464 2920.5,1433 2910.5,1422 2909.5,1280 2906.5,1184 2906.5,916 2909.5,907 2906.5,889 2914,876.5 2917,876.5 2921.5,884 2922,921.5 2936.5,920 2936.5,886 2947,876.5 2955.5,885 2957,918.5 2971.5,918 2971.5,885 2982,876.5 2985.5,879 2988.5,884 2988,915.5 3005.5,914 3006.5,885 3016,876.5 3018.5,878 3022.5,885 3023,914.5 3040.5,913 3039.5,882 3050,876.5 3058.5,884 3059,914.5 3074.5,913 3076.5,886 3085,877.5 3091.5,884 3092.5,913 3102,913.5 3103.5,884 3110,878.5 3111.5,879 3108.5,973 3108.5,1021 3111.5,1110 3111.5,1226 3115.5,1340 3117.5,1357 3117.5,1432 3112,1427.5 3103.5,1437 3103,1467.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516341924,
+    "body": [
+      {
+        "id": 100706553,
+        "value": "Door (Round-headed): null",
+        "purpose": "tagging",
+        "created": "2020-09-17T17:26:34.462Z",
+        "updated": "2020-09-17T17:26:34.462Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706548,
+        "value": "Embrasures: null",
+        "purpose": "tagging",
+        "created": "2020-09-17T17:24:18.971Z",
+        "updated": "2020-09-17T17:24:18.971Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706547,
+        "value": "* Tower Shape?: Rectangular",
+        "purpose": "tagging",
+        "created": "2020-09-17T17:24:14.819Z",
+        "updated": "2020-09-17T17:24:14.819Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706546,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-17T17:24:10.819Z",
+        "updated": "2020-09-17T17:24:10.819Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706545,
+        "value": "* Partially occluded or Complete?: Complete",
+        "purpose": "tagging",
+        "created": "2020-09-17T17:24:06.902Z",
+        "updated": "2020-09-17T17:24:06.902Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706542,
+        "value": "* Number of Merlons?: 4",
+        "purpose": "tagging",
+        "created": "2020-09-17T17:24:02.682Z",
+        "updated": "2020-09-17T17:24:02.682Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706539,
+        "value": "* Merlon shape?: Pointed",
+        "purpose": "tagging",
+        "created": "2020-09-17T17:23:58.958Z",
+        "updated": "2020-09-17T17:23:58.958Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706537,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
+        "purpose": "tagging",
+        "created": "2020-09-17T17:23:55.534Z",
+        "updated": "2020-09-17T17:23:55.534Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706536,
+        "value": "* Crenellated, flat or both?: Crenellated",
+        "purpose": "tagging",
+        "created": "2020-09-17T17:23:53.714Z",
+        "updated": "2020-09-17T17:23:53.714Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706535,
+        "value": "* Coursed, blank or both?: Coursed",
+        "purpose": "tagging",
+        "created": "2020-09-17T17:23:51.851Z",
+        "updated": "2020-09-17T17:23:51.851Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"3688,2372.5 3685.5,2372 3685.5,2269 3690.5,1923 3691.5,1889 3694,1888.5 3705.5,1900 3703.5,1927 3712,1931.5 3713.5,1931 3713.5,1904 3722,1897.5 3729.5,1902 3729,1933.5 3739.5,1935 3740.5,1912 3749,1906.5 3755.5,1913 3755.5,1941 3759,1943.5 3767.5,1946 3768,1920.5 3780,1917.5 3785.5,1923 3785.5,2037 3782.5,2092 3781.5,2273 3760,2305.5 3758.5,2305 3759.5,2282 3754,2275.5 3743,2270.5 3727,2277.5 3726,2279.5 3719.5,2283 3715.5,2311 3715.5,2349 3688,2372.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516341972,
+    "body": [
+      {
+        "id": 100706564,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-17T17:28:58.307Z",
+        "updated": "2020-09-17T17:28:58.307Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706563,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-17T17:28:54.105Z",
+        "updated": "2020-09-17T17:28:54.105Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706562,
+        "value": "* Outer-most (low) wall, Outer ward wall or Inner ward wall?: Inner ward wall (There may not be an inner ward)",
+        "purpose": "tagging",
+        "created": "2020-09-17T17:28:49.555Z",
+        "updated": "2020-09-17T17:28:49.555Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706561,
+        "value": "* Number of Merlons?: 6",
+        "purpose": "tagging",
+        "created": "2020-09-17T17:28:45.172Z",
+        "updated": "2020-09-17T17:28:45.172Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706560,
+        "value": "* Merlon shape?: Pointed",
+        "purpose": "tagging",
+        "created": "2020-09-17T17:28:42.865Z",
+        "updated": "2020-09-17T17:28:42.865Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706559,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
+        "purpose": "tagging",
+        "created": "2020-09-17T17:28:36.466Z",
+        "updated": "2020-09-17T17:28:36.466Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706558,
+        "value": "* Curved wall or straight?: Straight",
+        "purpose": "tagging",
+        "created": "2020-09-17T17:28:32.121Z",
+        "updated": "2020-09-17T17:28:32.121Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706557,
+        "value": "* Crenellated, flat or both?: Crenellated",
+        "purpose": "tagging",
+        "created": "2020-09-17T17:28:28.725Z",
+        "updated": "2020-09-17T17:28:28.725Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706556,
+        "value": "* Coursed, blank or both?: Coursed",
+        "purpose": "tagging",
+        "created": "2020-09-17T17:28:26.652Z",
+        "updated": "2020-09-17T17:28:26.652Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706555,
+        "value": "* Castle wall or city wall?: Castle wall",
+        "purpose": "tagging",
+        "created": "2020-09-17T17:28:25.083Z",
+        "updated": "2020-09-17T17:28:25.083Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"3079,1732.5 3074.5,1732 3074.5,1701 3061,1683.5 3045.5,1693 3044.5,1728 3027,1729.5 3028.5,1697 3014,1678.5 3000.5,1692 2998,1730.5 2980.5,1731 2981.5,1696 2973,1679.5 2957.5,1696 2959.5,1732 2953.5,1732 2951.5,1636 2951.5,1449 2953,1418.5 2961.5,1426 2959.5,1458 2974,1462.5 2975.5,1426 2981,1418.5 2985.5,1420 2989.5,1427 2989,1464.5 3007.5,1461 3008.5,1429 3015,1421.5 3023.5,1429 3022,1463.5 3038.5,1464 3038.5,1434 3048,1423.5 3053.5,1431 3053.5,1466 3058,1467.5 3070.5,1468 3071.5,1435 3080,1427.5 3087.5,1436 3085.5,1468 3105,1467.5 3104.5,1437 3111,1429.5 3116.5,1433 3115.5,1696 3112.5,1695 3106,1684.5 3089,1694.5 3089.5,1730 3079,1732.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516342052,
+    "body": [
+      {
+        "id": 100706568,
+        "value": "* Tree Type: Deciduous (Most common, broccoli-like)",
+        "purpose": "tagging",
+        "created": "2020-09-17T17:34:24.578Z",
+        "updated": "2020-09-17T17:34:24.578Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706567,
+        "value": "* Singular or sample from a group?: Sample from a group",
+        "purpose": "tagging",
+        "created": "2020-09-17T17:34:22.311Z",
+        "updated": "2020-09-17T17:34:22.311Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706566,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-17T17:34:18.901Z",
+        "updated": "2020-09-17T17:34:18.901Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"3049.5,2643 3050.5,2637 3060,2627.5 3067,2623.5 3074.5,2613 3077.5,2596 3078.5,2573 3076.5,2557 3073.5,2548 3065.5,2536 3062.5,2523 3047.5,2500 3045.5,2485 3040.5,2474 3033,2463.5 3031.5,2464 3029.5,2474 3021,2485.5 3011,2486.5 3007.5,2485 3005.5,2479 3005.5,2454 3000.5,2445 2999.5,2437 2993.5,2428 2984.5,2409 2963.5,2395 2963.5,2385 2967.5,2381 2967.5,2375 2972.5,2366 2975,2362.5 2979.5,2361 2977.5,2352 2980.5,2342 2984,2338.5 2991,2336.5 3005,2336.5 3008,2329.5 3013,2329.5 3014.5,2328 3017.5,2313 3020,2312.5 3024,2314.5 3030,2307.5 3033,2308.5 3038,2313.5 3044,2310.5 3049,2318.5 3053,2317.5 3055.5,2315 3060,2305.5 3069,2304.5 3077,2304.5 3081,2307.5 3094,2306.5 3097,2315.5 3104,2313.5 3115,2306.5 3116.5,2307 3119,2314.5 3130,2309.5 3135,2317.5 3140,2315.5 3145,2321.5 3151,2319.5 3156,2313.5 3157.5,2328 3165.5,2342 3179.5,2355 3182.5,2365 3187.5,2374 3202,2380.5 3215.5,2390 3217.5,2402 3221.5,2408 3221.5,2421 3218.5,2425 3216.5,2450 3213.5,2457 3206,2464.5 3194.5,2471 3196.5,2479 3193,2487.5 3184,2487.5 3178,2485.5 3171,2475.5 3167.5,2480 3167,2490.5 3147,2491.5 3146.5,2475 3142.5,2466 3134,2468.5 3131,2464.5 3129,2464.5 3125.5,2467 3108.5,2499 3101.5,2518 3094.5,2530 3092.5,2538 3092.5,2561 3094.5,2572 3096,2573.5 3104,2572.5 3108.5,2580 3102.5,2592 3102.5,2609 3103.5,2615 3108.5,2618 3111.5,2623 3111.5,2626 3108,2631.5 3099,2632.5 3093,2630.5 3087,2622.5 3083.5,2630 3078.5,2635 3076.5,2644 3061,2648.5 3050,2648.5 3049.5,2643\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516342804,
+    "body": [
+      {
+        "id": 100706756,
+        "value": "* Tree Type: Deciduous (Most common, broccoli-like)",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:04:35.582Z",
+        "updated": "2020-09-17T18:04:35.582Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706754,
+        "value": "* Singular or sample from a group?: Sample from a group",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:04:32.322Z",
+        "updated": "2020-09-17T18:04:32.322Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706752,
+        "value": "* Partially occluded or Complete?: Complete",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:04:27.023Z",
+        "updated": "2020-09-17T18:04:27.023Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"2861.5,2716 2865.5,2710 2869.5,2699 2872.5,2666 2871.5,2616 2868.5,2594 2859.5,2554 2848.5,2524 2847,2522.5 2840,2524.5 2831.5,2534 2828.5,2543 2827,2543.5 2821.5,2535 2814.5,2516 2815.5,2434 2828.5,2410 2830.5,2402 2828.5,2392 2834.5,2384 2833.5,2378 2827.5,2373 2828.5,2370 2834,2364.5 2852,2363.5 2855.5,2353 2866,2342.5 2873,2343.5 2878,2336.5 2883,2333.5 2887,2333.5 2896.5,2345 2898,2357.5 2903,2358.5 2913,2348.5 2919,2353.5 2930,2350.5 2933.5,2357 2938.5,2360 2938.5,2372 2958,2387.5 2964,2383.5 2964.5,2395 2971,2402.5 2983.5,2410 2996.5,2431 3004.5,2450 3007.5,2488 3014.5,2499 3014.5,2508 3017.5,2513 3017.5,2520 3011,2526.5 2999,2521.5 2995.5,2542 2983,2552.5 2975,2550.5 2970,2552.5 2963,2551.5 2958,2554.5 2955,2554.5 2943,2550.5 2940,2541.5 2934,2543.5 2929,2540.5 2927,2534.5 2920.5,2532 2919.5,2519 2916,2517.5 2913.5,2519 2909.5,2537 2895.5,2576 2890.5,2637 2892.5,2684 2896,2693.5 2900,2696.5 2906.5,2697 2907.5,2706 2889,2706.5 2885.5,2701 2884.5,2696 2882,2695.5 2878.5,2698 2877.5,2710 2865,2717.5 2862,2717.5 2861.5,2716\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516343019,
+    "body": [
+      {
+        "id": 100706828,
+        "value": "* Roof structure type: Keep",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:13:16.475Z",
+        "updated": "2020-09-17T18:13:16.475Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706826,
+        "value": "* Roof Style: Crosshatched (Tile)",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:13:12.157Z",
+        "updated": "2020-09-17T18:13:12.157Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706824,
+        "value": "* Roof Side: Roof side",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:13:08.959Z",
+        "updated": "2020-09-17T18:13:08.959Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706822,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:13:04.596Z",
+        "updated": "2020-09-17T18:13:04.596Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"3097,911.5 3094.5,911 3094.5,883 3088,873.5 3073.5,886 3072,911.5 3061.5,911 3061.5,882 3049,874.5 3043,876.5 3035.5,883 3037,910.5 3025.5,911 3026.5,883 3015,874.5 3004.5,884 3004.5,911 2991,911.5 2992.5,883 2985.5,878 2985.5,875 3072,817.5 3078,815.5 3081.5,820 3097.5,856 3107.5,872 3107.5,876 3100.5,884 3099.5,903 3098.5,910 3097,911.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516343096,
+    "body": [
+      {
+        "id": 100706862,
+        "value": "* Roof structure type: Keep",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:15:58.042Z",
+        "updated": "2020-09-17T18:15:58.042Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706860,
+        "value": "* Roof Style: Crosshatched (Tile)",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:15:53.631Z",
+        "updated": "2020-09-17T18:15:53.631Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706859,
+        "value": "* Roof Side: Roof side",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:15:49.886Z",
+        "updated": "2020-09-17T18:15:49.886Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706856,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:15:44.502Z",
+        "updated": "2020-09-17T18:15:44.502Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"2969,915.5 2958.5,915 2958.5,896 2968,886.5 2969.5,887 2969,915.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516343215,
+    "body": [
+      {
+        "id": 100706907,
+        "value": "* Roof structure type: Keep",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:21:00.129Z",
+        "updated": "2020-09-17T18:21:00.129Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706906,
+        "value": "* Roof Style: Crosshatched (Tile)",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:20:55.871Z",
+        "updated": "2020-09-17T18:20:55.871Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706904,
+        "value": "* Roof Side: Roof side",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:20:53.372Z",
+        "updated": "2020-09-17T18:20:53.372Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706903,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:20:49.537Z",
+        "updated": "2020-09-17T18:20:49.537Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"2934,920.5 2923,920.5 2922.5,911 2928,908.5 2934,908.5 2934,920.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516343226,
+    "body": [
+      {
+        "id": 100706925,
+        "value": "* Roof structure type: Keep",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:21:43.379Z",
+        "updated": "2020-09-17T18:21:43.379Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706923,
+        "value": "* Roof Style: Crosshatched (Tile)",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:21:38.662Z",
+        "updated": "2020-09-17T18:21:38.662Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706921,
+        "value": "* Roof Side: Roof front",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:21:35.574Z",
+        "updated": "2020-09-17T18:21:35.574Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706918,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:21:31.372Z",
+        "updated": "2020-09-17T18:21:31.372Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"3181,917.5 3170.5,916 3171.5,894 3163,882.5 3155.5,892 3155.5,915 3145.5,914 3146.5,886 3139,873.5 3137.5,874 3131.5,888 3131.5,914 3123.5,914 3124.5,880 3110,876.5 3107.5,873 3092.5,844 3082.5,819 3082,812.5 3089,815.5 3090,817.5 3108,828.5 3109,830.5 3189.5,885 3189.5,888 3181.5,895 3181,917.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516343249,
+    "body": [
+      {
+        "id": 100706948,
+        "value": "* Roof structure type: Keep",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:23:19.718Z",
+        "updated": "2020-09-17T18:23:19.718Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706947,
+        "value": "* Roof Style: Crosshatched (Tile)",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:23:14.416Z",
+        "updated": "2020-09-17T18:23:14.416Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706945,
+        "value": "* Roof Side: Roof front",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:23:11.215Z",
+        "updated": "2020-09-17T18:23:11.215Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706944,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:23:07.770Z",
+        "updated": "2020-09-17T18:23:07.770Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"3210,920.5 3199.5,920 3200,897.5 3210.5,904 3210,920.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516343325,
+    "body": [
+      {
+        "id": 100706969,
+        "value": "* Roof structure type: Interior castle building",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:26:46.906Z",
+        "updated": "2020-09-17T18:26:46.906Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706967,
+        "value": "* Roof Style: Crosshatched (Tile)",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:26:34.615Z",
+        "updated": "2020-09-17T18:26:34.615Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706966,
+        "value": "* Roof Side: Roof front",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:26:27.458Z",
+        "updated": "2020-09-17T18:26:27.458Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706965,
+        "value": "* Partially occluded or Complete?: Complete",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:26:20.198Z",
+        "updated": "2020-09-17T18:26:20.198Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"3422,1550.5 3386,1548.5 3376,1548.5 3370,1550.5 3344.5,1550 3345.5,1544 3350.5,1534 3361.5,1489 3363.5,1476 3363,1456.5 3419,1456.5 3442.5,1488 3457,1501.5 3492,1528.5 3514,1538.5 3518.5,1542 3517,1544.5 3508,1548.5 3491,1547.5 3422,1550.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516343368,
+    "body": [
+      {
+        "id": 100706987,
+        "value": "* Roof structure type: Interior castle building",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:28:23.888Z",
+        "updated": "2020-09-17T18:28:23.888Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706986,
+        "value": "* Roof Style: Crosshatched (Tile)",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:28:19.668Z",
+        "updated": "2020-09-17T18:28:19.668Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706985,
+        "value": "* Roof Side: Roof side",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:28:17.349Z",
+        "updated": "2020-09-17T18:28:17.349Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706983,
+        "value": "* Partially occluded or Complete?: Complete",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:28:13.357Z",
+        "updated": "2020-09-17T18:28:13.357Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"3336,1549.5 3302,1549.5 3288,1545.5 3242,1547.5 3223,1547.5 3222.5,1546 3246,1536.5 3272,1523.5 3314,1495.5 3360,1458.5 3359.5,1481 3348.5,1531 3342.5,1545 3336,1549.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516343497,
+    "body": [
+      {
+        "id": 100707002,
+        "value": "Window (Rectangular): null",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:32:30.119Z",
+        "updated": "2020-09-17T18:32:30.119Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100707001,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:32:17.865Z",
+        "updated": "2020-09-17T18:32:17.865Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100707000,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:32:13.543Z",
+        "updated": "2020-09-17T18:32:13.543Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706999,
+        "value": "* Number of Merlons?: 0",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:32:07.207Z",
+        "updated": "2020-09-17T18:32:07.207Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706998,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:32:01.043Z",
+        "updated": "2020-09-17T18:32:01.043Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706997,
+        "value": "* Crenellated, flat or both?: Flat",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:31:55.086Z",
+        "updated": "2020-09-17T18:31:55.086Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100706996,
+        "value": "* Coursed, blank or both?: Coursed",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:31:43.803Z",
+        "updated": "2020-09-17T18:31:43.803Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"3277,1732.5 3258.5,1732 3261.5,1704 3249,1692.5 3237,1697.5 3227,1708.5 3225.5,1708 3226.5,1667 3223.5,1659 3233.5,1644 3234.5,1622 3240,1620.5 3247,1625.5 3261,1642.5 3269.5,1642 3270,1620.5 3289,1640.5 3304,1640.5 3305.5,1617 3305.5,1551 3351,1550.5 3350.5,1695 3349,1695.5 3343,1689.5 3324,1702.5 3327.5,1717 3324.5,1731 3307,1731.5 3308.5,1704 3301.5,1692 3298,1692.5 3279.5,1704 3277,1732.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516343690,
+    "body": [
+      {
+        "id": 100707049,
+        "value": "* Flag shape: Triangular",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:42:49.341Z",
+        "updated": "2020-09-17T18:42:49.341Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100707048,
+        "value": "* Flag Affiliation: Military Order",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:42:43.780Z",
+        "updated": "2020-09-17T18:42:43.780Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"2364,1283.5 2356,1283.5 2349,1279.5 2329,1275.5 2298.5,1273 2298,1079.5 2300.5,1080 2310.5,1093 2316,1097.5 2334,1107.5 2353,1114.5 2367,1122.5 2383,1134.5 2401.5,1151 2402.5,1154 2410.5,1163 2413.5,1171 2416.5,1183 2416.5,1214 2410.5,1240 2401.5,1254 2385,1270.5 2377,1277.5 2364,1283.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516343741,
+    "body": [
+      {
+        "id": 100707059,
+        "value": "* Flag shape: Triangular",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:44:13.533Z",
+        "updated": "2020-09-17T18:44:13.533Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100707058,
+        "value": "* Flag Affiliation: Military Order",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:44:09.142Z",
+        "updated": "2020-09-17T18:44:09.142Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"2284,1435.5 2282,1435.5 2273.5,1426 2269.5,1419 2266.5,1409 2263.5,1365 2267.5,1358 2287,1338.5 2313,1318.5 2388,1274.5 2403.5,1259 2417.5,1236 2427.5,1214 2430,1213.5 2429.5,1301 2420.5,1313 2403,1328.5 2381,1342.5 2357,1354.5 2338,1366.5 2332,1368.5 2298,1389.5 2287.5,1400 2282.5,1414 2284,1435.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516343786,
+    "body": [
+      {
+        "id": 100707061,
+        "value": "* Flag shape: Triangular",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:46:14.072Z",
+        "updated": "2020-09-17T18:46:14.072Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100707060,
+        "value": "* Flag Affiliation: Military Order",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:46:10.110Z",
+        "updated": "2020-09-17T18:46:10.110Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"2550,1475.5 2541,1475.5 2538,1474.5 2536.5,1472 2533.5,1463 2533.5,1451 2540.5,1437 2532,1431.5 2505,1436.5 2495,1433.5 2472,1431.5 2463,1428.5 2430,1427.5 2407,1431.5 2387,1438.5 2366,1443.5 2336,1443.5 2314,1439.5 2302,1433.5 2286,1430.5 2284.5,1429 2284.5,1422 2286.5,1408 2293,1397.5 2298,1394.5 2301,1394.5 2305.5,1402 2315,1410.5 2326,1415.5 2347,1421.5 2391,1421.5 2423,1415.5 2449,1414.5 2459,1415.5 2484,1425.5 2496,1424.5 2503,1428.5 2516,1428.5 2526,1424.5 2531,1424.5 2535.5,1421 2539,1415.5 2546,1416.5 2551,1410.5 2558,1406.5 2588,1406.5 2589.5,1409 2589.5,1421 2582.5,1442 2569.5,1462 2550,1475.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516343896,
+    "body": [
+      {
+        "id": 100707075,
+        "value": "* Flag shape: Rectangular",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:50:33.094Z",
+        "updated": "2020-09-17T18:50:33.094Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100707074,
+        "value": "* Flag Affiliation: Castile",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:50:29.194Z",
+        "updated": "2020-09-17T18:50:29.194Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"2969.5,494 2969.5,481 2971.5,473 2981,462.5 2988.5,460 2994,449.5 3007,445.5 3016.5,437 3024.5,421 3030.5,400 3042.5,382 3060,368.5 3111,346.5 3130,335.5 3144.5,316 3140,316.5 3131,321.5 3112,324.5 3090,326.5 3059,326.5 3035,329.5 3009,338.5 2988,348.5 2974.5,363 2968.5,377 2967.5,391 2978.5,401 2976.5,411 2969,422.5 2955,422.5 2948.5,416 2948.5,410 2956.5,391 2962.5,383 2967.5,368 2977.5,353 2996,340.5 3015,331.5 3028,327.5 3047,323.5 3060,322.5 3114,321.5 3132,316.5 3145.5,309 3155.5,288 3167,279.5 3169,279.5 3168.5,283 3155.5,294 3153.5,302 3160,298.5 3167.5,287 3170,285.5 3170.5,290 3168.5,296 3156,308.5 3150.5,312 3144.5,327 3140,333.5 3113,350.5 3071,367.5 3054,377.5 3043.5,389 3038.5,396 3029.5,415 3025.5,428 3016.5,444 3001,452.5 2995.5,458 2995.5,466 2991.5,473 3000.5,486 2995.5,495 2989,500.5 2977,499.5 2969.5,494 3012.5,641 3010.5,633 3007.5,629 3007.5,621 3013.5,605 3014.5,597 3022,589.5 3031,584.5 3061,579.5 3076,572.5 3088,564.5 3102.5,549 3105.5,533 3103.5,510 3102,508.5 3090,508.5 3045,511.5 3016,524.5 3010.5,528 3000.5,541 3000.5,545 3007.5,551 3008.5,563 3006,569.5 2998,572.5 2987,572.5 2979.5,570 2978.5,553 2980.5,546 2992,532.5 2998,534.5 3000.5,530 3006,525.5 3029,514.5 3051,507.5 3094,506.5 3102,504.5 3099.5,484 3101.5,457 3109.5,443 3116,436.5 3121,434.5 3120.5,440 3107.5,452 3106.5,456 3103.5,483 3105.5,504 3116,502.5 3126,496.5 3135.5,489 3146,475.5 3147.5,476 3147.5,482 3140,490.5 3125,501.5 3105.5,508 3107.5,520 3107.5,536 3105.5,555 3104,556.5 3096,561.5 3084,572.5 3074,578.5 3052,585.5 3037,586.5 3027.5,592 3025.5,603 3026.5,609 3028,611.5 3036,616.5 3039.5,620 3039.5,622 3034.5,632 3029,637.5 3018,642.5 3014,642.5 3012.5,641 3167.5,696 3155,675.5 3150,679.5 3130,689.5 3117.5,701 3100.5,725 3094.5,740 3095.5,754 3099,757.5 3112,764.5 3117.5,770 3120.5,774 3121.5,784 3111,788.5 3107.5,795 3104,796.5 3093,796.5 3086.5,793 3086.5,774 3092.5,761 3089.5,750 3089.5,744 3093.5,728 3108.5,706 3119,694.5 3143,677.5 3153.5,672 3147.5,659 3143.5,640 3143.5,609 3150.5,587 3165,571.5 3167.5,572 3165.5,580 3161,586.5 3159,583.5 3155.5,587 3147.5,603 3145.5,631 3147.5,648 3155.5,669 3157,669.5 3167.5,661 3169.5,510 3165.5,500 3153.5,485 3126.5,441 3122.5,434 3122.5,430 3140,428.5 3170.5,419 3171.5,267 3166.5,257 3166.5,247 3174.5,217 3176,215.5 3178.5,217 3188.5,246 3188.5,255 3185.5,263 3184.5,286 3202,295.5 3220,308.5 3236.5,325 3257.5,359 3267.5,393 3287.5,450 3298.5,492 3305.5,530 3315.5,557 3324.5,606 3324.5,622 3322.5,626 3309,639.5 3286,655.5 3267,656.5 3257.5,639 3255.5,638 3243.5,617 3225.5,592 3214,571.5 3183.5,573 3183.5,581 3193.5,599 3193.5,619 3192.5,629 3182.5,649 3182.5,708 3194,718.5 3211,729.5 3225,734.5 3245,735.5 3258.5,731 3256.5,720 3262,704.5 3277,706.5 3283,709.5 3287.5,714 3287.5,734 3280,743.5 3263,742.5 3253,736.5 3231,738.5 3213,733.5 3203,728.5 3193,721.5 3183,711.5 3181.5,712 3178,880.5 3172,878.5 3166.5,874 3167.5,696\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516344056,
+    "body": [
+      {
+        "id": 100707375,
+        "value": "* Landform type: Beach (stippled)",
+        "purpose": "tagging",
+        "created": "2020-09-17T21:26:48.409Z",
+        "updated": "2020-09-17T21:26:48.409Z",
+        "creator": "edtriplett"
+      },
+      {
+        "id": 100707105,
+        "value": "* River, Ocean or Pond?: River",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:54:08.476Z",
+        "updated": "2020-09-17T18:54:08.476Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"4775,2146.5 4770.5,2146 4776.5,2137 4780.5,2126 4776.5,2088 4770.5,2065 4754.5,2025 4752.5,2024 4719.5,1967 4704.5,1949 4685.5,1931 4681.5,1922 4672,1912.5 4625,1873.5 4584,1848.5 4557,1836.5 4530,1826.5 4516,1824.5 4480,1821.5 4411,1819.5 4392,1813.5 4383.5,1803 4383.5,1800 4411,1801.5 4444,1792.5 4483,1788.5 4563,1789.5 4580,1796.5 4603,1800.5 4630,1807.5 4662,1818.5 4685,1829.5 4728,1853.5 4768,1880.5 4809.5,1923 4821.5,1942 4837.5,1972 4846.5,2009 4855.5,2038 4873.5,2063 4884.5,2082 4884.5,2086 4880,2089.5 4851,2104.5 4808,2130.5 4775,2146.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516344168,
+    "body": [
+      {
+        "id": 100707106,
+        "value": "* Singular or sample from a group?: Single",
+        "purpose": "tagging",
+        "created": "2020-09-17T18:58:10.894Z",
+        "updated": "2020-09-17T18:58:10.894Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"3355,2432.5 3332,2431.5 3331.5,2420 3343.5,2396 3350,2387.5 3365.5,2374 3379.5,2352 3391.5,2341 3394.5,2332 3394.5,2324 3388.5,2318 3389.5,2292 3375.5,2283 3370.5,2270 3359.5,2258 3353.5,2247 3340.5,2242 3339,2227.5 3356.5,2227 3309,2188.5 3274,2169.5 3225,2139.5 3179,2117.5 3173,2112.5 3158,2104.5 3140,2097.5 3139.5,2095 3174,2094.5 3197,2090.5 3209,2085.5 3224,2083.5 3229.5,2070 3238,2062.5 3244,2062.5 3250,2063.5 3257,2067.5 3263,2078.5 3289,2097.5 3319,2105.5 3336,2107.5 3344,2110.5 3344.5,2109 3338.5,2098 3329.5,2087 3318.5,2067 3314,2061.5 3307.5,2057 3301.5,2044 3290.5,2032 3289.5,2018 3291.5,2010 3300,2003.5 3319,2002.5 3338,2007.5 3344,2012.5 3362,2012.5 3367,2021.5 3373,2024.5 3374,2026.5 3381,2028.5 3388,2037.5 3399,2048.5 3402,2049.5 3407,2046.5 3417,2034.5 3424,2030.5 3430.5,2021 3430.5,2011 3435.5,2002 3437.5,1992 3437.5,1977 3440.5,1972 3446,1967.5 3458,1962.5 3464,1953.5 3477,1952.5 3485,1955.5 3492.5,1967 3504.5,2020 3504.5,2032 3510,2034.5 3519,2031.5 3526,2035.5 3533.5,2044 3540.5,2057 3543.5,2085 3547.5,2101 3548.5,2120 3551,2120.5 3562,2115.5 3567,2109.5 3571.5,2117 3574,2126.5 3580,2124.5 3588,2137.5 3592,2133.5 3594.5,2136 3602.5,2161 3602.5,2183 3606.5,2207 3606.5,2220 3613,2218.5 3619.5,2229 3629.5,2238 3634,2244.5 3641,2243.5 3642.5,2246 3646.5,2258 3648.5,2275 3654.5,2295 3661.5,2330 3668.5,2338 3672.5,2363 3679.5,2367 3679.5,2371 3675,2377.5 3665,2382.5 3649,2382.5 3603,2372.5 3589,2372.5 3575,2376.5 3573.5,2378 3574.5,2384 3580.5,2389 3580.5,2399 3576.5,2405 3570,2409.5 3541,2407.5 3533,2405.5 3516,2405.5 3483,2414.5 3469,2415.5 3462,2414.5 3442,2405.5 3432,2403.5 3416,2410.5 3407,2411.5 3395,2417.5 3371,2422.5 3355,2432.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516344447,
+    "body": [
+      {
+        "id": 100707108,
+        "value": "* Landform type: Hill",
+        "purpose": "tagging",
+        "created": "2020-09-17T19:14:29.921Z",
+        "updated": "2020-09-17T19:14:29.921Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100707107,
+        "value": "* Hill or mountain location (Fore, middle, background?): Background",
+        "purpose": "tagging",
+        "created": "2020-09-17T19:14:24.228Z",
+        "updated": "2020-09-17T19:14:24.228Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"117,1673.5 110.5,1673 110.5,863 131,856.5 177,845.5 236,827.5 272,819.5 319,811.5 366,806.5 422,802.5 505,802.5 542,806.5 590,816.5 597,819.5 634,828.5 666,840.5 679,846.5 719,870.5 744,881.5 768,898.5 833,951.5 909,1027.5 925,1041.5 939,1052.5 965,1068.5 1001,1084.5 1011,1087.5 1085,1106.5 1163,1119.5 1229,1143.5 1242,1152.5 1277,1181.5 1308,1199.5 1334,1220.5 1371,1243.5 1393,1259.5 1441,1286.5 1473,1307.5 1483,1310.5 1485,1312.5 1512,1323.5 1553,1335.5 1566.5,1341 1561,1345.5 1521,1361.5 1482,1381.5 1409,1410.5 1366,1432.5 1306,1466.5 1280,1479.5 1236,1506.5 1189,1532.5 1176,1541.5 1125,1570.5 1109,1582.5 988,1555.5 968,1553.5 925,1552.5 895,1549.5 721,1548.5 618,1554.5 572,1562.5 515,1569.5 389,1591.5 381,1594.5 328,1606.5 272,1626.5 220,1639.5 166,1658.5 146,1663.5 117,1673.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516344478,
+    "body": [
+      {
+        "id": 100707110,
+        "value": "* Landform type: Hill",
+        "purpose": "tagging",
+        "created": "2020-09-17T19:18:43.392Z",
+        "updated": "2020-09-17T19:18:43.392Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100707109,
+        "value": "* Hill or mountain location (Fore, middle, background?): Background",
+        "purpose": "tagging",
+        "created": "2020-09-17T19:18:41.009Z",
+        "updated": "2020-09-17T19:18:41.009Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"5251,1029.5 5247,1029.5 5236.5,1016 5204,983.5 5190,971.5 5160,954.5 5149,947.5 5148,945.5 5075,907.5 5041,891.5 4973,863.5 4938,843.5 4898,828.5 4840,802.5 4775,779.5 4749,773.5 4746.5,772 4746.5,769 4759.5,748 4785,720.5 4806,709.5 4848,679.5 4849,677.5 4937,636.5 4970,625.5 5018,615.5 5050,611.5 5161,611.5 5200,615.5 5229,622.5 5284,642.5 5325,655.5 5352,665.5 5378,677.5 5391,685.5 5394.5,694 5405,700.5 5416,714.5 5441,726.5 5448,731.5 5453.5,739 5454.5,743 5474,761.5 5483,767.5 5494,769.5 5495.5,771 5495.5,868 5479,871.5 5464,877.5 5448,888.5 5444,889.5 5389,920.5 5359,940.5 5343,954.5 5326,966.5 5251,1029.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516366901,
+    "body": [
+      {
+        "id": 100707361,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Side facade",
+        "purpose": "tagging",
+        "created": "2020-09-17T21:19:42.086Z",
+        "updated": "2020-09-17T21:19:42.086Z",
+        "creator": "edtriplett"
+      },
+      {
+        "id": 100707362,
+        "value": "* Partially occluded or Complete?: Complete",
+        "purpose": "tagging",
+        "created": "2020-09-17T21:19:47.539Z",
+        "updated": "2020-09-17T21:19:47.539Z",
+        "creator": "edtriplett"
+      },
+      {
+        "id": 100707360,
+        "value": "* Coursed, blank or both?: Coursed",
+        "purpose": "tagging",
+        "created": "2020-09-17T21:19:39.877Z",
+        "updated": "2020-09-17T21:19:39.877Z",
+        "creator": "edtriplett"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"3243,1619.5 3199.5,1619 3200,1546.5 3279.5,1546 3279.5,1613 3255,1618.5 3243,1619.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516367700,
+    "body": [
+      {
+        "id": 100707365,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
+        "purpose": "tagging",
+        "created": "2020-09-17T21:21:53.547Z",
+        "updated": "2020-09-17T21:21:53.547Z",
+        "creator": "edtriplett"
+      },
+      {
+        "id": 100707366,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-17T21:22:28.455Z",
+        "updated": "2020-09-17T21:22:28.455Z",
+        "creator": "edtriplett"
+      },
+      {
+        "id": 100707364,
+        "value": "* Coursed, blank or both?: Coursed",
+        "purpose": "tagging",
+        "created": "2020-09-17T21:21:49.308Z",
+        "updated": "2020-09-17T21:21:49.308Z",
+        "creator": "edtriplett"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"3304,1640.5 3298,1640.5 3287.5,1624 3278.5,1615 3278.5,1548 3280,1545.5 3293,1545.5 3299,1548.5 3304.5,1549 3304,1640.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516394902,
+    "body": [
+      {
+        "id": 100707647,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-18T01:56:16.338Z",
+        "updated": "2020-09-18T01:56:16.338Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100707646,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-18T01:56:11.092Z",
+        "updated": "2020-09-18T01:56:11.092Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100707645,
+        "value": "* Number of Merlons?: 6",
+        "purpose": "tagging",
+        "created": "2020-09-18T01:56:07.165Z",
+        "updated": "2020-09-18T01:56:07.165Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100707644,
+        "value": "* Merlon shape?: Pointed",
+        "purpose": "tagging",
+        "created": "2020-09-18T01:55:53.670Z",
+        "updated": "2020-09-18T01:55:53.670Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100707643,
+        "value": "* Keep Shape?: Rectangular",
+        "purpose": "tagging",
+        "created": "2020-09-18T01:55:49.835Z",
+        "updated": "2020-09-18T01:55:49.835Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100707642,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
+        "purpose": "tagging",
+        "created": "2020-09-18T01:55:47.220Z",
+        "updated": "2020-09-18T01:55:47.220Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100707641,
+        "value": "* Crenellated, flat or both?: Crenellated",
+        "purpose": "tagging",
+        "created": "2020-09-18T01:55:44.695Z",
+        "updated": "2020-09-18T01:55:44.695Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100707640,
+        "value": "* Coursed, blank or both?: Coursed",
+        "purpose": "tagging",
+        "created": "2020-09-18T01:55:42.254Z",
+        "updated": "2020-09-18T01:55:42.254Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"3172,1732.5 3161.5,1732 3162.5,1700 3156,1690.5 3139.5,1700 3139,1730.5 3114.5,1728 3117.5,1703 3118.5,1656 3119.5,1390 3114.5,1229 3114.5,1080 3111.5,1036 3111.5,975 3114.5,937 3113.5,884 3121,879.5 3122.5,880 3124.5,914 3130,913.5 3131.5,912 3131.5,907 3129.5,885 3139,874.5 3142.5,876 3146.5,884 3147.5,912 3150,913.5 3155.5,914 3154.5,890 3163,879.5 3173.5,890 3174,916.5 3187.5,915 3183.5,895 3190,885.5 3199.5,894 3200,920.5 3211.5,918 3210.5,898 3220,894.5 3222.5,895 3223.5,899 3225.5,918 3228,918.5 3232.5,915 3232.5,905 3234.5,897 3236,894.5 3237.5,895 3236.5,994 3241.5,1222 3242.5,1415 3245.5,1451 3245.5,1533 3225,1545.5 3197.5,1544 3197.5,1625 3214,1634.5 3220.5,1641 3226.5,1652 3224.5,1666 3226.5,1683 3225.5,1701 3224,1706.5 3211,1709.5 3205,1695.5 3188,1700.5 3185.5,1706 3183.5,1730 3172,1732.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516395019,
+    "body": [
+      {
+        "id": 100707656,
+        "value": "Window (Rectangular): null",
+        "purpose": "tagging",
+        "created": "2020-09-18T02:03:24.683Z",
+        "updated": "2020-09-18T02:03:24.683Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100707655,
+        "value": "* Tower Shape?: Rectangular",
+        "purpose": "tagging",
+        "created": "2020-09-18T02:03:19.734Z",
+        "updated": "2020-09-18T02:03:19.734Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100707654,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-18T02:03:13.849Z",
+        "updated": "2020-09-18T02:03:13.849Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100707653,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-18T02:03:02.690Z",
+        "updated": "2020-09-18T02:03:02.690Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100707652,
+        "value": "* Number of Merlons?: 15",
+        "purpose": "tagging",
+        "created": "2020-09-18T02:02:56.698Z",
+        "updated": "2020-09-18T02:02:56.698Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100707651,
+        "value": "* Merlon shape?: Pointed",
+        "purpose": "tagging",
+        "created": "2020-09-18T02:02:42.377Z",
+        "updated": "2020-09-18T02:02:42.377Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100707650,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Front facade",
+        "purpose": "tagging",
+        "created": "2020-09-18T02:02:38.261Z",
+        "updated": "2020-09-18T02:02:38.261Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100707649,
+        "value": "* Crenellated, flat or both?: Crenellated",
+        "purpose": "tagging",
+        "created": "2020-09-18T02:02:32.507Z",
+        "updated": "2020-09-18T02:02:32.507Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100707648,
+        "value": "* Coursed, blank or both?: Coursed",
+        "purpose": "tagging",
+        "created": "2020-09-18T02:02:22.289Z",
+        "updated": "2020-09-18T02:02:22.289Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"3342,2107.5 3327,2106.5 3286,2093.5 3250,2062.5 3242,2064.5 3233,2069.5 3222.5,2084 3217,2087.5 3175,2095.5 3145,2096.5 3128,2090.5 3103,2077.5 3038,2060.5 2957,2053.5 2889,2061.5 2888.5,1957 2886.5,1904 2886.5,1691 2899.5,1703 2901,1735.5 2918.5,1733 2918.5,1700 2929,1691.5 2931.5,1693 2935.5,1700 2936.5,1737 2960,1734.5 2960.5,1698 2973,1685.5 2975.5,1687 2981.5,1699 2983.5,1736 2987,1735.5 2998.5,1729 3003.5,1693 3016,1681.5 3027.5,1700 3025,1733.5 3045.5,1729 3046.5,1697 3057,1687.5 3060,1686.5 3073.5,1701 3073,1734.5 3093.5,1732 3092.5,1698 3103,1687.5 3113.5,1700 3116,1730.5 3142.5,1731 3140.5,1700 3152,1691.5 3160.5,1701 3164,1735.5 3184.5,1733 3185.5,1706 3202,1696.5 3204.5,1697 3209.5,1708 3207.5,1737 3234,1734.5 3233.5,1708 3247,1695.5 3258.5,1706 3259,1737.5 3282.5,1731 3283.5,1706 3298,1696.5 3307.5,1706 3303.5,1735 3327,1736.5 3328.5,1704 3341,1691.5 3352.5,1699 3354,1552.5 3521,1552.5 3520,1651.5 3534.5,1650 3534.5,1621 3546,1610.5 3549,1609.5 3554.5,1625 3555.5,1653 3569,1655.5 3569.5,1626 3574.5,1615 3579,1609.5 3589.5,1619 3586.5,1658 3607.5,1660 3607.5,1631 3617,1622.5 3620,1621.5 3627.5,1635 3625.5,1666 3635,1665.5 3639.5,1664 3639.5,1637 3645.5,1627 3648,1625.5 3654.5,1633 3654.5,1723 3650.5,1764 3646.5,1876 3645.5,1887 3633.5,1901 3636.5,1925 3622.5,1923 3622.5,1897 3611.5,1881 3609,1879.5 3594.5,1900 3594,1925.5 3578.5,1925 3581.5,1900 3567,1884.5 3558.5,1903 3555.5,1925 3541,1926.5 3542.5,1899 3532,1884.5 3520.5,1898 3519,2028.5 3506.5,2029 3501.5,1998 3499.5,1995 3497.5,1985 3489.5,1966 3476,1952.5 3459,1958.5 3445.5,1969 3437.5,1985 3438.5,2001 3432.5,2011 3432.5,2022 3429.5,2028 3419,2038.5 3404,2048.5 3391,2037.5 3376,2029.5 3362,2017.5 3351,2015.5 3337,2008.5 3318,2004.5 3295,2008.5 3293.5,2010 3290.5,2024 3292.5,2030 3300.5,2044 3317.5,2065 3342,2107.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 516395262,
+    "body": [
+      {
+        "id": 100707658,
+        "value": "* Landform type: Hill",
+        "purpose": "tagging",
+        "created": "2020-09-18T02:19:23.921Z",
+        "updated": "2020-09-18T02:19:23.921Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100707657,
+        "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
+        "purpose": "tagging",
+        "created": "2020-09-18T02:19:21.212Z",
+        "updated": "2020-09-18T02:19:21.212Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"3186,2258.5 3182,2258.5 3149,2234.5 3129,2223.5 3111,2210.5 3086,2197.5 3064,2182.5 3028,2162.5 3005,2146.5 2985,2139.5 2975,2130.5 2927,2112.5 2878,2098.5 2848,2093.5 2845.5,2092 2845.5,2090 2858,2077.5 2868,2071.5 2890,2063.5 2923,2058.5 2944,2056.5 2969,2056.5 2984,2059.5 3016,2060.5 3060,2067.5 3101,2080.5 3119,2089.5 3140,2096.5 3169,2114.5 3208,2131.5 3313,2193.5 3349.5,2224 3349,2226.5 3329,2224.5 3305,2224.5 3294,2228.5 3280,2228.5 3271,2220.5 3253,2222.5 3249,2228.5 3236,2236.5 3228,2232.5 3221,2236.5 3206,2239.5 3186,2258.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 517409444,
+    "body": [
+      {
+        "id": 100710622,
+        "value": "* Landform type: Hill",
+        "purpose": "tagging",
+        "created": "2020-09-18T15:49:27.325Z",
+        "updated": "2020-09-18T15:49:27.325Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100710619,
+        "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
+        "purpose": "tagging",
+        "created": "2020-09-18T15:49:16.400Z",
+        "updated": "2020-09-18T15:49:16.400Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"2816,2428.5 2813.5,2428 2811.5,2263 2792,2246.5 2775,2234.5 2739,2218.5 2718,2205.5 2682,2194.5 2638,2178.5 2610,2173.5 2546,2157.5 2545,2154.5 2582,2147.5 2626,2136.5 2675,2121.5 2711,2112.5 2743,2109.5 2834,2095.5 2850,2095.5 2885,2103.5 2911,2112.5 2942,2119.5 2974,2132.5 2988,2144.5 3002,2147.5 3012,2155.5 3035,2169.5 3036,2171.5 3082,2195.5 3095,2205.5 3110,2212.5 3124,2224.5 3161,2244.5 3178,2258.5 3183.5,2258 3183.5,2260 3176,2265.5 3166.5,2276 3162.5,2285 3163.5,2300 3159.5,2307 3149,2318.5 3144,2313.5 3137,2316.5 3132,2308.5 3121,2312.5 3118.5,2307 3115,2306.5 3100,2313.5 3096,2304.5 3080,2303.5 3062,2303.5 3058.5,2308 3055.5,2316 3050,2318.5 3046.5,2318 3045,2311.5 3038,2313.5 3032,2307.5 3026,2313.5 3019,2312.5 3015.5,2328 3009,2328.5 3006,2335.5 2987,2337.5 2983.5,2340 2978.5,2351 2977.5,2361 2968.5,2370 2967.5,2383 2962,2386.5 2957,2385.5 2940.5,2375 2939.5,2362 2932,2349.5 2925,2350.5 2919,2353.5 2913,2348.5 2903,2356.5 2895.5,2341 2889,2333.5 2881,2335.5 2877,2337.5 2873,2343.5 2865,2343.5 2857.5,2351 2853,2362.5 2835,2365.5 2831.5,2368 2829.5,2373 2832.5,2378 2832.5,2387 2828.5,2393 2828.5,2402 2823.5,2419 2816,2428.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 517409825,
+    "body": [
+      {
+        "id": 100710806,
+        "value": "* Landform type: Hill",
+        "purpose": "tagging",
+        "created": "2020-09-18T15:56:11.892Z",
+        "updated": "2020-09-18T15:56:11.892Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100710805,
+        "value": "* Hill or mountain location (Fore, middle, background?): Background",
+        "purpose": "tagging",
+        "created": "2020-09-18T15:56:09.793Z",
+        "updated": "2020-09-18T15:56:09.793Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"5062,1170.5 5053,1170.5 4999,1156.5 4905,1142.5 4813,1134.5 4725,1135.5 4666,1124.5 4653,1123.5 4550,1121.5 4487,1122.5 4400,1131.5 4365,1137.5 4363,1137.5 4362.5,1136 4393,1121.5 4413,1108.5 4442,1076.5 4469,1058.5 4491.5,1037 4527.5,983 4556,950.5 4580,931.5 4632,897.5 4692,866.5 4733,851.5 4766,841.5 4845,829.5 4899,829.5 4942,847.5 4984,871.5 5033,890.5 5139,943.5 5160,958.5 5183,969.5 5193,977.5 5226.5,1010 5244.5,1030 5244.5,1034 5236,1041.5 5178,1085.5 5156,1099.5 5139,1116.5 5122,1130.5 5111,1138.5 5094,1147.5 5075,1162.5 5062,1170.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 517420238,
+    "body": [
+      {
+        "id": 100710808,
+        "value": "* Landform type: Beach (stippled)",
+        "purpose": "tagging",
+        "created": "2020-09-18T16:02:18.972Z",
+        "updated": "2020-09-18T16:02:18.972Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100710807,
+        "value": "* Hill or mountain location (Fore, middle, background?): Foreground",
+        "purpose": "tagging",
+        "created": "2020-09-18T16:02:11.007Z",
+        "updated": "2020-09-18T16:02:11.007Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"4236,3177.5 4232,3177.5 4222,3163.5 4198,3146.5 4129,3111.5 4083,3097.5 4041,3087.5 3994,3081.5 3885,3081.5 3803,3096.5 3759,3100.5 3716,3101.5 3691,3098.5 3682.5,3085 3682.5,3078 3688,3064.5 3691.5,3067 3701,3079.5 3721,3073.5 3757,3067.5 3798,3056.5 3827,3051.5 3868,3038.5 3955,3022.5 4137,3022.5 4246,3034.5 4342,3057.5 4371.5,3072 4371.5,3074 4367,3078.5 4323,3115.5 4282,3144.5 4257,3158.5 4236,3177.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 517522479,
+    "body": [
+      {
+        "id": 100710810,
+        "value": "* Landform type: Beach (stippled)",
+        "purpose": "tagging",
+        "created": "2020-09-18T16:05:24.274Z",
+        "updated": "2020-09-18T16:05:24.274Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100710809,
+        "value": "* Hill or mountain location (Fore, middle, background?): Foreground",
+        "purpose": "tagging",
+        "created": "2020-09-18T16:05:06.815Z",
+        "updated": "2020-09-18T16:05:06.815Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"3903,2770.5 3881,2770.5 3853,2764.5 3842,2754.5 3834,2750.5 3827,2748.5 3825,2746.5 3802,2742.5 3787.5,2734 3780.5,2717 3776.5,2692 3776.5,2663 3773.5,2651 3773.5,2611 3774.5,2597 3776.5,2592 3783.5,2580 3796,2567.5 3809,2559.5 3810,2557.5 3824,2552.5 3849,2538.5 3871,2516.5 3889,2503.5 3909,2485.5 3934,2472.5 3959,2470.5 3972,2467.5 3984,2458.5 3986.5,2456 3975.5,2421 3994.5,2399 4034.5,2359 4054.5,2333 4084.5,2304 4125.5,2251 4162.5,2186 4193.5,2122 4202.5,2090 4215.5,2053 4223.5,2022 4227.5,1994 4227.5,1953 4224.5,1932 4226.5,1908 4226.5,1883 4236.5,1866 4256,1846.5 4282,1845.5 4305,1860.5 4336,1886.5 4375,1911.5 4433,1939.5 4454,1951.5 4468.5,1972 4473.5,1981 4480.5,2007 4480.5,2043 4477.5,2057 4457.5,2114 4437.5,2143 4402.5,2183 4347,2238.5 4335,2248.5 4308,2266.5 4258,2290.5 4230,2307.5 4213,2319.5 4192,2339.5 4148,2373.5 4051.5,2442 4044.5,2454 4065.5,2488 4073.5,2513 4070.5,2549 4064.5,2575 4047.5,2605 4034.5,2621 4017.5,2638 4007.5,2652 3994.5,2681 3984.5,2708 3970.5,2732 3957.5,2747 3948,2754.5 3918,2768.5 3903,2770.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 517526580,
+    "body": [
+      {
+        "id": 100710848,
+        "value": "* Landform type: Hill",
+        "purpose": "tagging",
+        "created": "2020-09-18T16:09:07.059Z",
+        "updated": "2020-09-18T16:09:07.059Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100710847,
+        "value": "* Hill or mountain location (Fore, middle, background?): Background",
+        "purpose": "tagging",
+        "created": "2020-09-18T16:09:02.522Z",
+        "updated": "2020-09-18T16:09:02.522Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"4287,1158.5 4281.5,1158 4279.5,1131 4267,1124.5 4240,1122.5 4216,1115.5 4184,1113.5 4157,1103.5 4097,1095.5 4072,1089.5 3929,1090.5 3889,1099.5 3815,1108.5 3726,1127.5 3689,1137.5 3687.5,1137 3687.5,1133 3698.5,1112 3711.5,1102 3721.5,1078 3740.5,1057 3756.5,1036 3792,1002.5 3836,957.5 3841,954.5 3851,944.5 3868,930.5 3877,925.5 3923,892.5 3953,866.5 4011,831.5 4012,829.5 4017,827.5 4054,801.5 4137,758.5 4179,741.5 4254,717.5 4297,710.5 4337,708.5 4379,702.5 4484,702.5 4528,708.5 4645,737.5 4700,756.5 4724,767.5 4759,776.5 4817,799.5 4860,813.5 4885.5,825 4885,826.5 4838,825.5 4801,832.5 4775,835.5 4731,846.5 4659,877.5 4626,895.5 4596,914.5 4560,941.5 4535.5,969 4520.5,991 4515.5,996 4496.5,1027 4483.5,1042 4476,1049.5 4439,1073.5 4418.5,1095 4408,1108.5 4381,1123.5 4361,1139.5 4329,1144.5 4287,1158.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 517528572,
+    "body": [
+      {
+        "id": 100712686,
+        "value": "* Landform type: Hill",
+        "purpose": "tagging",
+        "created": "2020-09-18T16:14:15.718Z",
+        "updated": "2020-09-18T16:14:15.718Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100712637,
+        "value": "* Hill or mountain location (Fore, middle, background?): Background",
+        "purpose": "tagging",
+        "created": "2020-09-18T16:14:13.880Z",
+        "updated": "2020-09-18T16:14:13.880Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"3678,1923.5 3657.5,1923 3657.5,1902 3647.5,1888 3648.5,1819 3651.5,1754 3657.5,1717 3656.5,1640 3649.5,1629 3647,1627.5 3639.5,1637 3639,1663.5 3626.5,1663 3626.5,1637 3619,1625.5 3609.5,1631 3606.5,1658 3590,1658.5 3590.5,1628 3578,1615.5 3570.5,1624 3570.5,1654 3557,1654.5 3556.5,1624 3547,1612.5 3537,1618.5 3535.5,1621 3536.5,1649 3522,1653.5 3521.5,1551 3525.5,1545 3506,1531.5 3484,1519.5 3468,1507.5 3434.5,1473 3420,1455.5 3366,1456.5 3338,1472.5 3312,1493.5 3290,1504.5 3272,1517.5 3246,1531.5 3244.5,1489 3244.5,1365 3246.5,1362 3269,1339.5 3295,1320.5 3368,1275.5 3389,1260.5 3429,1241.5 3459,1223.5 3510,1197.5 3582,1170.5 3650,1149.5 3656,1146.5 3725,1129.5 3758,1123.5 3810,1109.5 3883,1101.5 3924,1091.5 4081,1091.5 4107,1098.5 4137,1102.5 4158,1103.5 4172,1108.5 4182,1115.5 4212,1114.5 4237,1122.5 4260,1122.5 4277,1128.5 4280.5,1145 4280.5,1155 4279,1156.5 4221,1177.5 4192,1191.5 4151,1206.5 4105,1230.5 4072,1244.5 4035,1265.5 4011,1281.5 3969,1313.5 3936,1341.5 3884.5,1397 3872.5,1408 3835.5,1450 3789.5,1516 3773.5,1544 3754.5,1585 3730.5,1652 3708.5,1705 3706.5,1716 3704.5,1719 3699.5,1741 3696.5,1748 3687.5,1791 3685.5,1823 3685.5,1862 3693.5,1883 3682,1890.5 3680.5,1893 3678,1923.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 517530252,
+    "body": [
+      {
+        "id": 100714225,
+        "value": "* Landform type: Beach (stippled)",
+        "purpose": "tagging",
+        "created": "2020-09-18T16:17:56.756Z",
+        "updated": "2020-09-18T16:17:56.756Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100714180,
+        "value": "* Hill or mountain location (Fore, middle, background?): Background",
+        "purpose": "tagging",
+        "created": "2020-09-18T16:17:52.290Z",
+        "updated": "2020-09-18T16:17:52.290Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"3789,2050.5 3786.5,2050 3785.5,1928 3779,1918.5 3771.5,1926 3769.5,1945 3767,1945.5 3758,1942.5 3755.5,1941 3755.5,1914 3748,1910.5 3741.5,1915 3741.5,1932 3731,1930.5 3730.5,1903 3722,1898.5 3715.5,1909 3715.5,1931 3711,1930.5 3703.5,1926 3702.5,1899 3695.5,1888 3693.5,1874 3691.5,1873 3684.5,1861 3685.5,1786 3697.5,1750 3702.5,1730 3725.5,1662 3769.5,1555 3824.5,1460 3876.5,1407 3941,1337.5 4001,1290.5 4031,1269.5 4068,1246.5 4114,1226.5 4154,1205.5 4232,1177.5 4271,1158.5 4303,1149.5 4346,1140.5 4397,1132.5 4460,1124.5 4479,1123.5 4555,1123.5 4578,1121.5 4628,1121.5 4682,1126.5 4718.5,1134 4717,1136.5 4698,1144.5 4678,1148.5 4648,1144.5 4547,1154.5 4489,1163.5 4450,1173.5 4364,1184.5 4326,1194.5 4260,1216.5 4236,1229.5 4207,1238.5 4172,1259.5 4134,1276.5 4107,1298.5 4062,1320.5 4013,1358.5 3974,1396.5 3964,1404.5 3917.5,1455 3889.5,1500 3858.5,1578 3856.5,1614 3852.5,1643 3848.5,1694 3849.5,1753 3856.5,1838 3854.5,1887 3848.5,1939 3838.5,1980 3824.5,2009 3819.5,2017 3789,2050.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 517733716,
+    "body": [
+      {
+        "id": 100822171,
+        "value": "* Landform type: Hill",
+        "purpose": "tagging",
+        "created": "2020-09-18T17:23:14.840Z",
+        "updated": "2020-09-18T17:23:14.840Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100822170,
+        "value": "* Hill or mountain location (Fore, middle, background?): Background",
+        "purpose": "tagging",
+        "created": "2020-09-18T17:23:09.502Z",
+        "updated": "2020-09-18T17:23:09.502Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"2039,1996.5 1990,1974.5 1932,1940.5 1872,1909.5 1737,1833.5 1640,1785.5 1633,1783.5 1566,1751.5 1468,1711.5 1414,1683.5 1350,1660.5 1345,1657.5 1280,1635.5 1112,1583.5 1110.5,1580 1143,1561.5 1212,1518.5 1373,1428.5 1419,1406.5 1454,1393.5 1520,1363.5 1551,1351.5 1598,1328.5 1608,1325.5 1624,1317.5 1654,1307.5 1694,1302.5 1748,1288.5 1902,1255.5 1999,1238.5 2121,1223.5 2206,1221.5 2298,1221.5 2296.5,1223 2297.5,1275 2332,1276.5 2348,1279.5 2360.5,1284 2337,1299.5 2320,1308.5 2279,1342.5 2267.5,1354 2263.5,1372 2264.5,1404 2266.5,1413 2272.5,1427 2283,1435.5 2299.5,1438 2300.5,1475 2299.5,1520 2297.5,1519 2287.5,1500 2284,1497.5 2264.5,1522 2272.5,1559 2274.5,1698 2273.5,1800 2257,1802.5 2250.5,1802 2250.5,1767 2235,1748.5 2211.5,1773 2212.5,1806 2191,1809.5 2190.5,1804 2194.5,1774 2175,1755.5 2153.5,1779 2153.5,1814 2129,1817.5 2132.5,1779 2116,1758.5 2112.5,1761 2093.5,1786 2094.5,1967 2093,1996.5 2039,1996.5 2298.5,1548 2310.5,1547 2311,1441.5 2345,1444.5 2376,1442.5 2420,1429.5 2451,1429.5 2468,1431.5 2487,1437.5 2515,1437.5 2529.5,1429 2529,1426.5 2519,1425.5 2489,1425.5 2468,1417.5 2447,1413.5 2417,1415.5 2371,1422.5 2358,1421.5 2325,1415.5 2298.5,1394 2305,1388.5 2327,1376.5 2339,1366.5 2357,1355.5 2401,1334.5 2418.5,1318 2425.5,1306 2432,1226.5 2505,1230.5 2573,1237.5 2612,1246.5 2658,1250.5 2685,1260.5 2727,1269.5 2766,1282.5 2803,1304.5 2817.5,1322 2829.5,1341 2829.5,1452 2826,1492.5 2819.5,1492 2820.5,1464 2808,1454.5 2806,1454.5 2798.5,1499 2793,1502.5 2785.5,1505 2786.5,1479 2774,1464.5 2757.5,1479 2756.5,1514 2730,1518.5 2729.5,1516 2736.5,1491 2722,1471.5 2696.5,1489 2692.5,1519 2674,1522.5 2676.5,1494 2661,1473.5 2635.5,1494 2633.5,1524 2613,1527.5 2615.5,1499 2599,1479.5 2574.5,1502 2577.5,1528 2559,1532.5 2559.5,1503 2547,1482.5 2524.5,1504 2522.5,1534 2505,1537.5 2506.5,1507 2493,1484.5 2466.5,1508 2468,1540.5 2449.5,1541 2451.5,1510 2440,1491.5 2417.5,1511 2417.5,1545 2407,1547.5 2402.5,1547 2402.5,1512 2388,1493.5 2369.5,1512 2366,1549.5 2352.5,1548 2350.5,1517 2339.5,1497 2337,1496.5 2317.5,1521 2321.5,1548 2305,1550.5 2299,1550.5 2298.5,1548\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 517734322,
+    "body": [
+      {
+        "id": 100822366,
+        "value": "* Landform type: Hill",
+        "purpose": "tagging",
+        "created": "2020-09-18T17:35:25.877Z",
+        "updated": "2020-09-18T17:35:25.877Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100822365,
+        "value": "* Hill or mountain location (Fore, middle, background?): Background",
+        "purpose": "tagging",
+        "created": "2020-09-18T17:35:24.060Z",
+        "updated": "2020-09-18T17:35:24.060Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"4888,2073.5 4881,2073.5 4879.5,2072 4862.5,2044 4850.5,2012 4844.5,1986 4834.5,1956 4814.5,1921 4787,1890.5 4749,1863.5 4718,1845.5 4712,1840.5 4665,1816.5 4624,1802.5 4613,1800.5 4606,1797.5 4583,1793.5 4571,1787.5 4539,1784.5 4490,1784.5 4459,1787.5 4411,1797.5 4383,1798.5 4382.5,1775 4404.5,1743 4428.5,1718 4442,1698.5 4460,1689.5 4495,1668.5 4560,1625.5 4588,1612.5 4631,1570.5 4683,1526.5 4712,1497.5 4759.5,1455 4784.5,1424 4811.5,1397 4822.5,1377 4843.5,1358 4876.5,1317 4918,1282.5 4962,1238.5 5019,1199.5 5037,1185.5 5120,1132.5 5155,1101.5 5192,1077.5 5233,1046.5 5297,992.5 5359,944.5 5395,920.5 5429,902.5 5461,882.5 5477,875.5 5498,875.5 5498.5,949 5480.5,1810 5435,1826.5 5389,1836.5 5322,1856.5 5253,1881.5 5214,1899.5 5165,1918.5 5140,1931.5 5114,1942.5 5062,1969.5 4992,2010.5 4991,2012.5 4971,2024.5 4935,2044.5 4906,2067.5 4888,2073.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 517734520,
+    "body": [
+      {
+        "id": 100822409,
+        "value": "* Landform type: Hill",
+        "purpose": "tagging",
+        "created": "2020-09-18T17:39:02.345Z",
+        "updated": "2020-09-18T17:39:02.345Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100822407,
+        "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
+        "purpose": "tagging",
+        "created": "2020-09-18T17:38:59.722Z",
+        "updated": "2020-09-18T17:38:59.722Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"2480,3102.5 2470,3102.5 2416,3090.5 2283,3048.5 2107,2976.5 2050,2950.5 2022,2943.5 1917,2882.5 1838,2842.5 1808,2824.5 1770,2804.5 1675,2746.5 1620,2715.5 1619,2713.5 1459,2621.5 1380,2571.5 1374,2567.5 1373.5,2565 1429,2532.5 1499,2487.5 1516,2474.5 1538,2452.5 1546,2446.5 1579,2427.5 1634,2390.5 1679,2364.5 1733,2329.5 1762,2313.5 1795,2291.5 1887,2248.5 1930,2220.5 1946,2213.5 1966,2207.5 2021,2176.5 2056,2165.5 2080,2159.5 2095,2157.5 2098,2148.5 2286,2135.5 2375,2135.5 2464,2143.5 2560,2162.5 2658,2188.5 2687,2197.5 2717,2209.5 2730,2215.5 2758,2232.5 2784,2240.5 2789.5,2245 2805.5,2265 2806.5,2277 2815.5,2484 2815.5,2796 2785,2824.5 2744,2855.5 2697,2895.5 2658,2921.5 2611,2962.5 2527.5,3045 2500.5,3081 2489.5,3094 2480,3102.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 517734644,
+    "body": [
+      {
+        "id": 100822452,
+        "value": "* Landform type: Hill",
+        "purpose": "tagging",
+        "created": "2020-09-18T17:41:52.885Z",
+        "updated": "2020-09-18T17:41:52.885Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100822451,
+        "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
+        "purpose": "tagging",
+        "created": "2020-09-18T17:41:46.943Z",
+        "updated": "2020-09-18T17:41:46.943Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"2818,2791.5 2815.5,2791 2816,2527.5 2817.5,2528 2826,2545.5 2835.5,2534 2844,2526.5 2854.5,2538 2859.5,2549 2869.5,2600 2872.5,2627 2873.5,2673 2866.5,2703 2865.5,2715 2867,2715.5 2873,2713.5 2875.5,2711 2880,2698.5 2886,2707.5 2906.5,2703 2900,2693.5 2892.5,2690 2891.5,2686 2890.5,2620 2894.5,2600 2894.5,2575 2901.5,2562 2907.5,2542 2916.5,2522 2918.5,2522 2921,2536.5 2928,2535.5 2931,2544.5 2941,2544.5 2951,2555.5 2966,2555.5 2988,2551.5 2997.5,2539 2998.5,2524 3013.5,2526 3014.5,2515 3011.5,2506 3010.5,2489 3022,2485.5 3033,2470.5 3041.5,2479 3048.5,2507 3059.5,2518 3067.5,2539 3076.5,2553 3080.5,2574 3077.5,2603 3072.5,2616 3069.5,2622 3059,2628.5 3050.5,2638 3050.5,2649 3075,2644.5 3081.5,2632 3088,2623.5 3103,2633.5 3110,2629.5 3111.5,2626 3104.5,2620 3101.5,2609 3102.5,2592 3108.5,2580 3101,2572.5 3091.5,2570 3092.5,2535 3102.5,2512 3124.5,2470 3135,2465.5 3138,2465.5 3147.5,2472 3148,2491.5 3166,2490.5 3172,2477.5 3184,2487.5 3196.5,2484 3196.5,2471 3209.5,2463 3217.5,2450 3217.5,2435 3221.5,2412 3215.5,2402 3215.5,2389 3224,2387.5 3228.5,2385 3231.5,2371 3237,2360.5 3241.5,2364 3251.5,2377 3266.5,2402 3266.5,2516 3250.5,2534 3252,2543.5 3267,2539.5 3274,2544.5 3277,2544.5 3282,2539.5 3293.5,2533 3293.5,2524 3284.5,2514 3283.5,2503 3283.5,2427 3285.5,2407 3286.5,2401 3301.5,2375 3317,2357.5 3319,2357.5 3320.5,2360 3323.5,2375 3328,2377.5 3336,2379.5 3349,2372.5 3364.5,2371 3348.5,2388 3333.5,2413 3328.5,2433 3341,2434.5 3354,2434.5 3366,2428.5 3380,2425.5 3413,2414.5 3429,2406.5 3442,2409.5 3460,2417.5 3476,2420.5 3491,2416.5 3509,2408.5 3540,2408.5 3574,2413.5 3582.5,2405 3585.5,2392 3574.5,2382 3585,2374.5 3603,2374.5 3620,2379.5 3644.5,2382 3642,2386.5 3608,2414.5 3557,2452.5 3528,2480.5 3510,2488.5 3509,2490.5 3482,2505.5 3463,2512.5 3421,2531.5 3358,2554.5 3324,2571.5 3298,2581.5 3229,2618.5 3081,2672.5 3006,2696.5 2966,2714.5 2923,2728.5 2901,2738.5 2877,2756.5 2818,2791.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 517739522,
+    "body": [
+      {
+        "id": 100822519,
+        "value": "* Landform type: Beach (stippled)",
+        "purpose": "tagging",
+        "created": "2020-09-18T17:48:27.449Z",
+        "updated": "2020-09-18T17:48:27.449Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100822516,
+        "value": "* Hill or mountain location (Fore, middle, background?): Foreground",
+        "purpose": "tagging",
+        "created": "2020-09-18T17:48:24.532Z",
+        "updated": "2020-09-18T17:48:24.532Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"2820,3021.5 2818.5,3021 2817.5,2965 2818,2793.5 2911,2736.5 2973,2714.5 3033,2690.5 3095,2671.5 3143,2653.5 3145,2651.5 3168,2643.5 3185,2635.5 3232,2619.5 3263,2600.5 3281,2591.5 3310,2579.5 3377,2547.5 3435,2527.5 3437,2525.5 3447,2522.5 3449,2520.5 3488,2504.5 3523,2484.5 3550,2462.5 3576,2438.5 3612,2414.5 3644,2383.5 3669.5,2384 3635,2417.5 3613,2429.5 3575,2457.5 3553,2479.5 3525,2503.5 3492,2538.5 3470,2552.5 3469,2554.5 3423,2580.5 3347,2627.5 3318,2642.5 3304,2646.5 3249,2667.5 3230,2678.5 3190,2697.5 3138,2726.5 3137,2728.5 3110,2746.5 3070,2766.5 3028,2792.5 2993,2808.5 2975,2824.5 2894,2888.5 2869.5,2917 2845.5,2955 2825.5,3010 2820,3021.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 517739627,
+    "body": [
+      {
+        "id": 100822537,
+        "value": "* Landform type: Beach (stippled)",
+        "purpose": "tagging",
+        "created": "2020-09-18T17:50:50.730Z",
+        "updated": "2020-09-18T17:50:50.730Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100822536,
+        "value": "* Hill or mountain location (Fore, middle, background?): Foreground",
+        "purpose": "tagging",
+        "created": "2020-09-18T17:50:47.889Z",
+        "updated": "2020-09-18T17:50:47.889Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"2633,3885.5 1672,3885.5 1651,3884.5 1650.5,3880 1675.5,3815 1677.5,3813 1695.5,3763 1728.5,3724 1767.5,3671 1796,3638.5 1828,3614.5 1870,3575.5 1899,3555.5 1970,3518.5 1979,3512.5 2052,3483.5 2098,3467.5 2132,3450.5 2167,3428.5 2207,3406.5 2265,3363.5 2306,3330.5 2309,3330.5 2374.5,3254 2392.5,3230 2403.5,3212 2405.5,3211 2449.5,3142 2519.5,3057 2625,2951.5 2675,2911.5 2720,2879.5 2761,2843.5 2797,2815.5 2813,2799.5 2815,2799.5 2815.5,3026 2787.5,3062 2762.5,3109 2728.5,3162 2693.5,3225 2653.5,3313 2613.5,3434 2603.5,3500 2591.5,3635 2596.5,3694 2597.5,3763 2608.5,3820 2626.5,3861 2633,3885.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 518650063,
+    "body": [
+      {
+        "id": 100834798,
+        "value": "* Landform type: Hill",
+        "purpose": "tagging",
+        "created": "2020-09-19T16:56:59.696Z",
+        "updated": "2020-09-19T16:56:59.696Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100834797,
+        "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
+        "purpose": "tagging",
+        "created": "2020-09-19T16:56:57.467Z",
+        "updated": "2020-09-19T16:56:57.467Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"4846,2531.5 4843,2531.5 4840.5,2529 4840.5,2526 4843,2523.5 4846,2523.5 4848.5,2526 4848.5,2529 4846,2531.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 518650154,
+    "body": [
+      {
+        "id": 100834803,
+        "value": "* Landform type: Hill",
+        "purpose": "tagging",
+        "created": "2020-09-19T16:59:07.336Z",
+        "updated": "2020-09-19T16:59:07.336Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100834802,
+        "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
+        "purpose": "tagging",
+        "created": "2020-09-19T16:59:02.771Z",
+        "updated": "2020-09-19T16:59:02.771Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"3709,3077.5 3699,3077.5 3690.5,3062 3687,3061.5 3686.5,3059 3740.5,3010 3796,2939.5 3883,2874.5 3890,2872.5 3985,2827.5 4095,2783.5 4198,2684.5 4313,2585.5 4334.5,2558 4396.5,2471 4452.5,2407 4477.5,2376 4598,2255.5 4700,2202.5 4788,2139.5 4789,2137.5 4895,2085.5 5002,2006.5 5135,1943.5 5272,1871.5 5392,1841.5 5476,1813.5 5481.5,1814 5485.5,2324 5485.5,2543 5484,2544.5 5423,2573.5 5328,2612.5 5240,2673.5 5180,2718.5 5169,2724.5 5135,2737.5 5133,2739.5 5123,2742.5 5121,2744.5 5111,2747.5 5109,2749.5 5099,2752.5 5058,2770.5 4785,2854.5 4703,2893.5 4600,2932.5 4506,2986.5 4437,3031.5 4364,3075.5 4359,3075.5 4322,3051.5 4321,3053.5 4319,3053.5 4265,3038.5 4231,3033.5 4141,3023.5 3948,3023.5 3877,3035.5 3838,3048.5 3797,3056.5 3771,3065.5 3709,3077.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 518650267,
+    "body": [
+      {
+        "id": 100834810,
+        "value": "* Landform type: Hill",
+        "purpose": "tagging",
+        "created": "2020-09-19T17:01:07.147Z",
+        "updated": "2020-09-19T17:01:07.147Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100834809,
+        "value": "* Hill or mountain location (Fore, middle, background?): Foreground",
+        "purpose": "tagging",
+        "created": "2020-09-19T17:01:04.881Z",
+        "updated": "2020-09-19T17:01:04.881Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"5476,3933.5 5384,3933.5 3351,3899.5 3320.5,3837 3318.5,3830 3316.5,3828 3316.5,3823 3393,3771.5 3394,3769.5 3480,3744.5 3562,3702.5 3662,3660.5 3752,3610.5 3758,3608.5 3779,3595.5 3810,3571.5 3876,3524.5 3984,3440.5 4072.5,3343 4144.5,3256 4240,3170.5 4300,3130.5 4301,3128.5 4377,3077.5 4378,3075.5 4390,3068.5 4522,2976.5 4699,2897.5 4742,2880.5 4744,2878.5 4853,2832.5 5020,2784.5 5098,2755.5 5103,2752.5 5114,2749.5 5119,2746.5 5130,2743.5 5132,2741.5 5175,2726.5 5280,2661.5 5384,2592.5 5478,2558.5 5485,2557.5 5485.5,2764 5476,3933.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 518650378,
+    "body": [
+      {
+        "id": 100834822,
+        "value": "* Landform type: Hill",
+        "purpose": "tagging",
+        "created": "2020-09-19T17:04:53.509Z",
+        "updated": "2020-09-19T17:04:53.509Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100834821,
+        "value": "* Hill or mountain location (Fore, middle, background?): Foreground",
+        "purpose": "tagging",
+        "created": "2020-09-19T17:04:51.151Z",
+        "updated": "2020-09-19T17:04:51.151Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"520,3884.5 141.5,3884 132.5,2468 133,2216.5 244,2199.5 249,2197.5 331,2182.5 364,2182.5 504,2191.5 666,2226.5 798,2277.5 825,2286.5 827,2288.5 838,2291.5 1001,2364.5 1113,2426.5 1154,2447.5 1316,2543.5 1486,2652.5 1665,2751.5 1814,2843.5 1946,2910.5 1963,2920.5 2158,3009.5 2205,3026.5 2337,3078.5 2450,3113.5 2463.5,3119 2463.5,3122 2458.5,3130 2445.5,3148 2441.5,3156 2439.5,3157 2381.5,3247 2309,3329.5 2212,3402.5 2106,3464.5 1983,3510.5 1967,3520.5 1961,3522.5 1878,3568.5 1789,3647.5 1770.5,3669 1769.5,3672 1695.5,3765 1651,3879.5 520,3884.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 519606545,
+    "body": [
+      {
+        "id": 100900268,
+        "value": "* Roof structure type: House",
+        "purpose": "tagging",
+        "created": "2020-09-21T17:39:42.483Z",
+        "updated": "2020-09-21T17:39:42.483Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100900267,
+        "value": "* Roof Style: Crosshatched (Tile)",
+        "purpose": "tagging",
+        "created": "2020-09-21T17:39:40.030Z",
+        "updated": "2020-09-21T17:39:40.030Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100900266,
+        "value": "* Roof Side: Roof front",
+        "purpose": "tagging",
+        "created": "2020-09-21T17:39:35.282Z",
+        "updated": "2020-09-21T17:39:35.282Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100900265,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-21T17:39:31.028Z",
+        "updated": "2020-09-21T17:39:31.028Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"2032,2072.5 1966,2072.5 1940.5,2045 1919.5,2014 1917.5,2013 1914.5,2008 1914.5,2005 2006,2001.5 2026,1998.5 2094,1998.5 2095.5,2016 2095.5,2069 2082,2068.5 2032,2072.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 519606606,
+    "body": [
+      {
+        "id": 100900272,
+        "value": "* Landform type: Hill",
+        "purpose": "tagging",
+        "created": "2020-09-21T17:41:57.556Z",
+        "updated": "2020-09-21T17:41:57.556Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 100900271,
+        "value": "* Hill or mountain location (Fore, middle, background?): Middleground",
+        "purpose": "tagging",
+        "created": "2020-09-21T17:41:54.733Z",
+        "updated": "2020-09-21T17:41:54.733Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1116,2421.5 999,2362.5 980,2351.5 923,2327.5 919,2324.5 880,2308.5 792,2268.5 685,2223.5 533,2193.5 373,2178.5 137,2208.5 117.5,1725 117.5,1685 123,1681.5 227,1638.5 489,1575.5 644,1561.5 792,1552.5 848,1552.5 1002,1560.5 1171,1602.5 1312,1649.5 1458,1713.5 1600,1766.5 1715,1830.5 1719,1831.5 1742,1845.5 1882,1912.5 2015.5,1999 1998,2001.5 1950,2003.5 1911,2008.5 1893,2023.5 1873,2035.5 1871,2035.5 1864,2029.5 1838,2004.5 1834,2001.5 1831,2001.5 1768,2017.5 1708,2026.5 1641,2043.5 1633.5,2055 1615,2071.5 1594,2081.5 1568,2077.5 1537,2069.5 1535.5,2068 1535.5,2023 1529,2014.5 1515.5,2015 1513,2069.5 1472,2062.5 1433,2053.5 1387,2048.5 1335,2105.5 1302,2103.5 1271,2096.5 1199,2086.5 1194,2086.5 1177,2105.5 1175.5,2104 1172.5,2080 1155,2079.5 1152.5,2137 1146,2148.5 1127,2159.5 1074,2153.5 1028,2153.5 998,2180.5 979,2202.5 961,2190.5 940,2188.5 903,2195.5 805,2208.5 791,2218.5 777.5,2232 766.5,2250 766.5,2254 774,2258.5 825,2279.5 859,2295.5 940,2328.5 952,2335.5 1020,2367.5 1089,2405.5 1179,2451.5 1238,2485.5 1244,2490.5 1140,2435.5 1131,2429.5 1125,2427.5 1116,2421.5 1248.5,2493 1250,2492.5 1251,2494.5 1248.5,2493 1560.5,2440 1555,2443.5 1555,2441.5 1560.5,2440 1562,2439.5 1560.5,2439 1562,2437.5 1565.5,2437 1562,2439.5 1576,2429.5 1575,2431.5 1573.5,2431 1576,2429.5 1714,2344.5 1760,2311.5 1820,2281.5 1866,2255.5 1920,2230.5 1985,2196.5 1992,2194.5 2039,2172.5 2093,2152.5 2094.5,2151 2093.5,2013 2103.5,2015 2103.5,2038 2096.5,2146 2095.5,2154 2094,2155.5 2086,2157.5 1998,2192.5 1944,2220.5 1881,2255.5 1860,2265.5 1844,2275.5 1808,2293.5 1792,2303.5 1773,2312.5 1724,2341.5 1720,2342.5 1649,2383.5 1581,2427.5 1579.5,2427 1582,2424.5 1613,2402.5 1657,2374.5 1714,2344.5 1259,2497.5 1265,2502.5 1253.5,2496 1259,2497.5 1271,2504.5 1277,2509.5 1265.5,2503 1271,2504.5 1277.5,2510 1283,2511.5 1283,2513.5 1277.5,2510 1289,2515.5 1295,2520.5 1283.5,2514 1289,2515.5 1295.5,2521 1301,2522.5 1320,2533.5 1325,2538.5 1295.5,2521 1325.5,2539 1329,2539.5 1330,2541.5 1325.5,2539 1332,2541.5 1333,2543.5 1330.5,2542 1332,2541.5 1335,2543.5 1336,2545.5 1333.5,2544 1335,2543.5 1340,2546.5 1341,2548.5 1336.5,2546 1340,2546.5 1413,2542.5 1422,2536.5 1452,2522.5 1544,2448.5 1551,2444.5 1552.5,2445 1466,2518.5 1378,2567.5 1372,2567.5 1369.5,2566 1373,2565.5 1394,2551.5 1413,2542.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 520415786,
+    "body": [
+      {
+        "id": 101259949,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:36:19.567Z",
+        "updated": "2020-09-22T18:36:19.567Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 101259948,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:36:15.589Z",
+        "updated": "2020-09-22T18:36:15.589Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 101259947,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:36:13.133Z",
+        "updated": "2020-09-22T18:36:13.133Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"780,2258.5 775,2258.5 767,2255.5 766.5,2248 773,2244.5 782.5,2231 805,2209.5 804.5,2213 801.5,2216 801.5,2221 795.5,2233 780,2258.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 520415818,
+    "body": [
+      {
+        "id": 101259952,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:37:44.113Z",
+        "updated": "2020-09-22T18:37:44.113Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 101259951,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:37:40.560Z",
+        "updated": "2020-09-22T18:37:40.560Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 101259950,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:37:37.978Z",
+        "updated": "2020-09-22T18:37:37.978Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"981,2343.5 973,2342.5 967,2339.5 965.5,2336 993,2314.5 1016,2292.5 1024,2293.5 1024.5,2298 1009.5,2317 981,2343.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 520415838,
+    "body": [
+      {
+        "id": 101259962,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:39:26.637Z",
+        "updated": "2020-09-22T18:39:26.637Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 101259961,
+        "value": "* Partially occluded or Complete?: Complete",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:39:22.948Z",
+        "updated": "2020-09-22T18:39:22.948Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 101259960,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:39:19.523Z",
+        "updated": "2020-09-22T18:39:19.523Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1260,2240.5 1258,2240.5 1254,2235.5 1246.5,2233 1238.5,2217 1231,2208.5 1224,2202.5 1209.5,2194 1208.5,2187 1214,2174.5 1219,2174.5 1226,2177.5 1245.5,2197 1253.5,2210 1258.5,2225 1262.5,2231 1262.5,2238 1260,2240.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 520415858,
+    "body": [
+      {
+        "id": 101259965,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:40:13.571Z",
+        "updated": "2020-09-22T18:40:13.571Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 101259964,
+        "value": "* Partially occluded or Complete?: Complete",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:40:10.029Z",
+        "updated": "2020-09-22T18:40:10.029Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 101259963,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:40:05.384Z",
+        "updated": "2020-09-22T18:40:05.384Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1198,2404.5 1187,2404.5 1186.5,2402 1217.5,2369 1238.5,2331 1241,2329.5 1245.5,2337 1245.5,2348 1243.5,2353 1222.5,2382 1216.5,2388 1214.5,2394 1198,2404.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 520415876,
+    "body": [
+      {
+        "id": 101259968,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:40:56.734Z",
+        "updated": "2020-09-22T18:40:56.734Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 101259967,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:40:53.336Z",
+        "updated": "2020-09-22T18:40:53.336Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 101259966,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:40:50.500Z",
+        "updated": "2020-09-22T18:40:50.500Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1255,2491.5 1252,2491.5 1241,2485.5 1238.5,2483 1238.5,2479 1246.5,2464 1254.5,2457 1260,2449.5 1265,2447.5 1271,2447.5 1273.5,2452 1273.5,2458 1267.5,2463 1262.5,2471 1256.5,2483 1255,2491.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 520415886,
+    "body": [
+      {
+        "id": 101259972,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:41:36.201Z",
+        "updated": "2020-09-22T18:41:36.201Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 101259971,
+        "value": "* Partially occluded or Complete?: Complete",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:41:33.031Z",
+        "updated": "2020-09-22T18:41:33.031Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 101259970,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:41:28.654Z",
+        "updated": "2020-09-22T18:41:28.654Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1351,2194.5 1347.5,2194 1347.5,2184 1371,2168.5 1381.5,2154 1399,2135.5 1405,2130.5 1413,2127.5 1421,2127.5 1467,2168.5 1477,2172.5 1488.5,2180 1482,2185.5 1476,2183.5 1454,2169.5 1438,2162.5 1421,2145.5 1410,2140.5 1393.5,2156 1379,2173.5 1351,2194.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 520415911,
+    "body": [
+      {
+        "id": 101259976,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:42:45.293Z",
+        "updated": "2020-09-22T18:42:45.293Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 101259975,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:42:41.810Z",
+        "updated": "2020-09-22T18:42:41.810Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 101259974,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:42:39.509Z",
+        "updated": "2020-09-22T18:42:39.509Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1421,2281.5 1415,2280.5 1413.5,2279 1414.5,2275 1430.5,2258 1447.5,2235 1451,2233.5 1455.5,2242 1455.5,2247 1448,2252.5 1442.5,2262 1421,2281.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 520415936,
+    "body": [
+      {
+        "id": 101259980,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:43:35.826Z",
+        "updated": "2020-09-22T18:43:35.826Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 101259979,
+        "value": "* Partially occluded or Complete?: Complete",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:43:32.679Z",
+        "updated": "2020-09-22T18:43:32.679Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 101259978,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:43:28.339Z",
+        "updated": "2020-09-22T18:43:28.339Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1659,2149.5 1656,2149.5 1626,2126.5 1606.5,2104 1605.5,2097 1610,2089.5 1613.5,2091 1618.5,2100 1634,2118.5 1662.5,2139 1662.5,2144 1659,2149.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 520415976,
+    "body": [
+      {
+        "id": 101259986,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:44:59.609Z",
+        "updated": "2020-09-22T18:44:59.609Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 101259985,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:44:56.577Z",
+        "updated": "2020-09-22T18:44:56.577Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 101259984,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:44:53.569Z",
+        "updated": "2020-09-22T18:44:53.569Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1614,2088.5 1611,2088.5 1608,2083.5 1598,2081.5 1597.5,2079 1621,2067.5 1629.5,2060 1639,2047.5 1642,2047.5 1644.5,2051 1644.5,2057 1630.5,2075 1614,2088.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 520415987,
+    "body": [
+      {
+        "id": 101259990,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:45:41.845Z",
+        "updated": "2020-09-22T18:45:41.845Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 101259989,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:45:38.719Z",
+        "updated": "2020-09-22T18:45:38.719Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 101259988,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:45:36.426Z",
+        "updated": "2020-09-22T18:45:36.426Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1681,2232.5 1677,2232.5 1672.5,2228 1672.5,2225 1687.5,2213 1709.5,2184 1719,2174.5 1726,2170.5 1730.5,2177 1730.5,2182 1728.5,2185 1681,2232.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 520415999,
+    "body": [
+      {
+        "id": 101259993,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:46:31.915Z",
+        "updated": "2020-09-22T18:46:31.915Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 101259992,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:46:28.791Z",
+        "updated": "2020-09-22T18:46:28.791Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 101259991,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
+        "purpose": "tagging",
+        "created": "2020-09-22T18:46:26.947Z",
+        "updated": "2020-09-22T18:46:26.947Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1471,2413.5 1468,2413.5 1464.5,2410 1464.5,2398 1480.5,2388 1499.5,2360 1506.5,2345 1508,2343.5 1512,2344.5 1513.5,2346 1513.5,2366 1511.5,2370 1500.5,2387 1471,2413.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 520797956,
+    "body": [],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"3242.5,1365 3243.5,1235 3239.5,1143 3240.5,894 3233.5,896 3233.5,915 3228,917.5 3223,892.5 3199,898.5 3198.5,892 3195,888.5 3178,876.5 3158,865.5 3157,863.5 3083,811.5 3078,813.5 3077,815.5 3022,851.5 3021,853.5 2987,873.5 2986,875.5 2969,885.5 2958,894.5 2955.5,892 2953.5,881 2947,876.5 2944,877.5 2935.5,885 2934,908.5 2921.5,908 2922.5,882 2919,878.5 2915,876.5 2906.5,890 2909.5,902 2908.5,913 2906.5,917 2907.5,1298 2896.5,1298 2896.5,1328 2886,1328.5 2884.5,1301 2878,1295.5 2876,1296.5 2869.5,1305 2872.5,1334 2862,1338.5 2859.5,1338 2859.5,1306 2855,1302.5 2852,1303.5 2847.5,1307 2847,1340.5 2837.5,1340 2839.5,1308 2836,1302.5 2832.5,1310 2830.5,1333 2829.5,1338 2828,1338.5 2813.5,1316 2798,1300.5 2775,1286.5 2725,1269.5 2687,1261.5 2659,1251.5 2641,1248.5 2613,1246.5 2580,1238.5 2535,1235.5 2472,1228.5 2434,1226.5 2429,1213.5 2416.5,1212 2415.5,1179 2413.5,1169 2411.5,1164 2400.5,1149 2365,1120.5 2356,1115.5 2335,1107.5 2313,1095.5 2299,1079.5 2297,1221.5 2115,1224.5 2018,1237.5 1975,1241.5 1890,1258.5 1872,1263.5 1811,1274.5 1691,1303.5 1658,1306.5 1613,1322.5 1611,1324.5 1603,1326.5 1574,1339.5 1567,1340.5 1559,1336.5 1517,1324.5 1463,1302.5 1441,1286.5 1401,1265.5 1372,1244.5 1342,1226.5 1321,1210.5 1306,1196.5 1271,1176.5 1246,1155.5 1227,1142.5 1176,1123.5 1144,1115.5 1060,1101.5 1042,1096.5 999,1083.5 963,1066.5 933,1047.5 895,1015.5 855,972.5 801,924.5 795,921.5 745,883.5 732,876.5 716,870.5 694,855.5 663,839.5 594,818.5 552,808.5 510,803.5 402,803.5 278,818.5 210,834.5 179,846.5 124,858.5 122.5,803 122.5,15 170,14.5 555,27.5 947,37.5 1528,42.5 2088,52.5 2489,52.5 2698,62.5 2802,86.5 2852,72.5 2964,52.5 3254,52.5 3501,57.5 3756,42.5 3821,41.5 4367,37.5 4827,42.5 5138,32.5 5495.5,28 5495.5,715 5494,767.5 5484,767.5 5474,760.5 5464,749.5 5454.5,743 5450,733.5 5441,726.5 5426,720.5 5414,712.5 5406,700.5 5394.5,695 5391,685.5 5373,674.5 5320,653.5 5261,634.5 5232,623.5 5201,615.5 5165,611.5 5031,612.5 5013,615.5 4947,632.5 4848,678.5 4827,692.5 4803,711.5 4782,721.5 4771.5,736 4758.5,748 4746,770.5 4739,770.5 4714,764.5 4691,752.5 4642,738.5 4636,735.5 4592,725.5 4550,713.5 4540,712.5 4522,707.5 4486,702.5 4364,702.5 4343,707.5 4308,708.5 4282,711.5 4237,722.5 4187,737.5 4161,749.5 4117,766.5 4055,801.5 4027,820.5 3988,842.5 3987,844.5 3951,867.5 3922,892.5 3873,927.5 3840,953.5 3772.5,1021 3751.5,1044 3737.5,1062 3720.5,1079 3712.5,1101 3697.5,1112 3686,1138.5 3567,1176.5 3487,1208.5 3428,1242.5 3393,1259.5 3342,1292.5 3313,1308.5 3269,1340.5 3245,1365.5 3242.5,1365\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 530719772,
+    "body": [
+      {
+        "id": 103045883,
+        "value": "* Ruined or intact?: Intact",
+        "purpose": "tagging",
+        "created": "2020-10-02T12:37:35.216Z",
+        "updated": "2020-10-02T12:37:35.216Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 103045882,
+        "value": "* Partially occluded or Complete?: Partially Occluded",
+        "purpose": "tagging",
+        "created": "2020-10-02T12:37:31.362Z",
+        "updated": "2020-10-02T12:37:31.362Z",
+        "creator": "csr35"
+      },
+      {
+        "id": 103045881,
+        "value": "* Front Facade, Side Facade, Round,  Eave, Top, or Back side?: Eave",
+        "purpose": "tagging",
+        "created": "2020-10-02T12:37:28.256Z",
+        "updated": "2020-10-02T12:37:28.256Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1882,2045.5 1878,2045.5 1873.5,2041 1873.5,2038 1911,2010.5 1915,2010.5 1918.5,2014 1918.5,2018 1917,2019.5 1882,2045.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 530720252,
+    "body": [
+      {
+        "id": 103045966,
+        "value": "* Landform type: Beach (stippled)",
+        "purpose": "tagging",
+        "created": "2020-10-02T13:03:15.718Z",
+        "updated": "2020-10-02T13:03:15.718Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"3884,1394.5 3881.5,1394 3880.5,1384 3874.5,1371 3874.5,1367 3882,1369.5 3884.5,1367 3886.5,1351 3886.5,1331 3888,1327.5 3889.5,1328 3890.5,1334 3891.5,1364 3893.5,1363 3898.5,1347 3899.5,1328 3902,1327.5 3907.5,1335 3908,1342.5 3910,1333.5 3914.5,1338 3914.5,1358 3884,1394.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 530720467,
+    "body": [
+      {
+        "id": 103046013,
+        "value": "* River, Ocean or Pond?: River",
+        "purpose": "tagging",
+        "created": "2020-10-02T13:15:24.036Z",
+        "updated": "2020-10-02T13:15:24.036Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"2739,3886.5 2736,3882.5 2633,3882.5 2623.5,3854 2605.5,3818 2596.5,3769 2596.5,3713 2594.5,3672 2590.5,3645 2590.5,3618 2601.5,3522 2601.5,3508 2612.5,3434 2648.5,3325 2657.5,3301 2659.5,3299 2679.5,3252 2712.5,3189 2731.5,3156 2733.5,3155 2741.5,3140 2752.5,3124 2781.5,3071 2783.5,3070 2796.5,3048 2817.5,3023 2828.5,3003 2840.5,2966 2848.5,2953 2849.5,2947 2866.5,2921 2881.5,2902 2903,2881.5 2946,2847.5 2971,2824.5 2995,2807.5 3029,2791.5 3073,2766.5 3106,2750.5 3138,2727.5 3174,2706.5 3214,2688.5 3245,2670.5 3275,2656.5 3314,2644.5 3345,2629.5 3366,2616.5 3370,2615.5 3371,2613.5 3406,2589.5 3419,2583.5 3476,2549.5 3496,2533.5 3517,2509.5 3539,2492.5 3580,2452.5 3605,2434.5 3608,2434.5 3617,2428.5 3634,2421.5 3667,2385.5 3687,2374.5 3714,2353.5 3762.5,2305 3765.5,2299 3767.5,2298 3782.5,2275 3783.5,2088 3787.5,2053 3813.5,2025 3823.5,2011 3839.5,1977 3851.5,1925 3854.5,1880 3856.5,1869 3856.5,1845 3849.5,1737 3849.5,1683 3853.5,1623 3858.5,1579 3868.5,1548 3888.5,1506 3890.5,1499 3924.5,1447 3971,1396.5 4057,1321.5 4083,1310.5 4103,1299.5 4119,1289.5 4136,1273.5 4156,1267.5 4208,1237.5 4239,1228.5 4268,1212.5 4298,1204.5 4323,1195.5 4366,1184.5 4407,1177.5 4446,1174.5 4487,1164.5 4541,1155.5 4646,1143.5 4653,1143.5 4670,1148.5 4696,1146.5 4718,1134.5 4821,1134.5 4930,1145.5 5001,1157.5 5054,1171.5 5054.5,1174 5053,1175.5 5011,1205.5 5010,1207.5 4962,1239.5 4936,1266.5 4906,1289.5 4876,1315.5 4850.5,1351 4822.5,1376 4812.5,1398 4790.5,1418 4770.5,1442 4732,1480.5 4702,1507.5 4675,1534.5 4580,1617.5 4553,1628.5 4530,1642.5 4493,1668.5 4442,1699.5 4431.5,1716 4404.5,1741 4396.5,1758 4382.5,1775 4384.5,1798 4389.5,1812 4392,1814.5 4408,1819.5 4440,1821.5 4494,1821.5 4521,1823.5 4535,1826.5 4586,1847.5 4642,1883.5 4645,1888.5 4669,1908.5 4682.5,1922 4690.5,1937 4713.5,1958 4753.5,2022 4759.5,2038 4762.5,2042 4768.5,2056 4780.5,2102 4780.5,2115 4773.5,2147 4752,2165.5 4704,2199.5 4597,2256.5 4483.5,2370 4465.5,2394 4421.5,2442 4369.5,2509 4319.5,2582 4274,2619.5 4234,2656.5 4203,2681.5 4099,2782.5 4087,2789.5 4056,2801.5 4047,2806.5 3997,2824.5 3964,2840.5 3937,2851.5 3933,2854.5 3926,2856.5 3877,2880.5 3839,2911.5 3800,2937.5 3739.5,3014 3683.5,3061 3684.5,3088 3690,3097.5 3701,3100.5 3744,3101.5 3779,3098.5 3882,3083.5 3999,3082.5 4028,3086.5 4116,3107.5 4153,3123.5 4198,3146.5 4219,3163.5 4228.5,3173 4230.5,3179 4145.5,3252 4083.5,3324 4049.5,3366 3983,3438.5 3885,3515.5 3811,3566.5 3779,3593.5 3685,3645.5 3668,3656.5 3603,3684.5 3556,3702.5 3518,3724.5 3478,3743.5 3430,3758.5 3397,3766.5 3313,3822.5 3339.5,3878 3339,3879.5 2861,3881.5 2805,3882.5 2762,3886.5 2739,3886.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 530721087,
+    "body": [
+      {
+        "id": 103046167,
+        "value": "Latitude and Longitude: 42.056375, -8.538129",
+        "purpose": "tagging",
+        "created": "2020-10-02T13:52:23.987Z",
+        "updated": "2020-10-02T13:52:23.987Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"2913,884\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 530721301,
+    "body": [
+      {
+        "id": 103046213,
+        "value": "Length in meters: 10.67",
+        "purpose": "tagging",
+        "created": "2020-10-02T13:57:07.952Z",
+        "updated": "2020-10-02T13:57:07.952Z",
+        "creator": "csr35"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"2907,925 3113,916\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 561553645,
+    "body": [
+      {
+        "id": 107994335,
+        "value": "* Flag shape: Triangular",
+        "purpose": "tagging",
+        "created": "2020-11-25T13:25:46.420Z",
+        "updated": "2020-11-25T13:25:46.420Z",
+        "creator": "edtriplett"
+      },
+      {
+        "id": 107994334,
+        "value": "* Flag Affiliation: Portugal",
+        "purpose": "tagging",
+        "created": "2020-11-25T13:25:38.607Z",
+        "updated": "2020-11-25T13:25:38.607Z",
+        "creator": "edtriplett"
+      }
+    ],
+    "target": {
+      "source": "lapela1.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"2304,1083.5 2298.5,1078 2293.5,1061 2293.5,1050 2302,1023.5 2304.5,1026 2309.5,1052 2309.5,1078 2308,1084.5 2304,1083.5 2299.5,1277 2308,1276.5 2308.5,1315 2303,1320.5 2299.5,1320 2299.5,1277 2297.5,1479 2298,1436.5 2304,1436.5 2310.5,1439 2310.5,1549 2308,1550.5 2300.5,1550 2297.5,1479\" /></svg>"
+      }
+    }
+  }
+]

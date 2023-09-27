@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>OSD Example</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/openseadragon.min.js"></script>
+    <script src="annotorious-openseadragon.umd.js"></script>
+    <link rel="stylesheet" href="annotorious-openseadragon.css">
+    <style>
+      html, body, #openseadragon {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        height: 100%;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="openseadragon"></div>
+
+    <script type="text/javascript">
+      const imagename = location.hash.substr(1) || 'caminha2';
+
+      console.log('loading', imagename);
+
+      const viewer = OpenSeadragon({
+        id: "openseadragon",
+        prefixUrl: "https://cdnjs.cloudflare.com/ajax/libs/openseadragon/4.1.0/images/",
+        tileSources: `https://iiif.rainersimon.io/book-of-fortresses/${imagename}/info.json`,
+        crossOriginPolicy: "Anonymous",
+        gestureSettingsMouse: {
+          clickToZoom: false
+        }
+      });
+
+      // Dummy formatter that just applies a stronger color
+      const formatter = (annotation) => ({
+        fill: 'red',
+        fillOpacity: 0.25
+      });
+
+      window.onload = function() {
+        const anno = Annotorious.Annotorious(viewer);
+
+        anno.setFormatter(formatter);
+
+        anno.loadAnnotations(`annotations/${imagename}.w3c.json`);
+
+        anno.on('selectionChanged', selection => {
+          if (selection?.length > 0)
+            console.log(selection[0]);
+        });
+      }
+    </script>
+  </body>
+</html>
