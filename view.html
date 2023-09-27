@@ -67,7 +67,9 @@
 
         anno.setFormatter(formatter);
 
-        anno.loadAnnotations(`annotations/${imagename}.w3c.json`);
+        anno
+          .loadAnnotations(`annotations/${imagename}.w3c.json`)
+          .then(annotations => console.log('Loaded ' + annotations.length + ' annotations'));
 
         anno.on('selectionChanged', selection => {
           if (selection?.length > 0)
