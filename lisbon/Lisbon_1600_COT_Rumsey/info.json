@@ -1,0 +1,31 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://iiif.rainersimon.io/lisbon/Lisbon_1600_COT_Rumsey",
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8,
+        16,
+        32
+      ],
+      "width": 256
+    }
+  ],
+  "width": 10797,
+  "height": 7546
+}
