@@ -1,0 +1,4728 @@
+[
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472034036,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-23T17:22:28.748Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "sehorewood"
+      },
+      {
+        "id": 90070460,
+        "value": "* Facade direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:31:45.577Z",
+        "updated": "2020-06-23T19:31:45.577Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070461,
+        "value": "* Religious type: Monastery",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:31:53.881Z",
+        "updated": "2020-06-23T19:31:53.881Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070462,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:31:56.920Z",
+        "updated": "2020-06-23T19:31:56.920Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100191,
+        "value": "* Religious building facade part: Wall",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:11:15.655Z",
+        "updated": "2020-06-24T15:11:15.655Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1311,1641.5 1231,1641.5 1230.5,1602 1314,1602.5 1314.5,1618 1311,1641.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472035181,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-23T18:15:20.566Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069472,
+        "value": "* Facade direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:16:10.747Z",
+        "updated": "2020-06-23T18:16:10.747Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069473,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:16:18.326Z",
+        "updated": "2020-06-23T18:16:18.326Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069475,
+        "value": "* Religious type: Monastery",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:17:19.856Z",
+        "updated": "2020-06-23T18:17:19.856Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100222,
+        "value": "* Religious building facade part: Wall",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:13:26.879Z",
+        "updated": "2020-06-24T15:13:26.879Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1230,1641.5 1195,1641.5 1194.5,1611 1230,1610.5 1230,1641.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472035322,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-23T18:18:49.845Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069479,
+        "value": "* Religious type: Monastery",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:19:29.194Z",
+        "updated": "2020-06-23T18:19:29.194Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069477,
+        "value": "* Facade direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:19:10.412Z",
+        "updated": "2020-06-23T18:19:10.412Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069480,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:19:35.950Z",
+        "updated": "2020-06-23T18:19:35.950Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100219,
+        "value": "* Religious building facade part: Cloister (Interior)",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:13:15.858Z",
+        "updated": "2020-06-24T15:13:15.858Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1194,1641.5 1181.5,1641 1181.5,1619 1186,1612.5 1189,1612.5 1194.5,1618 1194,1641.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472035329,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-23T18:20:06.232Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069482,
+        "value": "* Facade direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:20:30.716Z",
+        "updated": "2020-06-23T18:20:30.716Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069483,
+        "value": "* Religious type: Monastery",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:20:35.882Z",
+        "updated": "2020-06-23T18:20:35.882Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069484,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:20:40.142Z",
+        "updated": "2020-06-23T18:20:40.142Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070464,
+        "value": "* Religious building facade part: Cloister (Interior)",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:33:00.176Z",
+        "updated": "2020-06-23T19:33:00.176Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1271,1569.5 1215,1569.5 1214.5,1547 1271,1546.5 1271,1569.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472035340,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-23T18:20:46.930Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069488,
+        "value": "* Religious type: Monastery",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:21:13.740Z",
+        "updated": "2020-06-23T18:21:13.740Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069487,
+        "value": "* Facade direction: South-West",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:21:07.586Z",
+        "updated": "2020-06-23T18:21:07.586Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069489,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:21:18.266Z",
+        "updated": "2020-06-23T18:21:18.266Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100215,
+        "value": "* Religious building facade part: Cloister (Interior)",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:12:59.825Z",
+        "updated": "2020-06-24T15:12:59.825Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1279,1578.5 1270.5,1578 1270.5,1552 1272,1546.5 1274.5,1549 1276.5,1557 1279.5,1571 1279,1578.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472035611,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-23T18:28:11.492Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069596,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:28:23.346Z",
+        "updated": "2020-06-23T18:28:23.346Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069598,
+        "value": "* Facade direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:28:33.357Z",
+        "updated": "2020-06-23T18:28:33.357Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069602,
+        "value": "* Religious type: Monastery",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:28:42.109Z",
+        "updated": "2020-06-23T18:28:42.109Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100213,
+        "value": "* Religious building facade part: Cloister (Interior)",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:12:51.642Z",
+        "updated": "2020-06-24T15:12:51.642Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1304,1564.5 1290.5,1564 1287.5,1551 1288,1544.5 1304.5,1545 1304,1564.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472035616,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-23T18:28:53.291Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069616,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:31:06.176Z",
+        "updated": "2020-06-23T18:31:06.176Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069613,
+        "value": "* Religious type: Tower (stand-alone or clearly demarcated)",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:30:52.031Z",
+        "updated": "2020-06-23T18:30:52.031Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069612,
+        "value": "* Facade direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:30:43.480Z",
+        "updated": "2020-06-23T18:30:43.480Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069614,
+        "value": "* Religious building facade part: Tower",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:31:02.150Z",
+        "updated": "2020-06-23T18:31:02.150Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1331,1642.5 1311.5,1642 1311.5,1562 1314.5,1535 1314.5,1528 1312.5,1527 1312.5,1525 1318,1516.5 1324,1516.5 1325.5,1520 1328.5,1522 1327.5,1527 1325.5,1529 1325.5,1542 1329.5,1547 1329.5,1557 1331.5,1559 1331,1642.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472035680,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-23T18:31:14.522Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069622,
+        "value": "* Religious type: Monastery",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:31:43.620Z",
+        "updated": "2020-06-23T18:31:43.620Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069620,
+        "value": "* Facade direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:31:32.491Z",
+        "updated": "2020-06-23T18:31:32.491Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069623,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:31:50.094Z",
+        "updated": "2020-06-23T18:31:50.094Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100210,
+        "value": "* Religious building facade part: Wall",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:12:36.221Z",
+        "updated": "2020-06-24T15:12:36.221Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1345,1642.5 1329.5,1642 1329.5,1622 1335,1614.5 1338,1614.5 1345.5,1621 1345,1642.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472035698,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T18:31:58.781Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069634,
+        "value": "* Roof-plane direction: East",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:33:10.456Z",
+        "updated": "2020-06-23T18:33:10.456Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069631,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:32:55.384Z",
+        "updated": "2020-06-23T18:32:55.384Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1345,1620.5 1342,1620.5 1335.5,1616 1331.5,1592 1332,1582.5 1341.5,1605 1345.5,1617 1345,1620.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472035797,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T18:35:27.636Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069647,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:35:57.435Z",
+        "updated": "2020-06-23T18:35:57.435Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069649,
+        "value": "* Roof-plane direction: West",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:36:11.132Z",
+        "updated": "2020-06-23T18:36:11.132Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1334,1619.5 1331.5,1619 1332,1586.5 1336.5,1607 1336.5,1617 1334,1619.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472035910,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-23T18:43:42.650Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069653,
+        "value": "* Facade direction: South-West",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:44:04.453Z",
+        "updated": "2020-06-23T18:44:04.453Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069655,
+        "value": "* Religious type: Monastery",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:44:11.772Z",
+        "updated": "2020-06-23T18:44:11.772Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069657,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:44:14.948Z",
+        "updated": "2020-06-23T18:44:14.948Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100208,
+        "value": "* Religious building facade part: Cloister (Interior)",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:12:24.550Z",
+        "updated": "2020-06-24T15:12:24.550Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1312,1576.5 1308,1576.5 1303.5,1569 1303.5,1549 1305,1543.5 1307.5,1545 1312.5,1558 1312,1576.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472035923,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-23T18:44:21.848Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069659,
+        "value": "* Facade direction: South-West",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:44:36.847Z",
+        "updated": "2020-06-23T18:44:36.847Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069661,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:44:45.311Z",
+        "updated": "2020-06-23T18:44:45.311Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069660,
+        "value": "* Religious type: Monastery",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:44:42.523Z",
+        "updated": "2020-06-23T18:44:42.523Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100206,
+        "value": "* Religious building facade part: Cloister (Interior)",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:12:18.829Z",
+        "updated": "2020-06-24T15:12:18.829Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1300,1530.5 1293.5,1530 1294,1508.5 1295.5,1509 1300.5,1522 1300,1530.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472035933,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-23T18:44:57.228Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069663,
+        "value": "* Facade direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:45:24.086Z",
+        "updated": "2020-06-23T18:45:24.086Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069664,
+        "value": "* Religious type: Monastery",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:45:27.918Z",
+        "updated": "2020-06-23T18:45:27.918Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069665,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:45:32.750Z",
+        "updated": "2020-06-23T18:45:32.750Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100203,
+        "value": "* Religious building facade part: Cloister (Interior)",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:12:12.837Z",
+        "updated": "2020-06-24T15:12:12.837Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1293,1530.5 1281.5,1530 1279.5,1520 1280,1508.5 1293.5,1509 1293,1530.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472035948,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-23T18:45:57.546Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069668,
+        "value": "* Religious type: Monastery",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:46:14.052Z",
+        "updated": "2020-06-23T18:46:14.052Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069667,
+        "value": "* Facade direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:46:10.454Z",
+        "updated": "2020-06-23T18:46:10.454Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069669,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:46:39.966Z",
+        "updated": "2020-06-23T18:46:39.966Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100100,
+        "value": "* Religious building facade part: Cloister (Interior)",
+        "purpose": "tagging",
+        "created": "2020-06-24T14:56:12.826Z",
+        "updated": "2020-06-24T14:56:12.826Z",
+        "creator": "edtriplett"
+      },
+      {
+        "id": 90100102,
+        "value": "* Unique?: null",
+        "purpose": "tagging",
+        "created": "2020-06-24T14:56:24.094Z",
+        "updated": "2020-06-24T14:56:24.094Z",
+        "creator": "edtriplett"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1249,1534.5 1230,1534.5 1229.5,1527 1236,1520.5 1241,1520.5 1249.5,1528 1249,1534.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472035958,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-23T18:46:44.417Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069670,
+        "value": "* Facade direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:47:02.623Z",
+        "updated": "2020-06-23T18:47:02.623Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069673,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:47:13.731Z",
+        "updated": "2020-06-23T18:47:13.731Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069672,
+        "value": "* Religious type: Monastery",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:47:10.484Z",
+        "updated": "2020-06-23T18:47:10.484Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100197,
+        "value": "* Religious building facade part: Cloister (Interior)",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:11:38.153Z",
+        "updated": "2020-06-24T15:11:38.153Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1260,1531.5 1251.5,1531 1249.5,1513 1239,1505.5 1228.5,1516 1226,1524.5 1216,1524.5 1215.5,1503 1260,1502.5 1260,1531.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472035963,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-23T18:47:18.817Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069680,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:47:41.838Z",
+        "updated": "2020-06-23T18:47:41.838Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069678,
+        "value": "* Facade direction: South-West",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:47:33.247Z",
+        "updated": "2020-06-23T18:47:33.247Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069679,
+        "value": "* Religious type: Monastery",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:47:36.657Z",
+        "updated": "2020-06-23T18:47:36.657Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100194,
+        "value": "* Religious building facade part: Cloister (Interior)",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:11:32.671Z",
+        "updated": "2020-06-24T15:11:32.671Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1268,1533.5 1262,1533.5 1260.5,1531 1261,1502.5 1263.5,1505 1265.5,1513 1268.5,1527 1268,1533.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472035999,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T18:49:15.748Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069705,
+        "value": "* Roof-plane direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:50:25.404Z",
+        "updated": "2020-06-23T18:50:25.404Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069714,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:51:00.584Z",
+        "updated": "2020-06-23T18:51:00.584Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1229,1610.5 1196,1610.5 1195.5,1597 1229,1596.5 1229,1610.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472036098,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T18:53:27.768Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069730,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:57:42.042Z",
+        "updated": "2020-06-23T18:57:42.042Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069733,
+        "value": "* Roof-plane direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:57:54.242Z",
+        "updated": "2020-06-23T18:57:54.242Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1313,1602.5 1230,1602.5 1229.5,1578 1313,1577.5 1313,1602.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472036244,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T18:58:51.617Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069744,
+        "value": "* Roof-plane direction: East",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:00:14.612Z",
+        "updated": "2020-06-23T19:00:14.612Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069741,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-23T18:59:25.886Z",
+        "updated": "2020-06-23T18:59:25.886Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1294,1578.5 1286,1578.5 1284.5,1576 1279.5,1550 1267.5,1503 1267,1491.5 1280.5,1505 1281.5,1529 1293.5,1569 1294,1578.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472036290,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T19:00:25.323Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069755,
+        "value": "* Roof-plane direction: West",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:01:03.135Z",
+        "updated": "2020-06-23T19:01:03.135Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069751,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:00:54.156Z",
+        "updated": "2020-06-23T19:00:54.156Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1286,1577.5 1279,1577.5 1277.5,1575 1271.5,1548 1272.5,1535 1270,1534.5 1268.5,1532 1261.5,1508 1261.5,1499 1266,1491.5 1268.5,1493 1273.5,1519 1275.5,1523 1286.5,1571 1286,1577.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472037162,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T19:16:33.751Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069816,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:17:00.698Z",
+        "updated": "2020-06-23T19:17:00.698Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069819,
+        "value": "* Roof-plane direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:17:15.504Z",
+        "updated": "2020-06-23T19:17:15.504Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1271,1547.5 1214,1547.5 1213.5,1535 1273,1534.5 1273.5,1541 1271,1547.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472037253,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T19:19:52.351Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069847,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:20:17.559Z",
+        "updated": "2020-06-23T19:20:17.559Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069850,
+        "value": "* Roof-plane direction: East",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:20:27.834Z",
+        "updated": "2020-06-23T19:20:27.834Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1213,1595.5 1210,1595.5 1204.5,1592 1206,1491.5 1209,1492.5 1215.5,1500 1215.5,1548 1213,1595.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472037267,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T19:20:40.163Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069858,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:21:03.666Z",
+        "updated": "2020-06-23T19:21:03.666Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069862,
+        "value": "* Roof-plane direction: West",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:21:12.287Z",
+        "updated": "2020-06-23T19:21:12.287Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1201,1596.5 1198.5,1596 1199.5,1502 1206,1491.5 1205.5,1592 1201,1596.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472037277,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T19:21:18.912Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069871,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:21:47.693Z",
+        "updated": "2020-06-23T19:21:47.693Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069875,
+        "value": "* Roof-plane direction: West",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:21:57.506Z",
+        "updated": "2020-06-23T19:21:57.506Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1182,1621.5 1180.5,1621 1180.5,1600 1185.5,1529 1186.5,1522 1194,1514.5 1196,1514.5 1196.5,1533 1190.5,1607 1189.5,1613 1182,1621.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472037295,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T19:22:21.375Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069887,
+        "value": "* Roof-plane direction: East",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:22:50.298Z",
+        "updated": "2020-06-23T19:22:50.298Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069884,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:22:43.084Z",
+        "updated": "2020-06-23T19:22:43.084Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1195,1618.5 1191,1617.5 1188.5,1615 1188.5,1595 1194.5,1520 1195.5,1514 1198,1513.5 1199.5,1515 1199.5,1577 1198.5,1598 1195.5,1599 1195,1618.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472037313,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T19:23:36.177Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069898,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:24:10.044Z",
+        "updated": "2020-06-23T19:24:10.044Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069901,
+        "value": "* Roof-plane direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:24:19.158Z",
+        "updated": "2020-06-23T19:24:19.158Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1305,1544.5 1286,1544.5 1281.5,1535 1281.5,1531 1305,1530.5 1305,1544.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472037331,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T19:24:25.517Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069908,
+        "value": "* Roof-plane direction: West",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:25:15.809Z",
+        "updated": "2020-06-23T19:25:15.809Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069905,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:24:49.062Z",
+        "updated": "2020-06-23T19:24:49.062Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1313,1557.5 1310.5,1557 1304.5,1545 1304.5,1532 1300.5,1531 1294.5,1513 1294.5,1506 1301,1499.5 1304.5,1501 1313.5,1532 1313,1557.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472037340,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T19:25:22.451Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069913,
+        "value": "* Roof-plane direction: East",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:26:10.027Z",
+        "updated": "2020-06-23T19:26:10.027Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90069911,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:25:47.792Z",
+        "updated": "2020-06-23T19:25:47.792Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1314,1533.5 1311.5,1532 1308.5,1523 1302.5,1503 1303,1498.5 1310.5,1501 1316.5,1516 1316.5,1521 1313.5,1524 1314,1533.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472038415,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T19:26:21.422Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070440,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:26:52.471Z",
+        "updated": "2020-06-23T19:26:52.471Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070442,
+        "value": "* Roof-plane direction: East",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:27:07.817Z",
+        "updated": "2020-06-23T19:27:07.817Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1249,1528.5 1247,1528.5 1237.5,1521 1238,1505.5 1249.5,1511 1249,1528.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472038425,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T19:27:14.949Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070445,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:27:35.602Z",
+        "updated": "2020-06-23T19:27:35.602Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070447,
+        "value": "* Roof-plane direction: West",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:27:44.194Z",
+        "updated": "2020-06-23T19:27:44.194Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1231,1527.5 1227.5,1527 1227.5,1515 1237,1505.5 1237.5,1522 1231,1527.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472038437,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T19:27:57.277Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070451,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:28:17.224Z",
+        "updated": "2020-06-23T19:28:17.224Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070453,
+        "value": "* Roof-plane direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:28:27.089Z",
+        "updated": "2020-06-23T19:28:27.089Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1262,1502.5 1215,1502.5 1206.5,1492 1266,1491.5 1266.5,1495 1262,1502.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472038459,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T19:28:54.783Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070456,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:29:14.690Z",
+        "updated": "2020-06-23T19:29:14.690Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070458,
+        "value": "* Roof-plane direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:29:22.387Z",
+        "updated": "2020-06-23T19:29:22.387Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1295,1507.5 1280,1507.5 1273.5,1498 1302,1497.5 1302.5,1500 1295,1507.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472040299,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-23T19:57:55.946Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070481,
+        "value": "** Notes: See Lisbon notes document for connections to other maps and modern day equivalent estimation",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:59:38.650Z",
+        "updated": "2020-06-23T19:59:38.650Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070482,
+        "value": "URL: https://goo.gl/maps/NxRfYLRUutr1sPpV7",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:00:40.884Z",
+        "updated": "2020-06-23T20:00:40.884Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070480,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:58:40.791Z",
+        "updated": "2020-06-23T19:58:40.791Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070478,
+        "value": "* Religious building facade part: Wall",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:58:18.817Z",
+        "updated": "2020-06-23T19:58:18.817Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070479,
+        "value": "* Religious type: Church (Large)",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:58:30.626Z",
+        "updated": "2020-06-23T19:58:30.626Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070477,
+        "value": "* Facade direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-23T19:58:13.440Z",
+        "updated": "2020-06-23T19:58:13.440Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"402,1609.5 378.5,1609 378.5,1577 390,1566.5 394,1566.5 402.5,1575 402,1609.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472040330,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-23T20:02:06.659Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070486,
+        "value": "* Religious type: Church (Large)",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:04:17.591Z",
+        "updated": "2020-06-23T20:04:17.591Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070488,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:04:27.949Z",
+        "updated": "2020-06-23T20:04:27.949Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070487,
+        "value": "* Religious building facade part: Wall",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:04:22.554Z",
+        "updated": "2020-06-23T20:04:22.554Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070485,
+        "value": "* Facade direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:02:23.789Z",
+        "updated": "2020-06-23T20:02:23.789Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"379,1610.5 365,1610.5 363.5,1607 363.5,1595 372,1585.5 375,1585.5 379.5,1591 379,1610.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472040362,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-23T20:04:36.468Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070492,
+        "value": "* Facade direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:04:50.873Z",
+        "updated": "2020-06-23T20:04:50.873Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070494,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:05:02.630Z",
+        "updated": "2020-06-23T20:05:02.630Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070493,
+        "value": "* Religious type: Church (Large)",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:04:58.283Z",
+        "updated": "2020-06-23T20:04:58.283Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100234,
+        "value": "* Religious building facade part: Wall",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:14:41.129Z",
+        "updated": "2020-06-24T15:14:41.129Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"414,1610.5 401.5,1610 401.5,1591 407,1587.5 410,1587.5 414.5,1593 414,1610.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472040621,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T20:24:43.454Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070506,
+        "value": "* Roof-plane direction: South-East",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:25:24.318Z",
+        "updated": "2020-06-23T20:25:24.318Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070503,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:25:11.053Z",
+        "updated": "2020-06-23T20:25:11.053Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"417,1596.5 414,1596.5 411.5,1594 409.5,1586 422,1573.5 427,1573.5 431.5,1577 431.5,1588 417,1596.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472040635,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T20:25:34.085Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070513,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:26:00.915Z",
+        "updated": "2020-06-23T20:26:00.915Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070515,
+        "value": "* Roof-plane direction: South-East",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:26:09.875Z",
+        "updated": "2020-06-23T20:26:09.875Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"406,1577.5 401,1577.5 390.5,1569 390.5,1566 411,1548.5 415,1548.5 422.5,1556 424.5,1562 406,1577.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472040638,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T20:26:14.679Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070520,
+        "value": "* Roof-plane direction: South-East",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:26:55.999Z",
+        "updated": "2020-06-23T20:26:55.999Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070518,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:26:37.649Z",
+        "updated": "2020-06-23T20:26:37.649Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"427,1560.5 423,1560.5 414.5,1553 414.5,1550 425,1540.5 431,1542.5 437.5,1549 437.5,1552 427,1560.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472040639,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-23T20:27:06.968Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070525,
+        "value": "* Roof-plane direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:27:52.969Z",
+        "updated": "2020-06-23T20:27:52.969Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070523,
+        "value": "* Roof style: Conical",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:27:33.463Z",
+        "updated": "2020-06-23T20:27:33.463Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"385,1543.5 373.5,1543 373.5,1537 377,1527.5 380.5,1530 385.5,1540 385,1543.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472040650,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-23T20:28:11.046Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070528,
+        "value": "* Religious building facade part: Tower",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:28:35.189Z",
+        "updated": "2020-06-23T20:28:35.189Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070527,
+        "value": "* Facade direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:28:31.422Z",
+        "updated": "2020-06-23T20:28:31.422Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070530,
+        "value": "* Religious type: Church (Small)",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:28:52.986Z",
+        "updated": "2020-06-23T20:28:52.986Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070531,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:28:57.209Z",
+        "updated": "2020-06-23T20:28:57.209Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"375,1586.5 373.5,1586 373.5,1544 384,1543.5 384.5,1575 375,1586.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472040664,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-23T20:29:04.588Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070534,
+        "value": "* Religious building facade part: Tower",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:29:29.369Z",
+        "updated": "2020-06-23T20:29:29.369Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070533,
+        "value": "* Facade direction: South-East",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:29:23.373Z",
+        "updated": "2020-06-23T20:29:23.373Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070535,
+        "value": "* Religious type: Church (Large)",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:29:34.608Z",
+        "updated": "2020-06-23T20:29:34.608Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070536,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:29:39.092Z",
+        "updated": "2020-06-23T20:29:39.092Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"386,1573.5 383.5,1573 383.5,1543 389,1542.5 390.5,1549 390.5,1569 386,1573.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472040686,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-23T20:29:45.849Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070540,
+        "value": "* Religious type: Church (Large)",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:30:17.761Z",
+        "updated": "2020-06-23T20:30:17.761Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070539,
+        "value": "* Religious building facade part: Wall",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:30:12.080Z",
+        "updated": "2020-06-23T20:30:12.080Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070538,
+        "value": "* Facade direction: South-East",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:30:06.169Z",
+        "updated": "2020-06-23T20:30:06.169Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070541,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:30:20.962Z",
+        "updated": "2020-06-23T20:30:20.962Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"407,1589.5 402.5,1589 402.5,1576 420,1563.5 422,1563.5 422.5,1575 407,1589.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472040729,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-23T20:31:32.269Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070553,
+        "value": "* Facade direction: South-East",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:31:57.128Z",
+        "updated": "2020-06-23T20:31:57.128Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070559,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:33:17.148Z",
+        "updated": "2020-06-23T20:33:17.148Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070557,
+        "value": "* Religious type: Church (Large)",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:33:13.409Z",
+        "updated": "2020-06-23T20:33:13.409Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070556,
+        "value": "* Religious building facade part: Wall",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:33:09.223Z",
+        "updated": "2020-06-23T20:33:09.223Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"433,1576.5 421.5,1574 421.5,1562 433,1553.5 436,1553.5 436.5,1574 433,1576.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472040746,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-23T20:33:23.389Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070567,
+        "value": "* Facade direction: South-East",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:34:08.838Z",
+        "updated": "2020-06-23T20:34:08.838Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070584,
+        "value": "* Religious type: Church (Large)",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:34:19.000Z",
+        "updated": "2020-06-23T20:34:19.000Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90070585,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-23T20:34:23.300Z",
+        "updated": "2020-06-23T20:34:23.300Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100230,
+        "value": "* Religious building facade part: Wall",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:14:04.485Z",
+        "updated": "2020-06-24T15:14:04.485Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"417,1610.5 414.5,1610 414.5,1596 419,1592.5 430,1589.5 430.5,1599 417,1610.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472626492,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-24T13:58:05.363Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90099910,
+        "value": "* Religious building facade part: Wall",
+        "purpose": "tagging",
+        "created": "2020-06-24T13:58:34.934Z",
+        "updated": "2020-06-24T13:58:34.934Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90099916,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-24T14:00:02.754Z",
+        "updated": "2020-06-24T14:00:02.754Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100402,
+        "value": "** Notes: Not entirely sure that the GM location is the true location. Called the Tem das Chagas in another version of this map. For more info, check Lisbon info doc.",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:41:02.950Z",
+        "updated": "2020-06-24T15:41:02.950Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90099911,
+        "value": "* Religious type: Church (Small)",
+        "purpose": "tagging",
+        "created": "2020-06-24T13:58:44.598Z",
+        "updated": "2020-06-24T13:58:44.598Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90099909,
+        "value": "* Facade direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-24T13:58:24.536Z",
+        "updated": "2020-06-24T13:58:24.536Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100401,
+        "value": "URL: https://goo.gl/maps/TFtJjpg9xSm6znZB7",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:40:35.261Z",
+        "updated": "2020-06-24T15:40:35.261Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"694,1618.5 650,1617.5 649.5,1591 694,1590.5 694,1618.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472630510,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-24T15:19:58.994Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100265,
+        "value": "* Religious building facade part: Tower",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:20:30.978Z",
+        "updated": "2020-06-24T15:20:30.978Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100263,
+        "value": "* Facade direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:20:21.779Z",
+        "updated": "2020-06-24T15:20:21.779Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100271,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:20:58.980Z",
+        "updated": "2020-06-24T15:20:58.980Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100269,
+        "value": "* Unique?: null",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:20:52.975Z",
+        "updated": "2020-06-24T15:20:52.975Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100266,
+        "value": "* Religious type: Church (Large)",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:20:34.835Z",
+        "updated": "2020-06-24T15:20:34.835Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"650,1621.5 631.5,1621 631.5,1561 634.5,1559 634,1550.5 647,1550.5 648.5,1553 650.5,1576 650,1621.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472630540,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-24T15:21:09.480Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100278,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:21:53.662Z",
+        "updated": "2020-06-24T15:21:53.662Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100273,
+        "value": "* Facade direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:21:29.470Z",
+        "updated": "2020-06-24T15:21:29.470Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100275,
+        "value": "* Religious building facade part: Wall",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:21:38.360Z",
+        "updated": "2020-06-24T15:21:38.360Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100277,
+        "value": "* Religious type: Church (Large)",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:21:42.079Z",
+        "updated": "2020-06-24T15:21:42.079Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"631,1616.5 616.5,1616 617,1591.5 631.5,1592 631,1616.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472630559,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-24T15:22:10.224Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100283,
+        "value": "* Facade direction: South-East",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:22:29.809Z",
+        "updated": "2020-06-24T15:22:29.809Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100284,
+        "value": "* Religious building facade part: Apse",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:22:36.435Z",
+        "updated": "2020-06-24T15:22:36.435Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100285,
+        "value": "* Religious type: Church (Large)",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:22:40.061Z",
+        "updated": "2020-06-24T15:22:40.061Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100286,
+        "value": "* Wall shape: Curved",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:22:43.967Z",
+        "updated": "2020-06-24T15:22:43.967Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"701,1619.5 694.5,1619 694.5,1590 712,1589.5 716.5,1594 716.5,1612 709,1617.5 701,1619.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472630574,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-24T15:23:05.365Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100291,
+        "value": "* Religious type: Church (Large)",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:23:32.257Z",
+        "updated": "2020-06-24T15:23:32.257Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100293,
+        "value": "* Unique?: null",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:23:35.518Z",
+        "updated": "2020-06-24T15:23:35.518Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100290,
+        "value": "* Religious building facade part: Tower",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:23:29.457Z",
+        "updated": "2020-06-24T15:23:29.457Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100289,
+        "value": "* Facade direction: South-East",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:23:26.147Z",
+        "updated": "2020-06-24T15:23:26.147Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100294,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:23:41.459Z",
+        "updated": "2020-06-24T15:23:41.459Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"657,1591.5 650.5,1591 649.5,1577 647.5,1575 647.5,1549 651,1546.5 654.5,1547 655.5,1557 657.5,1558 658.5,1590 657,1591.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472630587,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-24T15:23:51.101Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100301,
+        "value": "* Roof style: Flat",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:24:20.881Z",
+        "updated": "2020-06-24T15:24:20.881Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100303,
+        "value": "* Roof-plane direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:24:32.837Z",
+        "updated": "2020-06-24T15:24:32.837Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"694,1590.5 659,1590.5 658.5,1576 694,1575.5 694,1590.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472630819,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-24T15:32:55.249Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100349,
+        "value": "* Roof-plane direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:33:35.329Z",
+        "updated": "2020-06-24T15:33:35.329Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100347,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:33:27.232Z",
+        "updated": "2020-06-24T15:33:27.232Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"631,1592.5 617,1592.5 616.5,1581 631,1580.5 631,1592.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472630838,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-24T15:33:40.350Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100358,
+        "value": "* Roof-plane direction: East",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:36:03.308Z",
+        "updated": "2020-06-24T15:36:03.308Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100354,
+        "value": "* Roof style: Conical",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:34:15.828Z",
+        "updated": "2020-06-24T15:34:15.828Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"711,1590.5 695,1590.5 694.5,1578 701,1579.5 703,1577.5 708,1577.5 711.5,1585 711,1590.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472630877,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-24T15:36:09.827Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100368,
+        "value": "* Unique?: null",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:37:01.572Z",
+        "updated": "2020-06-24T15:37:01.572Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100365,
+        "value": "* Roof style: Hipped",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:36:55.696Z",
+        "updated": "2020-06-24T15:36:55.696Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100367,
+        "value": "* Roof-plane direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:36:59.525Z",
+        "updated": "2020-06-24T15:36:59.525Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"648,1550.5 634,1550.5 633.5,1548 639,1540.5 649,1540.5 650.5,1548 648,1550.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472630905,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-24T15:37:06.315Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100381,
+        "value": "* Roof style: Conical",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:37:57.091Z",
+        "updated": "2020-06-24T15:37:57.091Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100383,
+        "value": "** Notes: Egg shaped roof",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:38:08.257Z",
+        "updated": "2020-06-24T15:38:08.257Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100384,
+        "value": "* Unique?: null",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:38:10.721Z",
+        "updated": "2020-06-24T15:38:10.721Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100387,
+        "value": "* Roof-plane direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:38:16.278Z",
+        "updated": "2020-06-24T15:38:16.278Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"653,1540.5 637,1540.5 635.5,1539 635.5,1529 641,1521.5 647,1521.5 652.5,1528 653,1540.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472630988,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-24T15:41:58.705Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100408,
+        "value": "* Facade direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:42:25.674Z",
+        "updated": "2020-06-24T15:42:25.674Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100896,
+        "value": "* Religious type: Monastery",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:42:48.140Z",
+        "updated": "2020-06-24T15:42:48.140Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100897,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:42:53.503Z",
+        "updated": "2020-06-24T15:42:53.503Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100409,
+        "value": "* Religious building facade part: Wall",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:42:31.223Z",
+        "updated": "2020-06-24T15:42:31.223Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90102005,
+        "value": "** Notes: See Lisbon info doc for more information including possible (unsure) location.",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:59:10.595Z",
+        "updated": "2020-06-24T15:59:10.595Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"154,1687.5 107,1687.5 106.5,1662 170,1661.5 170.5,1686 154,1687.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472631482,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-24T15:43:49.784Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100900,
+        "value": "* Religious building facade part: Wall",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:44:10.111Z",
+        "updated": "2020-06-24T15:44:10.111Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100899,
+        "value": "* Facade direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:44:06.885Z",
+        "updated": "2020-06-24T15:44:06.885Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100902,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:44:18.702Z",
+        "updated": "2020-06-24T15:44:18.702Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100901,
+        "value": "* Religious type: Monastery",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:44:14.624Z",
+        "updated": "2020-06-24T15:44:14.624Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"181,1690.5 170.5,1690 171,1661.5 190.5,1662 190.5,1670 182.5,1683 181,1690.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472631487,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-24T15:44:25.644Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100904,
+        "value": "* Facade direction: South-East",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:44:44.094Z",
+        "updated": "2020-06-24T15:44:44.094Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100905,
+        "value": "* Religious building facade part: Cloister (Interior)",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:44:48.328Z",
+        "updated": "2020-06-24T15:44:48.328Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100907,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:44:55.070Z",
+        "updated": "2020-06-24T15:44:55.070Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100906,
+        "value": "* Religious type: Monastery",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:44:51.439Z",
+        "updated": "2020-06-24T15:44:51.439Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"145,1645.5 132,1645.5 131.5,1633 150.5,1608 154,1606.5 154.5,1630 145,1645.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472631499,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-24T15:45:00.170Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100910,
+        "value": "* Religious building facade part: Cloister (Interior)",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:45:18.904Z",
+        "updated": "2020-06-24T15:45:18.904Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100909,
+        "value": "* Facade direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:45:15.186Z",
+        "updated": "2020-06-24T15:45:15.186Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100912,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:45:25.492Z",
+        "updated": "2020-06-24T15:45:25.492Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100911,
+        "value": "* Religious type: Monastery",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:45:22.009Z",
+        "updated": "2020-06-24T15:45:22.009Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"181,1627.5 154,1627.5 153.5,1607 192,1606.5 192.5,1610 181,1627.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472631507,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-24T15:45:34.437Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100916,
+        "value": "* Religious building facade part: Cloister (Exterior)",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:45:57.108Z",
+        "updated": "2020-06-24T15:45:57.108Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100918,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:46:04.053Z",
+        "updated": "2020-06-24T15:46:04.053Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100915,
+        "value": "* Facade direction: South-East",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:45:53.903Z",
+        "updated": "2020-06-24T15:45:53.903Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100917,
+        "value": "* Religious type: Monastery",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:46:00.737Z",
+        "updated": "2020-06-24T15:46:00.737Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"205,1653.5 201.5,1652 200,1647.5 190,1647.5 189.5,1644 214.5,1609 218,1607.5 218.5,1636 205,1653.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472631520,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-24T15:46:09.567Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100922,
+        "value": "* Religious type: Monastery",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:46:53.963Z",
+        "updated": "2020-06-24T15:46:53.963Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100921,
+        "value": "* Religious building facade part: Tower",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:46:46.251Z",
+        "updated": "2020-06-24T15:46:46.251Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100925,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:47:05.751Z",
+        "updated": "2020-06-24T15:47:05.751Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90100920,
+        "value": "* Facade direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:46:40.295Z",
+        "updated": "2020-06-24T15:46:40.295Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"129,1650.5 115.5,1650 115.5,1620 117.5,1619 118,1615.5 128,1615.5 129.5,1619 129,1650.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472631538,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-24T15:47:11.906Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90101948,
+        "value": "* Facade direction: South-East",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:47:27.712Z",
+        "updated": "2020-06-24T15:47:27.712Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90101950,
+        "value": "* Religious type: Monastery",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:47:34.292Z",
+        "updated": "2020-06-24T15:47:34.292Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90101949,
+        "value": "* Religious building facade part: Tower",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:47:31.663Z",
+        "updated": "2020-06-24T15:47:31.663Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90101951,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:47:37.531Z",
+        "updated": "2020-06-24T15:47:37.531Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"131,1649.5 128.5,1649 127.5,1644 127,1615.5 132.5,1616 132.5,1648 131,1649.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472632569,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-24T15:47:43.575Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90101963,
+        "value": "** Notes: Round base thins with height, sort of convex shape",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:49:49.880Z",
+        "updated": "2020-06-24T15:49:49.880Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90101959,
+        "value": "* Roof style: Conical",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:48:25.807Z",
+        "updated": "2020-06-24T15:48:25.807Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90101962,
+        "value": "* Unique?: null",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:48:51.906Z",
+        "updated": "2020-06-24T15:48:51.906Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90101960,
+        "value": "* Roof-plane direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:48:29.435Z",
+        "updated": "2020-06-24T15:48:29.435Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"132,1615.5 117.5,1615 117.5,1608 119.5,1606 120.5,1600 121.5,1584 123,1582.5 126,1582.5 128.5,1585 128.5,1603 133.5,1611 132,1615.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472632614,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-24T15:49:59.844Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90101968,
+        "value": "* Roof-plane direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:50:31.256Z",
+        "updated": "2020-06-24T15:50:31.256Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90101967,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:50:26.787Z",
+        "updated": "2020-06-24T15:50:26.787Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"197,1661.5 106,1660.5 105.5,1653 107,1649.5 128,1650.5 131,1645.5 200,1645.5 201.5,1659 197,1661.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472632628,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-24T15:50:34.767Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90101973,
+        "value": "* Roof-plane direction: East",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:51:01.523Z",
+        "updated": "2020-06-24T15:51:01.523Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90101972,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:50:56.669Z",
+        "updated": "2020-06-24T15:50:56.669Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"190,1645.5 174,1645.5 173.5,1643 205.5,1595 209,1594.5 218.5,1604 218.5,1608 190,1645.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472632798,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-24T15:55:15.000Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90101984,
+        "value": "* Roof-plane direction: West",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:55:45.282Z",
+        "updated": "2020-06-24T15:55:45.282Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90101983,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:55:40.309Z",
+        "updated": "2020-06-24T15:55:40.309Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"175,1645.5 167,1645.5 166.5,1643 191.5,1607 205,1595.5 205.5,1598 202.5,1603 175,1645.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472632813,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-24T15:55:48.719Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90101989,
+        "value": "* Roof-plane direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:56:23.073Z",
+        "updated": "2020-06-24T15:56:23.073Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90101988,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:56:19.618Z",
+        "updated": "2020-06-24T15:56:19.618Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"194,1605.5 153,1605.5 148.5,1599 147.5,1594 209.5,1594 201,1598.5 194,1605.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472632828,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-24T15:56:26.132Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90101994,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:56:49.060Z",
+        "updated": "2020-06-24T15:56:49.060Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90101996,
+        "value": "* Roof-plane direction: East",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:56:56.223Z",
+        "updated": "2020-06-24T15:56:56.223Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"135,1631.5 132.5,1631 132.5,1611 144.5,1595 148,1593.5 152.5,1600 153.5,1608 135,1631.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472632846,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-24T15:56:59.033Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90102001,
+        "value": "* Roof-plane direction: West",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:57:20.119Z",
+        "updated": "2020-06-24T15:57:20.119Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90102000,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-24T15:57:16.791Z",
+        "updated": "2020-06-24T15:57:16.791Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"135,1611.5 130.5,1610 130.5,1605 138,1595.5 145,1593.5 145.5,1596 135,1611.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472874584,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-24T18:28:28.650Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209164,
+        "value": "URL: https://goo.gl/maps/Sta9vsE5xpFB5rbv9",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:30:09.506Z",
+        "updated": "2020-06-24T18:30:09.506Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209159,
+        "value": "* Facade direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:28:43.911Z",
+        "updated": "2020-06-24T18:28:43.911Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209160,
+        "value": "* Religious building facade part: Wall",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:28:48.288Z",
+        "updated": "2020-06-24T18:28:48.288Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209161,
+        "value": "* Religious type: Church (Small)",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:28:53.176Z",
+        "updated": "2020-06-24T18:28:53.176Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209162,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:28:57.234Z",
+        "updated": "2020-06-24T18:28:57.234Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209163,
+        "value": "** Notes: See Lisbon Info doc",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:29:15.729Z",
+        "updated": "2020-06-24T18:29:15.729Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"2394,1566.5 2336,1566.5 2335.5,1535 2394,1534.5 2394,1566.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472874592,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-24T18:30:25.895Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209167,
+        "value": "* Religious building facade part: Tower",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:30:49.557Z",
+        "updated": "2020-06-24T18:30:49.557Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209166,
+        "value": "* Facade direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:30:44.533Z",
+        "updated": "2020-06-24T18:30:44.533Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209168,
+        "value": "* Religious type: Church (Small)",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:30:54.136Z",
+        "updated": "2020-06-24T18:30:54.136Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209169,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:30:58.113Z",
+        "updated": "2020-06-24T18:30:58.113Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"2408,1566.5 2393.5,1566 2394,1503.5 2408.5,1504 2408,1566.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472874595,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-24T18:31:05.410Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209173,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:31:34.321Z",
+        "updated": "2020-06-24T18:31:34.321Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209174,
+        "value": "* Roof-plane direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:31:38.726Z",
+        "updated": "2020-06-24T18:31:38.726Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"2393,1534.5 2336,1534.5 2336.5,1514 2393,1513.5 2393,1534.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472874601,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-24T18:31:43.582Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209181,
+        "value": "* Roof-plane direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:33:23.496Z",
+        "updated": "2020-06-24T18:33:23.496Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209179,
+        "value": "* Unique?: null",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:33:04.864Z",
+        "updated": "2020-06-24T18:33:04.864Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209180,
+        "value": "** Notes: Has cross on top of roof",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:33:18.976Z",
+        "updated": "2020-06-24T18:33:18.976Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209178,
+        "value": "* Roof style: Conical",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:32:56.193Z",
+        "updated": "2020-06-24T18:32:56.193Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"2409,1503.5 2393.5,1503 2393.5,1500 2399.5,1487 2397,1486.5 2395.5,1483 2399,1476.5 2404,1476.5 2408.5,1480 2406.5,1490 2409.5,1498 2409,1503.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472874613,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-24T18:33:32.589Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209183,
+        "value": "* Facade direction: South-East",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:33:45.543Z",
+        "updated": "2020-06-24T18:33:45.543Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209184,
+        "value": "* Religious building facade part: Tower",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:33:48.281Z",
+        "updated": "2020-06-24T18:33:48.281Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209185,
+        "value": "* Religious type: Church (Small)",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:33:51.847Z",
+        "updated": "2020-06-24T18:33:51.847Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209186,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:33:56.659Z",
+        "updated": "2020-06-24T18:33:56.659Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"2414,1546.5 2408.5,1546 2409,1503.5 2413.5,1504 2414,1546.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472874886,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-24T18:53:02.425Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209188,
+        "value": "* Facade direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:53:21.241Z",
+        "updated": "2020-06-24T18:53:21.241Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209190,
+        "value": "* Religious type: Church (Small)",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:53:28.661Z",
+        "updated": "2020-06-24T18:53:28.661Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209191,
+        "value": "* Wall shape: Curved",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:53:36.664Z",
+        "updated": "2020-06-24T18:53:36.664Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209192,
+        "value": "URL: https://goo.gl/maps/BksU2fMFrRqnJP45A",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:53:45.985Z",
+        "updated": "2020-06-24T18:53:45.985Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209189,
+        "value": "* Religious building facade part: Tower",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:53:24.221Z",
+        "updated": "2020-06-24T18:53:24.221Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209237,
+        "value": "** Notes: See Lisbon info doc",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:02:23.675Z",
+        "updated": "2020-06-24T19:02:23.675Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1361,1704.5 1356,1704.5 1346.5,1698 1347,1636.5 1356,1639.5 1362,1636.5 1365.5,1637 1364.5,1702 1361,1704.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472874890,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-24T18:54:31.093Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209196,
+        "value": "* Religious type: Church (Small)",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:55:54.569Z",
+        "updated": "2020-06-24T18:55:54.569Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209197,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:55:58.096Z",
+        "updated": "2020-06-24T18:55:58.096Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209195,
+        "value": "* Religious building facade part: Wall",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:55:50.256Z",
+        "updated": "2020-06-24T18:55:50.256Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209194,
+        "value": "* Facade direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:55:46.829Z",
+        "updated": "2020-06-24T18:55:46.829Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1331,1703.5 1312.5,1703 1313,1669.5 1346.5,1670 1346.5,1696 1345,1695.5 1340,1698.5 1336,1693.5 1332.5,1696 1331,1703.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472874892,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-24T18:56:03.711Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209204,
+        "value": "* Wall shape: Curved",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:56:34.415Z",
+        "updated": "2020-06-24T18:56:34.415Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209202,
+        "value": "* Religious type: Church (Small)",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:56:23.397Z",
+        "updated": "2020-06-24T18:56:23.397Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209203,
+        "value": "* Religious building facade part: Apse",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:56:29.591Z",
+        "updated": "2020-06-24T18:56:29.591Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209201,
+        "value": "* Facade direction: South-East",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:56:18.693Z",
+        "updated": "2020-06-24T18:56:18.693Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1367,1701.5 1364.5,1701 1364.5,1671 1376,1670.5 1376.5,1694 1367,1701.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472874896,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-24T18:56:54.440Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209211,
+        "value": "* Facade direction: South-West",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:58:10.028Z",
+        "updated": "2020-06-24T18:58:10.028Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209212,
+        "value": "* Religious type: Church (Small)",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:58:14.738Z",
+        "updated": "2020-06-24T18:58:14.738Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209213,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:58:19.021Z",
+        "updated": "2020-06-24T18:58:19.021Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209217,
+        "value": "* Religious building facade part: Westwork",
+        "purpose": "tagging",
+        "created": "2020-06-24T18:59:10.479Z",
+        "updated": "2020-06-24T18:59:10.479Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1312,1704.5 1308.5,1702 1303.5,1690 1303.5,1658 1305.5,1656 1306,1647.5 1311.5,1648 1312,1704.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472874932,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-24T18:59:53.017Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209231,
+        "value": "* Roof-plane direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:00:21.095Z",
+        "updated": "2020-06-24T19:00:21.095Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209230,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:00:18.566Z",
+        "updated": "2020-06-24T19:00:18.566Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1346,1669.5 1312,1669.5 1311.5,1653 1346,1652.5 1346,1669.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472874934,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-24T19:00:31.170Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209235,
+        "value": "* Roof style: Domed",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:01:13.540Z",
+        "updated": "2020-06-24T19:01:13.540Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209236,
+        "value": "* Roof-plane direction: East",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:01:23.467Z",
+        "updated": "2020-06-24T19:01:23.467Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1378,1670.5 1365.5,1670 1366,1654.5 1370,1656.5 1371,1653.5 1375,1653.5 1377.5,1656 1376.5,1663 1378,1670.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472874942,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-24T19:02:38.909Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209243,
+        "value": "* Roof-plane direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:03:24.410Z",
+        "updated": "2020-06-24T19:03:24.410Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209242,
+        "value": "** Notes: Topped with cross",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:03:19.999Z",
+        "updated": "2020-06-24T19:03:19.999Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209244,
+        "value": "* Unique?: null",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:03:28.798Z",
+        "updated": "2020-06-24T19:03:28.798Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209241,
+        "value": "* Roof style: Conical",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:03:13.716Z",
+        "updated": "2020-06-24T19:03:13.716Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1362,1639.5 1351,1639.5 1346.5,1638 1346.5,1632 1350.5,1626 1352.5,1614 1352.5,1611 1349.5,1610 1349.5,1605 1352.5,1603 1353,1598.5 1359,1598.5 1360,1602.5 1363.5,1603 1363.5,1610 1360.5,1611 1360.5,1614 1365.5,1630 1365.5,1637 1362,1639.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472875988,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-24T19:32:58.796Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209260,
+        "value": "** Notes: See Lisbon info doc. Likely though not guaranteed URL location",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:34:43.822Z",
+        "updated": "2020-06-24T19:34:43.822Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209264,
+        "value": "* Religious building facade part: Wall + Buttress",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:35:32.559Z",
+        "updated": "2020-06-24T19:35:32.559Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209263,
+        "value": "* Facade direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:35:28.497Z",
+        "updated": "2020-06-24T19:35:28.497Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209261,
+        "value": "URL: https://goo.gl/maps/chcqiqSUWhMrhHTm6",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:34:49.507Z",
+        "updated": "2020-06-24T19:34:49.507Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209265,
+        "value": "* Religious type: Monastery",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:35:36.856Z",
+        "updated": "2020-06-24T19:35:36.856Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209266,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:35:43.662Z",
+        "updated": "2020-06-24T19:35:43.662Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1415,1119.5 1405,1119.5 1402,1115.5 1400,1115.5 1397,1119.5 1387,1118.5 1381,1110.5 1364,1112.5 1361,1118.5 1339,1116.5 1329,1118.5 1322,1110.5 1314.5,1113 1314,1119.5 1309,1119.5 1304,1118.5 1299,1110.5 1286,1112.5 1284,1117.5 1277,1117.5 1272,1110.5 1257,1109.5 1256.5,1054 1420,1053.5 1420.5,1114 1415,1119.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472875999,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-24T19:35:48.148Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209270,
+        "value": "* Religious type: Monastery",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:36:10.776Z",
+        "updated": "2020-06-24T19:36:10.776Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209268,
+        "value": "* Facade direction: South-West",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:36:05.496Z",
+        "updated": "2020-06-24T19:36:05.496Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209271,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:36:15.587Z",
+        "updated": "2020-06-24T19:36:15.587Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209269,
+        "value": "* Religious building facade part: Westwork",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:36:07.751Z",
+        "updated": "2020-06-24T19:36:07.751Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1256,1106.5 1252.5,1105 1240.5,1090 1239.5,1084 1236.5,1083 1227.5,1068 1227.5,1046 1229.5,1046 1239,1059.5 1240.5,1042 1249,1030.5 1252.5,1032 1256.5,1047 1256,1106.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472876053,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-24T19:36:48.176Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209274,
+        "value": "* Religious building facade part: Cloister (Interior)",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:37:12.862Z",
+        "updated": "2020-06-24T19:37:12.862Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209275,
+        "value": "* Religious type: Monastery",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:37:15.976Z",
+        "updated": "2020-06-24T19:37:15.976Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209276,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:37:19.373Z",
+        "updated": "2020-06-24T19:37:19.373Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209273,
+        "value": "* Facade direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:37:08.610Z",
+        "updated": "2020-06-24T19:37:08.610Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1387,1038.5 1369,1038.5 1368.5,1028 1386,1028.5 1387.5,1032 1387,1038.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472876283,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-24T19:37:25.217Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209278,
+        "value": "* Facade direction: South-West",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:37:46.236Z",
+        "updated": "2020-06-24T19:37:46.236Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209280,
+        "value": "* Religious type: Monastery",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:37:52.590Z",
+        "updated": "2020-06-24T19:37:52.590Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209281,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:37:55.623Z",
+        "updated": "2020-06-24T19:37:55.623Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209279,
+        "value": "* Religious building facade part: Cloister (Interior)",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:37:49.287Z",
+        "updated": "2020-06-24T19:37:49.287Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1395,1038.5 1388,1038.5 1386.5,1037 1387,1027.5 1389,1027.5 1394.5,1034 1395,1038.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472876508,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-24T19:38:02.554Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209287,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:38:25.681Z",
+        "updated": "2020-06-24T19:38:25.681Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209286,
+        "value": "* Religious type: Monastery",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:38:23.051Z",
+        "updated": "2020-06-24T19:38:23.051Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209285,
+        "value": "* Religious building facade part: Cloister (Interior)",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:38:20.224Z",
+        "updated": "2020-06-24T19:38:20.224Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209284,
+        "value": "* Facade direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:38:16.305Z",
+        "updated": "2020-06-24T19:38:16.305Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1320,1028.5 1287,1028.5 1286.5,1023 1320,1022.5 1320,1028.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472876682,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-24T19:38:29.801Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209290,
+        "value": "* Religious building facade part: Cloister (Interior)",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:38:46.733Z",
+        "updated": "2020-06-24T19:38:46.733Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209291,
+        "value": "* Religious type: Monastery",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:38:50.655Z",
+        "updated": "2020-06-24T19:38:50.655Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209292,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:38:54.156Z",
+        "updated": "2020-06-24T19:38:54.156Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209289,
+        "value": "* Facade direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:38:41.981Z",
+        "updated": "2020-06-24T19:38:41.981Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1267,1027.5 1254,1027.5 1253.5,1023 1264,1022.5 1267.5,1024 1267,1027.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472876890,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-24T19:38:59.682Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209295,
+        "value": "* Religious building facade part: Tower",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:39:39.051Z",
+        "updated": "2020-06-24T19:39:39.051Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209297,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:39:46.421Z",
+        "updated": "2020-06-24T19:39:46.421Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209294,
+        "value": "* Facade direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:39:36.261Z",
+        "updated": "2020-06-24T19:39:36.261Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209296,
+        "value": "* Religious type: Monastery",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:39:42.211Z",
+        "updated": "2020-06-24T19:39:42.211Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1367,1040.5 1353.5,1040 1354,1004.5 1367.5,1005 1367,1040.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472876944,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Religious building part",
+        "created": "2020-06-24T19:39:53.209Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209302,
+        "value": "* Wall shape: Straight",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:40:17.120Z",
+        "updated": "2020-06-24T19:40:17.120Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209301,
+        "value": "* Religious type: Monastery",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:40:12.403Z",
+        "updated": "2020-06-24T19:40:12.403Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209299,
+        "value": "* Facade direction: South-West",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:40:06.902Z",
+        "updated": "2020-06-24T19:40:06.902Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209300,
+        "value": "* Religious building facade part: Tower",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:40:09.724Z",
+        "updated": "2020-06-24T19:40:09.724Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1354,1039.5 1351.5,1038 1348.5,1032 1349,1000.5 1354.5,1003 1354,1039.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472876972,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-24T19:41:55.904Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209307,
+        "value": "* Roof-plane direction: South-West",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:42:34.175Z",
+        "updated": "2020-06-24T19:42:34.175Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209306,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:42:28.955Z",
+        "updated": "2020-06-24T19:42:28.955Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1240,1058.5 1238,1058.5 1226.5,1047 1226.5,1041 1232,1029.5 1235.5,1031 1240.5,1041 1240,1058.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472876974,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-24T19:42:40.454Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209313,
+        "value": "* Roof-plane direction: West",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:44:26.039Z",
+        "updated": "2020-06-24T19:44:26.039Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209312,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:44:14.958Z",
+        "updated": "2020-06-24T19:44:14.958Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1242,1040.5 1237.5,1038 1230.5,1025 1230.5,1019 1238,1007.5 1240,1007.5 1241.5,1010 1246.5,1029 1246.5,1036 1242,1040.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472876978,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-24T19:44:30.857Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209317,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:44:55.041Z",
+        "updated": "2020-06-24T19:44:55.041Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209318,
+        "value": "* Roof-plane direction: East",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:45:01.080Z",
+        "updated": "2020-06-24T19:45:01.080Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1250,1031.5 1246,1031.5 1244.5,1029 1240.5,1014 1241,1007.5 1251.5,1019 1251.5,1030 1250,1031.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472876980,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-24T19:45:11.279Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209322,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:45:43.277Z",
+        "updated": "2020-06-24T19:45:43.277Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209324,
+        "value": "* Roof-plane direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:45:50.659Z",
+        "updated": "2020-06-24T19:45:50.659Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1421,1053.5 1256,1053.5 1251.5,1029 1349,1028.5 1356,1040.5 1367,1039.5 1368,1037.5 1407,1037.5 1414,1041.5 1419.5,1047 1421.5,1050 1421,1053.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472877006,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-24T19:46:19.549Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209325,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:46:30.148Z",
+        "updated": "2020-06-24T19:46:30.148Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209330,
+        "value": "* Roof-plane direction: West",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:46:52.114Z",
+        "updated": "2020-06-24T19:46:52.114Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1277,1028.5 1267.5,1028 1267.5,1021 1274,1013.5 1276,1013.5 1277.5,1017 1277,1028.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472877007,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-24T19:46:55.275Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209334,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:47:19.778Z",
+        "updated": "2020-06-24T19:47:19.778Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209335,
+        "value": "* Roof-plane direction: East",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:47:23.089Z",
+        "updated": "2020-06-24T19:47:23.089Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1286,1028.5 1276.5,1028 1277,1013.5 1279,1013.5 1286.5,1019 1286,1028.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472877009,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-24T19:47:26.730Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209340,
+        "value": "* Roof-plane direction: West",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:47:53.711Z",
+        "updated": "2020-06-24T19:47:53.711Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209339,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:47:47.721Z",
+        "updated": "2020-06-24T19:47:47.721Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1329,1028.5 1319.5,1028 1319.5,1020 1327,1012.5 1329.5,1013 1329,1028.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472877014,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-24T19:49:51.652Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209344,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:50:13.525Z",
+        "updated": "2020-06-24T19:50:13.525Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209345,
+        "value": "* Roof-plane direction: East",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:50:17.810Z",
+        "updated": "2020-06-24T19:50:17.810Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1341,1028.5 1329.5,1028 1330,1012.5 1334,1014.5 1341.5,1022 1341,1028.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472877015,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-24T19:50:21.554Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209349,
+        "value": "* Roof style: Pyramidal",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:51:08.189Z",
+        "updated": "2020-06-24T19:51:08.189Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209350,
+        "value": "* Roof-plane direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:51:15.095Z",
+        "updated": "2020-06-24T19:51:15.095Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1369,1005.5 1354,1005.5 1350.5,1001 1350.5,997 1353.5,993 1354.5,988 1356.5,965 1358,961.5 1361.5,963 1364.5,992 1369.5,1002 1369,1005.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472877019,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-24T19:51:33.660Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209354,
+        "value": "* Roof style: Pyramidal",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:52:04.340Z",
+        "updated": "2020-06-24T19:52:04.340Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209355,
+        "value": "* Roof-plane direction: South-West",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:52:09.480Z",
+        "updated": "2020-06-24T19:52:09.480Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1415,1041.5 1411,1041.5 1404.5,1038 1404.5,1022 1408,1014.5 1410.5,1015 1415.5,1023 1415,1041.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472877027,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-24T19:52:19.788Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209359,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:52:43.175Z",
+        "updated": "2020-06-24T19:52:43.175Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209360,
+        "value": "* Roof-plane direction: South-West",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:52:48.423Z",
+        "updated": "2020-06-24T19:52:48.423Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1404,1037.5 1395,1037.5 1388.5,1030 1388.5,1023 1392,1015.5 1395,1015.5 1404.5,1023 1404,1037.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472877039,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-24T19:53:46.823Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209364,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:54:06.916Z",
+        "updated": "2020-06-24T19:54:06.916Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209365,
+        "value": "* Roof-plane direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:54:10.042Z",
+        "updated": "2020-06-24T19:54:10.042Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1389,1027.5 1368,1027.5 1367.5,1017 1374,1015.5 1391,1015.5 1391.5,1022 1389,1027.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 472877042,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Roof",
+        "created": "2020-06-24T19:54:14.235Z",
+        "updated": "2020-06-30T12:58:41.461Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209370,
+        "value": "* Roof-plane direction: South",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:54:51.220Z",
+        "updated": "2020-06-24T19:54:51.220Z",
+        "creator": "emma.rand"
+      },
+      {
+        "id": 90209369,
+        "value": "* Roof style: Gabled",
+        "purpose": "tagging",
+        "created": "2020-06-24T19:54:47.782Z",
+        "updated": "2020-06-24T19:54:47.782Z",
+        "creator": "emma.rand"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1349,1022.5 1340,1022.5 1330,1013.5 1327,1013.5 1320.5,1020 1320,1022.5 1286,1022.5 1285.5,1019 1278,1014.5 1273,1015.5 1268,1022.5 1251,1022.5 1250.5,1019 1243.5,1010 1349,1009.5 1349,1022.5\" /></svg>"
+      }
+    }
+  },
+  {
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "id": 475968692,
+    "body": [
+      {
+        "purpose": "classifying",
+        "value": "Numbered location in a key",
+        "created": "2020-06-30T12:58:41.230Z",
+        "updated": "2020-06-30T13:04:03.531Z",
+        "creator": "sehorewood"
+      }
+    ],
+    "target": {
+      "source": "Merian_Lisbon_38.jpg",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"2564,1571\" /></svg>"
+      }
+    }
+  }
+]
